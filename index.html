@@ -12,16 +12,57 @@
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/common.css">
     <title>Jeu de rôle - Voyage en Terre Runique</title>
 </head>
 <body>
-    <img src="files/images/logo.png">
-    <h1>Hello World !</h1>
+    <header id="header">
+        <a class="nav-link" href="index.html">
+            <img src="files/images/logo.png" id="logo">
+        </a>
+        <nav class="navbar" id="sticky-header">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">ACCUEIL</a>
+                </li>
+                <li class="separator"></li>
+                <li class="nav-item">
+                    <a class="nav-link" href="ressources-de-jeu.html">RESSOURCES DE JEU</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="scenarios.html">SCÉNARIOS JOUABLES</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <h1>Accueil</h1>
+    <!--
     <a href="files/downloadables/le_territoire_de_la_sorciere.zip" download="Le Territoire de la Sorcière">
         TELECHARGER UWU
     </a> 
     <button type="button" class="btn btn-primary">Test</button>
-    <a href="ressources-de-jeu.html">Ressources de jeu</a>
-    <a href="scenarios.html">Scenarios</a>
+    -->
+
+    
+    <script>
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function() {myFunction()};
+
+        // Get the header
+        var header = document.getElementById("sticky-header");
+
+        // Get the offset position of the navbar
+        var sticky = header.offsetTop;
+
+        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+        if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+        } else {
+            header.classList.remove("sticky");
+        }
+        } 
+    </script>
 </body>
 </html>
