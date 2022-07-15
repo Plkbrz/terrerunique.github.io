@@ -11,6 +11,14 @@ body {
     width: 100%;
 }
 
+* {
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 #logo {
     height: 140px;
     width: 402px;
@@ -36,12 +44,27 @@ ul, li {
 
 .navbar .navbar-nav {
     height: 50px;
-    width: 100%;
-    padding: 0% 25%;
+}
 
+.nav-logo {
+    width: 34%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar-nav {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    width: 66%;
+}
+
+#sticky-header {
+    display: flex;
+    flex-direction: row;
+
+    padding-right: 25%;
 }
 
 .navbar-nav li {
@@ -72,14 +95,34 @@ ul, li {
     color: white;
     text-decoration: none;
     font-size: 17px;
-    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#minilogo {
+    padding: 3px 10px;
+}
+
+#minilogo:hover {
+    filter: hue-rotate(180deg);
+    -webkit-filter: hue-rotate(180deg);
+}
+
+#minilogotext {
+    padding-top: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#minilogotext:hover {
+    color: rgb(0, 162, 255);
+    text-decoration: none;
+    font-size: 17px;
 }
 
 .nav-item a:hover {
     color: rgb(0, 162, 255);
     text-decoration: none;
     font-size: 17px;
-    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .sticky {
@@ -88,6 +131,9 @@ ul, li {
     width: 100%
 }
 
+.currentpage {
+    font-weight: bold;
+}
 
 
 
