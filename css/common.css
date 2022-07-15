@@ -52,7 +52,7 @@ ul, li {
 }
 
 .nav-logo {
-    width: 34%;
+    width: 30%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -62,7 +62,9 @@ ul, li {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    width: 66%;
+    width: 70%;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 #sticky-header {
@@ -94,6 +96,7 @@ ul, li {
 
     height: 80%;
     margin: 5px 0px;
+    margin-right: 10% !important;
 }
 
 .nav-item a {
@@ -124,22 +127,42 @@ ul, li {
     font-size: 17px;
 }
 
+
 .sticky {
     position: fixed;
     top: 0;
     width: 100%
 }
 
-.currentpage {
+.currentpage .nav-link{
     font-weight: bold;
-}
 
-.nav-item:hover {
     border-bottom: var(--violet-plkbrz);
     border-bottom-style: solid;
-    border-bottom-width: 2px;
+    border-bottom-width: 4px;
 }
 
+
+.notcurrent:after {
+    border-bottom: var(--violet-plkbrz);
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    width: 80%;
+    margin-left: 10%;
+
+    display:block;
+    content: '';
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+}
+
+.notcurrent:hover:after {
+    transform: scaleX(1);
+}
+
+.invisible {
+    pointer-events: none !important;
+}
 
 h1 {
     color: wheat;
