@@ -11,6 +11,7 @@ body {
     background-attachment: fixed;
 
     background-color: black;
+    color: white;
 
     height: 100%;
     width: 100%;
@@ -164,7 +165,30 @@ ul, li {
     pointer-events: none !important;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+footer:before {
+    content: '';
+    display: block;
+
+    width: 40%;
+    margin-bottom: 15px;
+
+    border-top: white;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.footer-text {
+    margin: 0%;
+}
+
 h1 {
     color: wheat;
-    height: 5000px;
+    height: 1000px;
 }
