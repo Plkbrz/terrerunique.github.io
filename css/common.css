@@ -1,3 +1,8 @@
+:root {
+    --nav-grey: #242323;
+    --violet-plkbrz: #9357AF;
+}
+
 body {
     background-image: url("../files/images/background.jpg");
     background-size: cover;
@@ -37,7 +42,7 @@ ul, li {
 }
 
 .navbar {
-    background-color: #242323;
+    background-color: var(--nav-grey);
     width: 100%;
     height: 50px;
 }
@@ -113,14 +118,8 @@ ul, li {
     font-size: 17px;
 }
 
-#minilogotext:hover {
-    color: rgb(0, 162, 255);
-    text-decoration: none;
-    font-size: 17px;
-}
-
 .nav-item a:hover {
-    color: rgb(0, 162, 255);
+    color: var(--violet-plkbrz);
     text-decoration: none;
     font-size: 17px;
 }
@@ -135,7 +134,11 @@ ul, li {
     font-weight: bold;
 }
 
-
+.nav-item:hover {
+    border-bottom: var(--violet-plkbrz);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
 
 
 h1 {

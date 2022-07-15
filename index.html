@@ -22,12 +22,12 @@
         </a>
         <nav class="navbar" id="sticky-header">
             <a class="nav-logo" href="index.html">
-                <img src="files/images/minilogo.png" id="minilogo" height=50>
-                <p id="minilogotext">Voyage en Terre Runique</p>
+                <img src="files/images/minilogo.png" id="minilogo" height=50 class="invisible">
+                <p id="minilogotext" class="invisible">Voyages en Terre Runique</p>
             </a>
             <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link currentpage" href="index.html">ACCUEIL</a>
+                <li class="nav-item currentpage">
+                    <a class="nav-link" href="index.html">ACCUEIL</a>
                 </li>
                 <li class="separator"></li>
                 <li class="nav-item">
@@ -66,10 +66,13 @@
         function myFunction() {
         if (window.pageYOffset > sticky) {
             header.classList.add("sticky");
+        } else {
+            header.classList.remove("sticky");
+        }
+        if (header.classList.contains('sticky')) {
             minilogo.classList.remove("invisible");
             minilogotext.classList.remove("invisible");
         } else {
-            header.classList.remove("sticky");
             minilogo.classList.add("invisible");
             minilogotext.classList.add("invisible");
         }
