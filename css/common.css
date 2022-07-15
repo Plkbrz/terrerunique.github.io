@@ -26,7 +26,7 @@ a:hover {
 }
 
 #logo {
-    height: 140px;
+    height: 119px;
     width: 402px;
 
     margin: 15px 0px;
@@ -186,6 +186,14 @@ footer:before {
 
 .footer-text {
     margin: 0%;
+}
+
+#content {
+    padding-top: 85px;
+}
+
+.headernotfixed {
+    padding-top: 0px !important;
 }
 
 h1 {
