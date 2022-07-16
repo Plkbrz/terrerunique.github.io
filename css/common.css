@@ -1,5 +1,6 @@
 :root {
     --nav-grey: #242323;
+    --nav-grey-hover: rgb(41, 41, 41);
     --violet-plkbrz: #9357AF;
 }
 
@@ -52,58 +53,24 @@ ul, li {
     height: 50px;
 }
 
-.navbar .navbar-nav {
-    height: 50px;
-}
 
-.nav-logo {
-    width: 30%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.navbar-nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 70%;
-    padding-top: 2px;
-    padding-bottom: 2px;
-}
 
 #sticky-header {
     display: flex;
     flex-direction: row;
 
-    padding-right: 25%;
+    height: 50px;
+    margin: 0%;
+    padding: 0%;
 }
 
-.navbar-nav li {
-    
-    width: fit-content;
-
-    margin-right: 2%;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.navbar-nav li.nav-item {
+.container-fluid {
+    width: 100%;
     height: 100%;
+
+    padding: 0%;
 }
 
-.separator {
-    height: 80%;
-    margin-right: 0% !important;
-}
-
-.nav-item a {
-    color: white;
-    text-decoration: none;
-    font-size: 17px;
-}
 
 #minilogo {
     padding: 3px 10px;
@@ -121,8 +88,14 @@ ul, li {
     font-size: 17px;
 }
 
+.nav-item a {
+    color: white !important;
+    text-decoration: none;
+    font-size: 17px;
+}
+
 .nav-item a:hover {
-    color: var(--violet-plkbrz);
+    color: var(--violet-plkbrz) !important;
     text-decoration: none;
     font-size: 17px;
 }
@@ -134,31 +107,7 @@ ul, li {
     width: 100%
 }
 
-.currentpage .nav-link{
-    font-weight: bold;
 
-    border-bottom: var(--violet-plkbrz);
-    border-bottom-style: solid;
-    border-bottom-width: 4px;
-}
-
-
-.notcurrent:after {
-    border-bottom: var(--violet-plkbrz);
-    border-bottom-style: solid;
-    border-bottom-width: 4px;
-    width: 80%;
-    margin-left: 10%;
-
-    display:block;
-    content: '';
-    transform: scaleX(0);  
-    transition: transform 250ms ease-in-out;
-}
-
-.notcurrent:hover:after {
-    transform: scaleX(1);
-}
 
 .invisible {
     pointer-events: none !important;
@@ -208,4 +157,176 @@ h1 {
     text-align: center;
 
     margin-bottom: 35px;
+}
+
+
+
+
+
+@media (min-width: 992px) {
+    .navbar .navbar-nav {
+        height: 50px;
+    }
+    
+    .nav-logo {
+        width: 25%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 70%;
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+
+    .navbar-nav li {
+    
+        width: fit-content;
+    
+        margin-right: 2%;
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .navbar-nav li.nav-item {
+        height: 100%;
+    }
+    
+    .separator {
+        height: 80%;
+        margin-right: 0% !important;
+    }
+    
+
+    .currentpage .nav-link{
+    font-weight: bold;
+
+    border-bottom: var(--violet-plkbrz);
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    }
+
+    .notcurrent:after {
+        border-bottom: var(--violet-plkbrz);
+        border-bottom-style: solid;
+        border-bottom-width: 4px;
+        width: 80%;
+        margin-left: 10%;
+
+        display:block;
+        content: '';
+        transform: scaleX(0);  
+        transition: transform 250ms ease-in-out;
+    }
+
+    .notcurrent:hover:after {
+        transform: scaleX(1);
+    }
+
+}
+
+.nav-item:hover {
+    background-color: var(--nav-grey-hover);
+}
+
+@media (max-width: 991px) {
+    .nav-logo {
+        height: 50px;
+        width: 75%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .nav-link {
+        width: fit-content;
+    }
+
+    .currentpage .nav-link{
+        font-weight: bold;
+
+    }
+
+    .currentpage .nav-link:after{
+        display: block;
+        content: '';
+        border-bottom: var(--violet-plkbrz);
+        border-bottom-style: solid;
+        border-bottom-width: 4px;
+    }
+
+    .notcurrent .nav-link:after {
+        border-bottom: var(--violet-plkbrz);
+        border-bottom-style: solid;
+        border-bottom-width: 4px;
+
+        display:block;
+        content: '';
+        transform: scaleX(0);  
+        transform-origin:  0% 0%;
+        transition: transform 250ms ease-in-out;
+    }
+
+    .notcurrent:hover .nav-link:after {
+        transform: scaleX(1);
+        transform-origin:  0% 50%;
+    }
+
+
+
+    .separator {
+        display: none;
+    }
+
+    .borgar-container {
+        width: 20%;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        padding-right: 2%;
+    }
+
+    #navbarNav {
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        padding-left: 60%;
+    }
+
+    .navbar-nav {
+        width: 100%;
+        
+        padding-bottom: 10px;
+        background-color: var(--nav-grey);
+        border-top: 1px solid rgb(88, 88, 88);
+    }
+
+    .nav-item {
+        padding-left: 6%;
+    }
+
+    .nav-link {
+        margin: 5px 0%;
+    }
+
+    
+}
+
+@media (max-width: 749px) {
+    #navbarNav {
+        padding-left: 55%;
+    }
+}
+
+@media (max-width: 449px) {
+    #navbarNav {
+        padding-left: 0%;
+    }
 }
