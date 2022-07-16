@@ -144,11 +144,11 @@ footer:before {
     display: flex;
     flex-direction: column;
     
-    padding: 84px 10% 0% 10%;
+    padding: 100px 10% 0% 10%;
 }
 
 .headernotfixed {
-    padding-top: 0px !important;
+    padding-top: 50px !important;
 }
 
 h1 {
