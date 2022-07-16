@@ -162,7 +162,7 @@ p.title {
 }
 
 .author.palkiabraz:before {
-    margin: 0px 20% 15px 20%;
+    margin: 0px 30% 15px 30%;
 }
 
 .author.palkiabraz:after {
@@ -189,7 +189,7 @@ p.title {
     font-size: 26px;
     text-align: center;
     margin-top: 0px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .remerciements.text {
