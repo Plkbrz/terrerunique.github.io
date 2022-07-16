@@ -94,7 +94,7 @@ p.title {
     margin: 0px 2px;
 }
 
-.link-icon.github, .link-icon.linkedin {
+.link-icon.github, .link-icon.linkedin, .link-icon.carrd, .link-icon.instagram {
     margin: 0px 5px;
 }
 
@@ -128,6 +128,19 @@ p.title {
 .link.linkedin:hover .link-text, .link.linkedin:hover .link-icon.linkedin {
     filter: invert(25%) sepia(86%) saturate(5610%) hue-rotate(187deg) brightness(95%) contrast(102%);
 }
+
+.link.carrd:hover .link-text, .link.carrd:hover .link-icon.carrd {
+    filter: invert(94%) sepia(12%) saturate(5338%) hue-rotate(284deg) brightness(101%) contrast(80%);
+}
+
+.link.instagram:hover .link-text {
+    filter: invert(35%) sepia(30%) saturate(4985%) hue-rotate(6deg) brightness(100%) contrast(107%);
+}
+
+.link.instagram:hover .link-icon.instagram {
+    filter: invert(18%) sepia(92%) saturate(3759%) hue-rotate(329deg) brightness(85%) contrast(88%);
+}
+
 
 .link {
     margin: 5px;
@@ -176,9 +189,22 @@ p.title {
     font-size: 26px;
     text-align: center;
     margin-top: 0px;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
+}
+
+.remerciements.text {
+    margin: 0% 0% 15px 0%;
+    font-size: 20px;
 }
 
 .remerciements .author {
     width: 100%;
+}
+
+.misucookie {
+    padding-right: 10%;
+}
+
+.kuuroneko {
+    padding-left: 10%;
 }
