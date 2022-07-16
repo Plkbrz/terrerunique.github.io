@@ -208,3 +208,60 @@ p.title {
 .kuuroneko {
     padding-left: 10%;
 }
+
+@media only screen and (max-width: 992px) {
+    .author.palkiabraz {
+        flex-direction: column;
+        align-items: center;
+    }
+    .author.palkiabraz:before, .author.palkiabraz:after {
+        content: '';
+        display: block;
+    
+        border-bottom: white;
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+
+        width: 40%;
+    }
+    
+    .author.palkiabraz:before {
+        margin: 0px 30% 15px 30%;
+    }
+    
+    .author.palkiabraz:after {
+        margin: 45px 30% 15px 30%;
+    }
+    .author .title {
+        text-align: center;
+    }
+    .author .main-block {
+        justify-content: center;
+    }
+    .remerciements {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .remerciements.title {
+        font-size: 26px;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .remerciements.text {
+        margin: 0% 0% 15px 0%;
+        font-size: 20px;
+    }
+    .remerciements .author {
+        width: 100%;
+    }
+    .misucookie {
+        padding-right: 0%;
+    }
+    .kuuroneko {
+        padding-left: 0%;
+    }
+}

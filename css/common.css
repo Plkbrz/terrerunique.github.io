@@ -330,3 +330,7 @@ h1 {
         padding-left: 0%;
     }
 }
+
+@media (pointer:none), (pointer:coarse) {
+    
+}
