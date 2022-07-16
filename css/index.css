@@ -209,6 +209,10 @@ p.title {
     padding-left: 10%;
 }
 
+.img-mobile *, .img-mobile {
+    display: none;
+}
+
 @media only screen and (max-width: 992px) {
     .author.palkiabraz {
         flex-direction: column;
