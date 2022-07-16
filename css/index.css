@@ -149,7 +149,7 @@ p.title {
 }
 
 .paragraph.main-block {
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 
 .author.palkiabraz:before, .author.palkiabraz:after {
@@ -162,7 +162,7 @@ p.title {
 }
 
 .author.palkiabraz:before {
-    margin: 45px 20% 15px 20%;
+    margin: 0px 20% 15px 20%;
 }
 
 .author.palkiabraz:after {
