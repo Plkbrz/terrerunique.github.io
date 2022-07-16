@@ -13,7 +13,7 @@
     text-align: justify;
 }
 
-.image-container {
+#content .floated-images .image-container {
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -36,4 +36,108 @@
 
 .p-margin-top {
     margin-top: 45px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p.title {
+    font-size: 21px;
+}
+
+.author {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.author .main-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    padding-left: 3%;
+
+}
+
+.author.palkiabraz .main-block .image-container {
+    width: 185px;
+    height: 185px;
+    margin-right: 20px;
+}
+
+.links-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    margin-bottom: 20px;
+}
+
+.links-container .link {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+.link-icon {
+    filter: invert(95%) sepia(5%) saturate(20%) hue-rotate(263deg) brightness(106%) contrast(107%);
+} 
+
+.link-icon.discord {
+    margin: 0px 3px;
+}
+
+.link-icon.twitter {
+    margin: 0px 2px;
+}
+
+.link:hover {
+    background-color: rgba(69, 69, 69, 0.324);
+    border-radius: 5px;
+}
+
+.link.discord:hover .link-icon.discord {
+    filter: invert(67%) sepia(91%) saturate(2855%) hue-rotate(199deg) brightness(90%) contrast(88%);
+}
+
+.link.gmail:hover .link-icon.gmail {
+    filter: invert(37%) sepia(45%) saturate(6976%) hue-rotate(346deg) brightness(93%) contrast(90%);
+}
+
+.link.twitter:hover .link-icon.twitter {
+    filter: invert(50%) sepia(95%) saturate(1625%) hue-rotate(175deg) brightness(97%) contrast(96%);
+}
+
+.link-text {
+    margin-left: 10px;
+    color: black;
+    filter: invert(95%) sepia(5%) saturate(20%) hue-rotate(263deg) brightness(106%) contrast(107%);
+}
+
+.link.discord:hover .link-text {
+    filter: invert(67%) sepia(91%) saturate(2855%) hue-rotate(199deg) brightness(90%) contrast(88%);
+    font-weight: bold;
+}
+
+.link.gmail:hover .link-text {
+    filter: invert(37%) sepia(45%) saturate(6976%) hue-rotate(346deg) brightness(93%) contrast(90%);
+    font-weight: bold;
+}
+
+.link.twitter:hover .link-text{
+    filter: invert(50%) sepia(95%) saturate(1625%) hue-rotate(175deg) brightness(97%) contrast(96%);
+    font-weight: bold;
+}
+
+.link {
+    margin: 5px;
+    width: fit-content;
+    padding: 10px;
+}
+
+.paragraph.main-block {
+    margin-bottom: 45px;
 }
