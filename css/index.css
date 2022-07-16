@@ -1,0 +1,39 @@
+.floated-images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 350px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.main-block {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+    margin-bottom: 6px;
+
+}
+
+.paysage-1, .pasyage-3 {
+    justify-content: flex-start;
+}
+
+.paysage-2 {
+    justify-content: flex-end;
+}
+
+.main-block p {
+    margin-bottom: 0px;
+}
+
+.p-margin-top {
+    margin-top: 45px;
+}

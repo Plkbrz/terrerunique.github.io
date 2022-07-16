@@ -173,6 +173,7 @@ footer:before {
 
     width: 40%;
     margin-bottom: 15px;
+    margin-top: 55px;
 
     border-top: white;
     border-top-style: solid;
@@ -183,8 +184,13 @@ footer:before {
     margin: 0%;
 }
 
+
 #content {
-    padding-top: 85px;
+    
+    display: flex;
+    flex-direction: column;
+    
+    padding: 84px 10% 0% 10%;
 }
 
 .headernotfixed {
@@ -192,6 +198,9 @@ footer:before {
 }
 
 h1 {
-    color: wheat;
-    height: 1000px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+
+    margin-bottom: 35px;
 }
