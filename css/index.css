@@ -43,7 +43,7 @@ strong {
 }
 
 p.title {
-    font-size: 21px;
+    font-size: 26px;
 }
 
 .author {
@@ -140,4 +140,16 @@ p.title {
 
 .paragraph.main-block {
     margin-bottom: 45px;
+}
+
+.paragraph.main-block:after {
+    content: '';
+    display: block;
+
+    margin: 45px 20% 35px 20%;
+
+
+    border-bottom: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 }
