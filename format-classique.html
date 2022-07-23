@@ -99,17 +99,50 @@
                 });
             });
     </script>
+    <!--script>
+        // Function to change background size "cover" to
+        // either "100vw auto" (100 percent of viewport
+        // width and automatic height)
+        // or "auto 100vh" (automatic width and 100
+        // percent of viewport height).
+        fixBackgroundSizeCover = function(event) {
+
+        var bgImageWidth = 1920,
+        bgImageHeight = 1080,
+        bgImageRatio = bgImageWidth / bgImageHeight,
+        windowSizeRatio = window.innerWidth / window.innerHeight;
+
+        if (bgImageRatio > windowSizeRatio) {
+        document.body.style.backgroundSize = 'auto 100vh';
+        } else {
+        document.body.style.backgroundSize = '100vw auto';
+        }
+        };
+
+        // Execute the fix function once upon load
+        fixBackgroundSizeCover();
+
+        // Execute the fix function everytime on window resize
+        window.addEventListener('resize', fixBackgroundSizeCover);
+
+        // A test button to toggle body vertical scrollbar on and off
+        document.getElementById('toggle-body-vertical-scrollbar-btn').addEventListener('click', function(event) {
+        if(document.body.classList.contains('force-scrollbar')) {
+            document.body.classList.remove('force-scrollbar');
+        } else {
+            document.body.classList.add('force-scrollbar');
+        }
+        });
+    </script-->
     <script>
         function champ_search() {
             var text;
             var filter = $('#fieldChamp').val().toUpperCase();
-            console.log("FILTER : " + filter);
             for (var i = 0; i < $('.champion').length; i++) {
                 text = "";
                 $('#champion-' + i + ' .champ-search').each(function() {
                     text+= $(this).text() + " ";
                 });
-                console.log("TEXT : " + text);
                 if (text.toUpperCase().indexOf(filter) > -1) {
                     $('#champion-' + i).show();
                 } else {

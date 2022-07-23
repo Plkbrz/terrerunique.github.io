@@ -19,6 +19,18 @@ body {
 
     height: 100%;
     width: 100%;
+
+    
+}
+
+#content {
+    min-height: 70vh;
+}
+
+#navbarNav {
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: row;
 }
 
 * {
