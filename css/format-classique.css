@@ -3,13 +3,13 @@
     background-color: var(--search-grey-bg);
     border-radius: 10px 0 0 10px;
     border-top: 2px solid var(--search-grey-border);
-    border-bottom: 2px solid var(--violet-plkbrz) !important;
+    border-bottom: 4px solid var(--violet-plkbrz) !important;
     border-right: 2px solid var(--search-grey-border);
     border-left: 2px solid var(--search-grey-border);
 }
 
 .form-control {
-    border-bottom: 2px solid var(--violet-plkbrz) !important;
+    border-bottom: 4px solid var(--violet-plkbrz) !important;
     border-right: 2px solid var(--search-grey-border);
     border-left: none;
     border-top: 2px solid var(--search-grey-border);
@@ -76,5 +76,86 @@
 #fieldChamp {
     padding-top: 10px !important;
     padding-bottom: 10px !important;
+    width: 60%;
+}
 
+#champion-list {
+    padding: 25px 12.5%;
+}
+
+.champion {
+    background-color: var(--search-grey-bg);
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 10px;
+    border: 2px solid var(--search-grey-border);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.champion-header {
+    width: 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 5px;
+    margin-right: 5px;
+
+    border-right: 2px solid var(--search-grey-border);
+}
+
+.champion-name {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.champion-spell-nom {
+    font-size: 22px;
+}
+
+.champion-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-left: 25px;
+}
+
+.champion-spell {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-right: 25px;
+}
+
+.champion-spell-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+
+.champion-spell-icone {
+    border: 2px solid black;
+    box-shadow: 0 0 5px #000000;
+    height: 55px;
+    margin-right: 15px;
+}
+
+.champion-spell-header {
+    margin-bottom: 15px;
+}
+
+.champion-spell-desc {
+    text-align: left;
+    width: 100%;
 }
