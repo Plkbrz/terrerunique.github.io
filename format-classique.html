@@ -53,18 +53,33 @@
     <div id="content" class="headernotfixed">
         <h1>Format Classique</h1>
         <h2>A venir...</h>
-        <!--
-        <a href="files/downloadables/le_territoire_de_la_sorciere.zip" download="Le Territoire de la Sorcière">
-            TELECHARGER UWU
-        </a> 
-        <button type="button" class="btn btn-primary">Test</button>
-        -->
+
     </div>
 
     <footer>
         <p class="footer-text">“Voyages en Terre Runique” a été créé en vertu de la politique juridique Riot Games intitulée “Jargon juridique” relative à l'utilisation d'actifs de Riot Games.</p>
         <p class="footer-text">Riot Games ne soutient ni ne sponsorise ce projet.</p>
     </footer>
+
+    <script>
+        $(document).ready(function() {	   
+                $.getJSON('https://terrerunique.github.io/files/data/champions.json', function(champion) {
+                    $.each(champion, function(i, champ) {
+                        $('#content').append('<div class="champion">'+ 
+                            '<img src="' + champ.iconechamp + '" alt="Icone de ' + champ.nomchamp + '" class="champion-icone">'+
+                            '<div class="champion-info">'+
+                            '<h3 class="champion-name">' + champ.nomchamp + '</h3>'+
+                            '<p class="champion-spell-1">' + champ.nomsort1 + '</p>'+
+                            '<p class="champion-desc-spell-1">' + champ.descsort1 + '</p>'+
+                            '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-icone-spell-1">'+
+                            '<p class="champion-spell-2">' + champ.nomsort2 + '</p>'+
+                            '<p class="champion-desc-spell-2">' + champ.descsort2 + '</p>'+
+                            '<img src="' + champ.iconesort2 + '" alt="Icone du sort ' + champ.nomsort2 + '" class="champion-icone-spell-2">'+
+                            '</div></div>');
+                    });
+                });
+            });
+    </script>
 
     <script>
         // When the user scrolls the page, execute stickOnScroll
