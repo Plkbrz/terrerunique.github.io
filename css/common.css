@@ -2,6 +2,9 @@
     --nav-grey: #242323;
     --nav-grey-hover: rgb(41, 41, 41);
     --violet-plkbrz: #9357AF;
+    --search-grey-bg: rgba(41, 41, 41, 0.5);
+    --search-grey-bg-focus: rgba(31, 31, 31, 0.894);
+    --search-grey-border: rgba(41, 41, 41, 0.755);
 }
 
 body {

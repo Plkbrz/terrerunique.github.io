@@ -562,14 +562,14 @@
     },
     {
         "nomchamp": "Kai'Sa",
-        "nomchamplower": "kai'sa",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kai'sa.webp",
+        "nomchamplower": "kai_sa",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kai_sa.webp",
         "nomsort1": "Pluie d'Icathia",
         "descsort1": "Inflige 1DAD avec des dégâts répartis de manière voulue entre les ennemis. À 10 de Force, inflige 1DAD + 6 à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kai'sa1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kai_sa1.webp",
         "nomsort2": "Surpresseur",
         "descsort2": "Confère +1 Vitesse d'Attaque pendant un tour. À 10 de Force, Kai'Sa ne peut pas être attaquée par les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kai'sa2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kai_sa2.webp"
     },
     {
         "nomchamp": "Kalista",

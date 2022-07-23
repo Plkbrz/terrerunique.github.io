@@ -7,7 +7,7 @@
         <!-- Latest compiled and minified CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/format-classique.css">
     <title>Voyages en Terre Runique</title>
     <link rel="icon" href="files/images/icon.png">
     <meta name="description" content="Voyages en Terre Runique">
@@ -52,8 +52,12 @@
     
     <div id="content" class="headernotfixed">
         <h1>Format Classique</h1>
-        <h2>A venir...</h>
-
+        <h2>En développement !</h2>
+        <form class="form-inline d-flex justify-content-center md-form form-sm mt-0">
+            <img id="fieldChampIcon" class="search" src="files/images/magnifying-glass.png">
+            <input id="fieldChamp" class="form-control form-control-sm ml-3 w-75" type="text" placeholder="Rechercher un champion" aria-label="Search">
+          </form>
+        <div id="champion-list"></div>
     </div>
 
     <footer>
@@ -61,25 +65,33 @@
         <p class="footer-text">Riot Games ne soutient ni ne sponsorise ce projet.</p>
     </footer>
 
-    <!--script>
+    <script>
         $(document).ready(function() {	   
                 $.getJSON('https://terrerunique.github.io/files/data/champions.json', function(champion) {
                     $.each(champion, function(i, champ) {
-                        $('#content').append('<div class="champion">'+ 
-                            '<img src="' + champ.iconechamp + '" alt="Icone de ' + champ.nomchamp + '" class="champion-icone">'+
-                            '<div class="champion-info">'+
-                            '<h3 class="champion-name">' + champ.nomchamp + '</h3>'+
-                            '<p class="champion-spell-1">' + champ.nomsort1 + '</p>'+
-                            '<p class="champion-desc-spell-1">' + champ.descsort1 + '</p>'+
-                            '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-icone-spell-1">'+
-                            '<p class="champion-spell-2">' + champ.nomsort2 + '</p>'+
-                            '<p class="champion-desc-spell-2">' + champ.descsort2 + '</p>'+
-                            '<img src="' + champ.iconesort2 + '" alt="Icone du sort ' + champ.nomsort2 + '" class="champion-icone-spell-2">'+
-                            '</div></div>');
+                        $('#champion-list').append(
+                            '<div class="champion">'+ 
+                                '<div class="champion-header">'+
+                                    '<img src="' + champ.iconechamp + '" alt="Icone de ' + champ.nomchamp + '" class="champion-icone">'+
+                                    '<h3 class="champion-name">' + champ.nomchamp + '</h3>'+
+                                '</div>'+
+                                '<div class="champion-content">'+
+                                    '<div class="champion-spell-1">'+
+                                        '<p class="champion-spell-1-nom">' + champ.nomsort1 + '</p>'+
+                                        '<p class="champion-spell-1-desc">' + champ.descsort1 + '</p>'+
+                                        '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-spell-1-icone">'+
+                                    '</div>'+
+                                    '<div class="champion-spell-2">'+
+                                        '<p class="champion-spell-2-nom">' + champ.nomsort2 + '</p>'+
+                                        '<p class="champion-spell-2-desc">' + champ.descsort2 + '</p>'+
+                                        '<img src="' + champ.iconesort2 + '" alt="Icone du sort ' + champ.nomsort2 + '" class="champion-spell-2-icone">'+
+                                    '</div>'+
+                                '</div>'+
+                            '</div>');
                     });
                 });
             });
-    </script-->
+    </script>
 
     <script>
         // When the user scrolls the page, execute stickOnScroll
@@ -113,6 +125,14 @@
                 content.classList.add("headernotfixed");
             }
         } 
+    </script>
+    <script>
+          $('#fieldChamp').focus(function() {
+                $('#fieldChampIcon').addClass('focused');
+          }).
+          blur(function() {
+                $('#fieldChampIcon').removeClass('focused');
+          });
     </script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
