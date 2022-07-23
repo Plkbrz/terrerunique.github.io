@@ -1,1612 +1,1290 @@
 [
     {
         "nomchamp": "Aatrox",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Aatrox_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180612203801",
+        "nomchamplower": "aatrox",
         "nomsort1": "Épée des Darkin",
         "descsort1": "Inflige 1DAD à un ennemi. Peut être relancé sans coût jusqu'à deux fois si le sort précédent est réussi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Aatrox_The_Darkin_Blade.png/revision/latest?cb=20210827172951",
         "nomsort2": "Fossoyeur des mondes (Ultime)",
-        "descsort2": "Les attaques d'Aatrox rendent des Points de Vie équivalents aux dégâts infligés pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Aatrox_World_Ender.png/revision/latest?cb=20210827173023"
+        "descsort2": "Les attaques d'Aatrox rendent des Points de Vie équivalents aux dégâts infligés pendant deux tours"
     },
     {
         "nomchamp": "Ahri",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Ahri_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215212",
+        "nomchamplower": "ahri",
         "nomsort1": "Orbe d'illusion",
         "descsort1": "Inflige 1DAP + 1 à un ennemi, puis la moitié des dégâts infligés au tour suivant",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Ahri_Orb_of_Deception.png/revision/latest?cb=20210827173513",
         "nomsort2": "Assaut spirituel (Ultime)",
-        "descsort2": "Les sorts de Ahri se lancent deux fois pendant trois tours. Confère +1 Vitesse d'Attaque pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Ahri_Spirit_Rush.png/revision/latest?cb=20210827173545"
+        "descsort2": "Les sorts de Ahri se lancent deux fois pendant trois tours. Confère +1 Vitesse d'Attaque pendant un tour"
     },
     {
         "nomchamp": "Akali",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Akali_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180726202056",
+        "nomchamplower": "akali",
         "nomsort1": "Vague de kunais",
         "descsort1": "Inflige 1DAD + 5 et confère -1 Vitesse d'Attaque à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Akali_Five_Point_Strike.png/revision/latest?cb=20210827173852",
         "nomsort2": "Linceul ténébreux",
-        "descsort2": "Empêche Akali d'être attaquée pendant deux tours sauf si elle attaque",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Akali_Twilight_Shroud.png/revision/latest?cb=20210827174246"
+        "descsort2": "Empêche Akali d'être attaquée pendant deux tours sauf si elle attaque"
     },
     {
         "nomchamp": "Akshan",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Akshan_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20210707203330",
+        "nomchamplower": "akshan",
         "nomsort1": "Cavalier seul",
         "descsort1": "Instantané. Empêche un autre allié de mourir",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Akshan_Going_Rogue.png/revision/latest?cb=20210827174804",
         "nomsort2": "Bien mérité ! (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi pour chaque tour où Akshan n'a pas attaqué",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Akshan_Comeuppance.png/revision/latest?cb=20210827174710"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi pour chaque tour où Akshan n'a pas attaqué"
     },
     {
         "nomchamp": "Alistar",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Alistar_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215238",
+        "nomchamplower": "alistar",
         "nomsort1": "Coup de tête",
         "descsort1": "Inflige 1DAD à un ennemi et le désarme pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Alistar_Headbutt.png/revision/latest?cb=20210827175017",
         "nomsort2": "Piétinement",
-        "descsort2": "Inflige 1DAD à un ennemi et l'immobilise pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Alistar_Trample.png/revision/latest?cb=20210827175115"
+        "descsort2": "Inflige 1DAD à un ennemi et l'immobilise pendant un tour"
     },
     {
         "nomchamp": "Amumu",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215322",
+        "nomchamplower": "amumu",
         "nomsort1": "Jet de bandelette",
         "descsort1": "Immobilise un ennemi et l'oblige à attaquer Amumu pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_Bandage_Toss.png/revision/latest?cb=20210827175339",
         "nomsort2": "Malédiction d'Amumu (Ultime)",
-        "descsort2": "Immobilise, réduit au silence et désarme tous les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Amumu_Curse_of_the_Sad_Mummy.png/revision/latest?cb=20210827175410"
+        "descsort2": "Immobilise, réduit au silence et désarme tous les ennemis pendant un tour"
     },
     {
         "nomchamp": "Anivia",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Anivia_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20151218185051",
+        "nomchamplower": "anivia",
         "nomsort1": "Cristallisation",
         "descsort1": "Sépare le champ de bataille de manière souhaitée pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Anivia_Crystallize.png/revision/latest?cb=20160420184144",
         "nomsort2": "Tempête glaciale (Ultime)                        ",
-        "descsort2": "Inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Anivia_Glacial_Storm.png/revision/latest?cb=20160420184324"
+        "descsort2": "Inflige 1DAP à tous les ennemis"
     },
     {
         "nomchamp": "Annie",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Annie_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150404100758",
+        "nomchamplower": "annie",
         "nomsort1": "Désintégration",
         "descsort1": "Inflige 1DAP + 1 à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Annie_Disintegrate.png/revision/latest?cb=20130929122652",
         "nomsort2": "Invocation : Tibbers (Ultime)",
-        "descsort2": "Invoque Tibbers. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Annie_Summon-_Tibbers.png/revision/latest?cb=20170818001022"
+        "descsort2": "Invoque Tibbers. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Aphelios",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Aphelios_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200304070938",
+        "nomchamplower": "aphelios",
         "nomsort1": "Compétences d'armes",
         "descsort1": "Utilise une arme parmi les cinq disponibles pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Aphelios_Weapons_of_the_Faithful.png/revision/latest?cb=20191213190207",
         "nomsort2": "Veille au clair de lune (Ultime)",
-        "descsort2": "Inflige 1DAD à un ennemi et applique un effet supplémentaire en fonction de l'arme équipée.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Aphelios_Moonlight_Vigil.png/revision/latest?cb=20191213190035"
+        "descsort2": "Inflige 1DAD à un ennemi et applique un effet supplémentaire en fonction de l'arme équipée."
     },
     {
         "nomchamp": "Ashe",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ashe_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215403",
+        "nomchamplower": "ashe",
         "nomsort1": "Salve",
         "descsort1": "Inflige 1DAD + 1 ou confère -1 Vitesse d'Attaque à tous les ennemis",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Ashe_Volley.png/revision/latest?cb=20170818001157",
         "nomsort2": "Flèche de cristal enchantée (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi et réduit sa Vitesse d'Attaque à 0 pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Ashe_Enchanted_Crystal_Arrow.png/revision/latest?cb=20170818001107"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi et réduit sa Vitesse d'Attaque à 0 pendant un tour"
     },
     {
         "nomchamp": "Aurelion Sol",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Aurelion_Sol_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160308215107",
+        "nomchamplower": "aurelion sol",
         "nomsort1": "Centre de l'univers",
         "descsort1": "Consomme un point d'Intelligence pour gagner une étoile orbitante, jusqu'à cinq étoiles maximum",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Aurelion_Sol_Center_of_the_Universe.png/revision/latest?cb=20170818001249",
         "nomsort2": "Stellogénèse",
-        "descsort2": "Inflige 1DAP + 1 par étoile consommée à un ennemi et l'immobilise et le désarme pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Aurelion_Sol_Starsurge.png/revision/latest?cb=20170818001342"
+        "descsort2": "Inflige 1DAP + 1 par étoile consommée à un ennemi et l'immobilise et le désarme pendant un tour"
     },
     {
         "nomchamp": "Azir",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Azir_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215409",
+        "nomchamplower": "azir",
         "nomsort1": "Dresse-toi !",
         "descsort1": "Consomme un point de Charisme pour invoquer un soldat de sable. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Azir_Arise%21.png/revision/latest?cb=20171201215426",
         "nomsort2": "Partition impériale (Ultime)",
-        "descsort2": "Inflige 1DAP + 1 par soldat de sable à un ennemi et empêche toute attaque contre Azir pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Azir_Emperor%27s_Divide.png/revision/latest?cb=20170818001445"
+        "descsort2": "Inflige 1DAP + 1 par soldat de sable à un ennemi et empêche toute attaque contre Azir pendant un tour"
     },
     {
         "nomchamp": "Bard",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Bard_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215420",
+        "nomchamplower": "bard",
         "nomsort1": "Instict du voyageur",
         "descsort1": "La prochaine attaque d'un autre allié inflige +1D6 supplémentaire",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Bard_Traveler%27s_Call.png/revision/latest?cb=20150224202801",
         "nomsort2": "Destin tempéré (Ultime)",
-        "descsort2": "Empêche les personnages choisis d'attaquer et d'être attaqué pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Bard_Tempered_Fate.png/revision/latest?cb=20150224202956"
+        "descsort2": "Empêche les personnages choisis d'attaquer et d'être attaqué pendant un tour"
     },
     {
         "nomchamp": "Bel'Veth",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Bel%27VethSquare.png/revision/latest/scale-to-width-down/96?cb=20220525213855",
+        "nomchamplower": "bel_veth",
         "nomsort1": "Charge du Néant",
         "descsort1": "Inflige 1DAD + 1 à un ennemi différent jusqu'à quatre fois. Ne peut pas être relancé sur le même ennemi pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Bel%27Veth_Void_Surge.png/revision/latest?cb=20220524153412",
         "nomsort2": "Maelström impérial",
-        "descsort2": "Inflige 1DAD à l'ennemi ayant perdu le plus de Points de Vie. Recommence quatre fois",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Bel%27Veth_Royal_Maelstrom.png/revision/latest?cb=20220524153407"
+        "descsort2": "Inflige 1DAD à l'ennemi ayant perdu le plus de Points de Vie. Recommence quatre fois"
     },
     {
         "nomchamp": "Blitzcrank",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215457",
+        "nomchamplower": "blitzcrank",
         "nomsort1": "Grappin propulsé",
         "descsort1": "Immobilise un ennemi et l'oblige à attaquer Blitzcrank pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_Rocket_Grab.png/revision/latest?cb=20171223024951",
         "nomsort2": "Champ de stase (Ultime)",
-        "descsort2": "Inflige 1DAP à tous les ennemis et les réduit au silence pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Blitzcrank_Static_Field.png/revision/latest?cb=20171223025004"
+        "descsort2": "Inflige 1DAP à tous les ennemis et les réduit au silence pendant un tour"
     },
     {
         "nomchamp": "Brand",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Brand_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215533",
+        "nomchamplower": "brand",
         "nomsort1": "Flammes",
         "descsort1": "Inflige 1DAP + 1 à un ennemi et 1DAP - 1 à un autre ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Brand_Blaze.png/revision/latest?cb=20160420084402",
         "nomsort2": "Pyrolyse (Ultime)",
-        "descsort2": "Inflige 1DAP + 3 à un ennemi et se relance sur un autre ennemi avec un point de dégâts en moins jusqu'à zéro point.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Brand_Pyroclasm.png/revision/latest?cb=20160419193002"
+        "descsort2": "Inflige 1DAP + 3 à un ennemi et se relance sur un autre ennemi avec un point de dégâts en moins jusqu'à zéro point."
     },
     {
         "nomchamp": "Braum",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Braum_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215539",
+        "nomchamplower": "braum",
         "nomsort1": "Bouclier humain",
         "descsort1": "Confère +1 Armure et +1 Résistance Magique à Braum et un allié pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Braum_Stand_Behind_Me.png/revision/latest?cb=20170818001606",
         "nomsort2": "Incassable",
-        "descsort2": "Annule les dégâts d'une attaque ciblée sur un allié ",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Braum_Unbreakable.png/revision/latest?cb=20170818001617"
+        "descsort2": "Annule les dégâts d'une attaque ciblée sur un allié "
     },
     {
         "nomchamp": "Caitlyn",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215548",
+        "nomchamplower": "caitlyn",
         "nomsort1": "Tir dans la tête",
         "descsort1": "La prochaine attaque de Caitlyn inflige +1D6 supplémentaire",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Caitlyn_Headshot.png/revision/latest?cb=20160616203215",
         "nomsort2": "Tir chirurgical (Ultime)",
-        "descsort2": "Inflige 1DAD + 1 à un ennemi par différence de position d'initiative entre Caitlyn et l'ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Caitlyn_Ace_in_the_Hole.png/revision/latest?cb=20130929122710"
+        "descsort2": "Inflige 1DAD + 1 à un ennemi par différence de position d'initiative entre Caitlyn et l'ennemi"
     },
     {
         "nomchamp": "Camille",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Camille_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170217185322",
+        "nomchamplower": "camille",
         "nomsort1": "Protocole de précision",
         "descsort1": "Inflige 1DAD + 1 ou 1DAP + 1 à un ennemi. La prochaine utilisation du sort inflige avec le type de dégâts inutilisé",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Camille_Precision_Protocol.png/revision/latest?cb=20170215215350",
         "nomsort2": "Ultimatum Hextech (Ultime)",
-        "descsort2": "Camille ne peut pas subir de dégâts du dernier type utilisé par \"Protocole de précision\" pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Camille_The_Hextech_Ultimatum.png/revision/latest?cb=20170818002324"
+        "descsort2": "Camille ne peut pas subir de dégâts du dernier type utilisé par \"Protocole de précision\" pendant deux tours"
     },
     {
         "nomchamp": "Cassiopeia",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Cassiopeia_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215553",
+        "nomchamplower": "cassiopeia",
         "nomsort1": "Bombe nocive",
         "descsort1": "Inflige 1DAP à un ennemi. S'il a un effet \"Poison\", lui retire l'équivalent en Point de Ressource. Applique un effet \"Poison\"",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Cassiopeia_Noxious_Blast.png/revision/latest?cb=20160616202451",
         "nomsort2": "Morsure fatale",
-        "descsort2": "Inflige 1DAP à un ennemi. S'il a un effet \"Poison\", lui inflige le maximum de dégâts possible. Applique un effet \"Poison\"",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Cassiopeia_Twin_Fang.png/revision/latest?cb=20160616202706"
+        "descsort2": "Inflige 1DAP à un ennemi. S'il a un effet \"Poison\", lui inflige le maximum de dégâts possible. Applique un effet \"Poison\""
     },
     {
         "nomchamp": "Cho'Gath",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Cho%27Gath_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402215703",
+        "nomchamplower": "cho_gath",
         "nomsort1": "Rupture",
         "descsort1": "Inflige 1DAD à tous les ennemis ",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Cho%27Gath_Rupture.png/revision/latest?cb=20160608020307",
         "nomsort2": "Festin (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi. Si l'ennemi est tué, augmente définitivement les points de vie de Cho'Gath d'un point",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Cho%27Gath_Feast.png/revision/latest?cb=20160608020218"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi. Si l'ennemi est tué, augmente définitivement les points de vie de Cho'Gath d'un point"
     },
     {
         "nomchamp": "Corki",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Corki_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160629191728",
+        "nomchamplower": "corki",
         "nomsort1": "Munitions Hextech",
         "descsort1": "Les trois prochaines attaques de Corki infligent +2 dégâts supplémentaires",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Corki_Hextech_Munitions.png/revision/latest?cb=20170531210657",
         "nomsort2": "Barrage de projectiles (Ultime)",
-        "descsort2": "Inflige 1DAD + 1 à un ennemi. Lors de la troisième utilisation du sort, inflige 1DAD + 3 à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Corki_Missile_Barrage.png/revision/latest?cb=20160608020605"
+        "descsort2": "Inflige 1DAD + 1 à un ennemi. Lors de la troisième utilisation du sort, inflige 1DAD + 3 à la place"
     },
     {
         "nomchamp": "Darius",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Darius_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160412191052",
+        "nomchamplower": "darius",
         "nomsort1": "Décimation",
         "descsort1": "Inflige 1DAD à un ennemi. S'il a subi des dégâts lors de l'action précédente, inflige à tous les ennemis à la place",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Darius_Decimate.png/revision/latest?cb=20170818002434",
         "nomsort2": "Guillotine noxienne (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi. S'il a subi de dégâts lors de l'action précédente, inflige 1DAD + 6 à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Darius_Noxian_Guillotine.png/revision/latest?cb=20130929122730"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi. S'il a subi de dégâts lors de l'action précédente, inflige 1DAD + 6 à la place"
     },
     {
         "nomchamp": "Diana",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Diana_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526212149",
+        "nomchamplower": "diana",
         "nomsort1": "Croissant lunaire",
         "descsort1": "Inflige 1DAP + 2 à un ennemi. Applique un effet \"Clair de lune\"",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Diana_Crescent_Strike.png/revision/latest?cb=20191210192244",
         "nomsort2": "Attraction lunaire (Ultime)",
-        "descsort2": "Inflige 1DAP + 2 par effet \"Clair de lune\" à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Diana_Moonfall.png/revision/latest?cb=20191210192309"
+        "descsort2": "Inflige 1DAP + 2 par effet \"Clair de lune\" à tous les ennemis"
     },
     {
         "nomchamp": "Dr. Mundo",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Dr._Mundo_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20210526185145",
+        "nomchamplower": "dr_mundo",
         "nomsort1": "Scie souillée",
         "descsort1": "Inflige 1DAD + 3 à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Dr._Mundo_Infected_Bonesaw.png/revision/latest?cb=20210904224001",
         "nomsort2": "Dosage maximal (Ultime)",
-        "descsort2": "Rend tous les Points de Vie de Dr.Mundo",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Dr._Mundo_Maximum_Dosage.png/revision/latest?cb=20210904224024"
+        "descsort2": "Rend tous les Points de Vie de Dr.Mundo"
     },
     {
         "nomchamp": "Draven",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526212252",
+        "nomchamplower": "draven",
         "nomsort1": "League of Draven",
         "descsort1": "Gagne +1 Dégât d'Attaque pour chaque participation à une élimination durant l'aventure",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Draven_League_of_Draven.png/revision/latest?cb=20130929122740",
         "nomsort2": "Pulsion sanguinaire",
-        "descsort2": "Gagne +1 Vitesse d'Attaque pour chaque participation à une élimination durant l'aventure",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Draven_Blood_Rush.png/revision/latest?cb=20130929122739"
+        "descsort2": "Gagne +1 Vitesse d'Attaque pour chaque participation à une élimination durant l'aventure"
     },
     {
         "nomchamp": "Ekko",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Ekko_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20151218185247",
+        "nomchamplower": "ekko",
         "nomsort1": "Rétrobang",
         "descsort1": "Inflige 1DAP + 1 à un ennemi pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Ekko_Timewinder.png/revision/latest?cb=20150513185714",
         "nomsort2": "Chronofracture (Ultime)",
-        "descsort2": "Sauvegarde un temps où Ekko peut revenir, avec les caractéristiques, bonus et malus sauvegardés",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Ekko_Chronobreak.png/revision/latest?cb=20150513185714"
+        "descsort2": "Sauvegarde un temps où Ekko peut revenir, avec les caractéristiques, bonus et malus sauvegardés"
     },
     {
         "nomchamp": "Elise",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Elise_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526212517",
+        "nomchamplower": "elise",
         "nomsort1": "Neurotoxine",
         "descsort1": "Inflige 1DAP +1 à un ennemi par différence positive de Point de Vie entre Elise et l'ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Elise_Neurotoxin.png/revision/latest?cb=20130929122746",
         "nomsort2": "Suspension",
-        "descsort2": "Instantané. Empêche Elise d'attaquer et d'être attaqué pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Elise_Rappel.png/revision/latest?cb=20130929122747"
+        "descsort2": "Instantané. Empêche Elise d'attaquer et d'être attaqué pendant un tour"
     },
     {
         "nomchamp": "Evelynn",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Evelynn_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170926190158",
+        "nomchamplower": "evelynn",
         "nomsort1": "Ombre démoniaque",
         "descsort1": "Rend Evelynn invisible pendant un tour. Elle ne peut pas être attaquée en étant invisible",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Evelynn_Demon_Shade.png/revision/latest?cb=20171221035458",
         "nomsort2": "Piques de haine",
-        "descsort2": "Inflige 1DAP + 2 à un ennemi. Si Evelynn est invisible, inflige 3DAP - 3 également. Enlève l'invisibilité d'Evelynn",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Evelynn_Hate_Spike.png/revision/latest?cb=20171221035715"
+        "descsort2": "Inflige 1DAP + 2 à un ennemi. Si Evelynn est invisible, inflige 3DAP - 3 également. Enlève l'invisibilité d'Evelynn"
     },
     {
         "nomchamp": "Ezreal",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Ezreal_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220010",
+        "nomchamplower": "ezreal",
         "nomsort1": "Tir mystique",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Rend 1 Point de Ressource à tous les autres alliés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Ezreal_Mystic_Shot.png/revision/latest?cb=20180925213609",
         "nomsort2": "Flux essentiel",
-        "descsort2": "Applique un effet \"Flux\" qui se retire lorsqu'il est touché par un sort. L'effet \"Flux\" double les dégâts reçus",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Ezreal_Essence_Flux.png/revision/latest?cb=20180925213620"
+        "descsort2": "Applique un effet \"Flux\" qui se retire lorsqu'il est touché par un sort. L'effet \"Flux\" double les dégâts reçus"
     },
     {
         "nomchamp": "Fiddlesticks",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Fiddlesticks_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200317230512",
+        "nomchamplower": "fiddlesticks",
         "nomsort1": "Moisson fructueuse",
         "descsort1": "Inflige 1DAP + 1 à tous les ennemis et soigne 1 Point de Vie pour chaque ennemi blessé",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Fiddlesticks_Bountiful_Harvest.png/revision/latest?cb=20200318130416",
         "nomsort2": "Rafale de corbeaux (Ultime)",
-        "descsort2": "Inflige 1DAP + 5 à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Fiddlesticks_Crowstorm.png/revision/latest?cb=20200317230159"
+        "descsort2": "Inflige 1DAP + 5 à tous les ennemis"
     },
     {
         "nomchamp": "Fiora",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Fiora_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150725010749",
+        "nomchamplower": "fiora",
         "nomsort1": "Fente",
         "descsort1": "Inflige 1DAD + 1 à l'ennemi ayant le plus de Points de Vie et 1DAD - 1 à l'ennemi ayant le moins de Points de Vie",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Fiora_Lunge.png/revision/latest?cb=20171221040347",
         "nomsort2": "Riposte",
-        "descsort2": "Instantané.  Fiora ne peut pas subir de dégâts pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Fiora_Riposte.png/revision/latest?cb=20150721193218"
+        "descsort2": "Instantané.  Fiora ne peut pas subir de dégâts pendant un tour"
     },
     {
         "nomchamp": "Fizz",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Fizz_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220015",
+        "nomchamplower": "fizz",
         "nomsort1": "Joueur",
         "descsort1": "Empêche Fizz d'attaquer et d'être attaqué pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Fizz_Playful.png/revision/latest?cb=20161018215400",
         "nomsort2": "Pêche au gros (Ultime)",
-        "descsort2": "Cible un ennemi qui subit 3DAP - 1 de dégâts au prochain tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Fizz_Chum_the_Waters.png/revision/latest?cb=20161018213318"
+        "descsort2": "Cible un ennemi qui subit 3DAP - 1 de dégâts au prochain tour"
     },
     {
         "nomchamp": "Galio",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Galio_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170308183135",
+        "nomchamplower": "galio",
         "nomsort1": "Frappe colossale",
         "descsort1": "La prochaine attaque de Galio inflige +1D6 supplémentaire",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Galio_Colossal_Smash.png/revision/latest?cb=20170317024842",
         "nomsort2": "Entrée héroïque (Ultime)",
-        "descsort2": "Confère son Armure et sa Résistance Magique à un allié pendant un tour et inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Galio_Hero%27s_Entrance.png/revision/latest?cb=20170317024952$"
+        "descsort2": "Confère son Armure et sa Résistance Magique à un allié pendant un tour et inflige 1DAP à tous les ennemis"
     },
     {
         "nomchamp": "Gangplank",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Gangplank_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20151218185426",
+        "nomchamplower": "gangplank",
         "nomsort1": "Pourparlers",
         "descsort1": "Inflige 1DAD + 2 à un ennemi. Gagne l'équivalent des dégâts en Pièces d'Or",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Gangplank_Parrrley.png/revision/latest?cb=20150707190028",
         "nomsort2": "Baril de poudre",
-        "descsort2": "Invoque un baril de poudre qui inflige 1DAD + 3 à tous les ennemis au prochain tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Gangplank_Powder_Keg.png/revision/latest?cb=20150707190027"
+        "descsort2": "Invoque un baril de poudre qui inflige 1DAD + 3 à tous les ennemis au prochain tour"
     },
     {
         "nomchamp": "Garen",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Garen_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220048",
+        "nomchamplower": "garen",
         "nomsort1": "Coup décisif",
         "descsort1": "Inflige 1DAD + 2 à un ennemi et le réduit au silence",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Garen_Decisive_Strike.png/revision/latest?cb=20140108012209",
         "nomsort2": "Jugement",
-        "descsort2": "Inflige 1DAD + 1 à un ennemi pendant trois tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Garen_Judgment.png/revision/latest?cb=20140108041510"
+        "descsort2": "Inflige 1DAD + 1 à un ennemi pendant trois tours"
     },
     {
         "nomchamp": "Gnar",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Gnar_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526212623",
+        "nomchamplower": "gnar",
         "nomsort1": "Rage génique",
         "descsort1": "Transforme Gnar en Méga-Gnar ou inversement. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Gnar_Rage_Gene.png/revision/latest?cb=20170818002833",
         "nomsort2": "Jet de boomerang / Jet de rocher",
-        "descsort2": "Possède un effet différent en fonction de la transformation adoptée.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Gnar_Hyper.png/revision/latest?cb=20170818002820"
+        "descsort2": "Possède un effet différent en fonction de la transformation adoptée."
     },
     {
         "nomchamp": "Gragas",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Gragas_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220132",
+        "nomchamplower": "gragas",
         "nomsort1": "Fût roulant",
         "descsort1": "Invoque un fût qui inflige 1DAP + 3 à un ennemi au prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Gragas_Barrel_Roll.png/revision/latest?cb=20160202200653",
         "nomsort2": "Coup de bidon",
-        "descsort2": "Inflige 1DAP + 1 à un ennemi et ll'immobilise, le réduit au silence ou le désarme, au choix",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Gragas_Body_Slam.png/revision/latest?cb=20160202200840"
+        "descsort2": "Inflige 1DAP + 1 à un ennemi et ll'immobilise, le réduit au silence ou le désarme, au choix"
     },
     {
         "nomchamp": "Graves",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Graves_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170813121658",
+        "nomchamplower": "graves",
         "nomsort1": "Terminus",
         "descsort1": "Inflige 1DAD à un ennemi, puis 1DAD - 1 à tous les autres ennemis au prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Graves_End_of_the_Line.png/revision/latest?cb=20170217192444",
         "nomsort2": "Écran de fumée",
-        "descsort2": "Les ennemis doivent faire un test de Sagesse pour faire une action, pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Graves_Smoke_Screen.png/revision/latest?cb=20171223030018"
+        "descsort2": "Les ennemis doivent faire un test de Sagesse pour faire une action, pendant un tour"
     },
     {
         "nomchamp": "Gwen",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Gwen_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20210331004816",
+        "nomchamplower": "gwen",
         "nomsort1": "Tchac, tchac !",
         "descsort1": "Inflige 1DAP + 6 à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Gwen_Snip_Snip%21.png/revision/latest?cb=20210330154321",
         "nomsort2": "Brume sacrée",
-        "descsort2": "Instantané. Gwen ne peut pas subir de dégâts d'attaques de base pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Gwen_Hallowed_Mist.png/revision/latest?cb=20210330154419"
+        "descsort2": "Instantané. Gwen ne peut pas subir de dégâts d'attaques de base pendant un tour"
     },
     {
         "nomchamp": "Hecarim",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Hecarim_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160326090143",
+        "nomchamplower": "hecarim",
         "nomsort1": "Carnage",
         "descsort1": "Inflige 1DAD + 2 à un ennemi. Si Hecarim a attaqué avant lui, inflige 1DAD + 4 à la place",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Hecarim_Rampage.png/revision/latest?cb=20170818002948",
         "nomsort2": "Légion des ombres (Ultime)",
-        "descsort2": "Inflige 1DAD à tous les ennemis. Fait passer Hecarim en première position d'initiative pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Hecarim_Onslaught_of_Shadows.png/revision/latest?cb=20170818002935"
+        "descsort2": "Inflige 1DAD à tous les ennemis. Fait passer Hecarim en première position d'initiative pendant un tour"
     },
     {
         "nomchamp": "Heimerdinger",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220126",
+        "nomchamplower": "heimerdinger",
         "nomsort1": "Tourelle H-28G Évolution",
         "descsort1": "Invoque une tourelle H-28G. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Heimerdinger_H-28G_Evolution_Turret.png/revision/latest?cb=20140317235031",
         "nomsort2": "Tourelle H-28Q Évolution (Ultime)",
-        "descsort2": "Invoque une tourelle H-28Q. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Heimerdinger_H-28Q_Apex_Turret.png/revision/latest?cb=20140306232407"
+        "descsort2": "Invoque une tourelle H-28Q. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Illaoi",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Illaoi_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20151111024020",
+        "nomchamplower": "illaoi",
         "nomsort1": "Prophétesse d'un dieu ancestral",
         "descsort1": "Invoque un tentacule. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Illaoi_Prophet_of_an_Elder_God.png/revision/latest?cb=20171221041357",
         "nomsort2": "Épreuve de l'esprit",
-        "descsort2": "Inflige 1DAD +1 par tentacule à tous les ennemis. Consomme l'entièreté des tentacules.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Illaoi_Test_of_Spirit.png/revision/latest?cb=20171221041654"
+        "descsort2": "Inflige 1DAD +1 par tentacule à tous les ennemis. Consomme l'entièreté des tentacules."
     },
     {
         "nomchamp": "Irelia",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Irelia_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180320194636",
+        "nomchamplower": "irelia",
         "nomsort1": "Rush fatal",
         "descsort1": "Inflige 1DAD + 1 à un ennemi et applique une marque. S'il était marqué, peut être relancé sans coût sur un autre ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Irelia_Bladesurge.png/revision/latest?cb=20180411160934",
         "nomsort2": "Danse de défi",
-        "descsort2": "Inflige 1DAD + 2 à tous les ennemis ayant une marque",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Irelia_Defiant_Dance.png/revision/latest?cb=20180411160954"
+        "descsort2": "Inflige 1DAD + 2 à tous les ennemis ayant une marque"
     },
     {
         "nomchamp": "Ivern",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Ivern_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160920193322",
+        "nomchamplower": "ivern",
         "nomsort1": "Ami de la forêt",
         "descsort1": "Invoque un monstre de la jungle. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Ivern_Friend_of_the_Forest.png/revision/latest?cb=20170818003650",
         "nomsort2": "Marguerite ! (Ultime)",
-        "descsort2": "Invoque Marguerite. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Ivern_Daisy%21.png/revision/latest?cb=20170818003633"
+        "descsort2": "Invoque Marguerite. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Janna",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Janna_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220208",
+        "nomchamplower": "janna",
         "nomsort1": "Vent hurlant",
         "descsort1": "Inflige 1DAP à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Janna_Howling_Gale.png/revision/latest?cb=20171223030341",
         "nomsort2": "Mousson",
-        "descsort2": "Rend tous les Points de Vie de tous les alliés",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Janna_Monsoon.png/revision/latest?cb=20200921143726"
+        "descsort2": "Rend tous les Points de Vie de tous les alliés"
     },
     {
-        "nomchamp": "Jarvan Iv",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Jarvan_IV_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220210",
+        "nomchamp": "Jarvan IV",
+        "nomchamplower": "jarvan_iv",
         "nomsort1": "Étendard démacien",
         "descsort1": "Révèle les ennemis cachés et les pièges. Gagne +1 Vitesse d'Attaque pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Jarvan_IV_Demacian_Standard.png/revision/latest?cb=20130929122856",
         "nomsort2": "Cataclysme (Ultime)",
-        "descsort2": "Inflige 1DAD + 2 à tous les ennemis et les force à attaquer Jarvan IV pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Jarvan_IV_Cataclysm.png/revision/latest?cb=20130929122855"
+        "descsort2": "Inflige 1DAD + 2 à tous les ennemis et les force à attaquer Jarvan IV pendant un tour"
     },
     {
         "nomchamp": "Jax",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Jax_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220202",
+        "nomchamplower": "jax",
         "nomsort1": "Frappe bondissante",
         "descsort1": "Inflige 1DAD + 2 à un ennemi. Si l'ennemi ne peut pas attaquer, inflige des dégâts doublés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Jax_Leap_Strike.png/revision/latest?cb=20171223030831",
         "nomsort2": "Contre-attaque",
-        "descsort2": "Jax ne peut pas subir de dégâts pendant un tour. Les ennemis ne peuvent pas attaquer pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Jax_Counter_Strike.png/revision/latest?cb=20171223030746"
+        "descsort2": "Jax ne peut pas subir de dégâts pendant un tour. Les ennemis ne peuvent pas attaquer pendant un tour"
     },
     {
         "nomchamp": "Jayce",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Jayce_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526212746",
+        "nomchamplower": "jayce",
         "nomsort1": "Capaciteur Hextech",
         "descsort1": "Échange l'attaque de base, en dégâts physiques ou en dégâts magiques",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Jayce_Hextech_Capacitor.png/revision/latest?cb=20170818003829",
         "nomsort2": "Arme Mercury",
-        "descsort2": "Convertit la Puissance en Dégâts d'Attaque, ou inversement. Inflige 1DAD ou 1DAP + 3 à un ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Jayce_Lightning_Field.png/revision/latest?cb=20170818005223"
+        "descsort2": "Convertit la Puissance en Dégâts d'Attaque, ou inversement. Inflige 1DAD ou 1DAP + 3 à un ennemi"
     },
     {
         "nomchamp": "Jhin",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Jhin_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160113233242",
+        "nomchamplower": "jhin",
         "nomsort1": "Murmure",
         "descsort1": "Passe la Vitesse d'Attaque de Jhin à quatre au prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Jhin_Whisper.png/revision/latest?cb=20171221042759",
         "nomsort2": "Rappel de rideau (Ultime)",
-        "descsort2": "Inflige 1DAD + 1 à un ennemi. Peut être relancé sans coût jusqu'à trois fois. La quatrième attaque inflige 1DAD + 4",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Jhin_Curtain_Call.png/revision/latest?cb=20171221042319"
+        "descsort2": "Inflige 1DAD + 1 à un ennemi. Peut être relancé sans coût jusqu'à trois fois. La quatrième attaque inflige 1DAD + 4"
     },
     {
         "nomchamp": "Jinx",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160417011945",
+        "nomchamplower": "jinx",
         "nomsort1": "Flip flap !",
         "descsort1": "Les attaques de base de Jinx infligent +2 dégâts supplémentaires",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Jinx_Switcheroo%21.png/revision/latest?cb=20170818005806",
         "nomsort2": "Super roquette de la mort ! (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Jinx_Super_Mega_Death_Rocket%21.png/revision/latest?cb=20130929122914"
+        "descsort2": "Inflige 1DAD + 3 à tous les ennemis"
     },
     {
         "nomchamp": "Kai'Sa",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Kai%27Sa_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180221202751",
+        "nomchamplower": "kai'sa",
         "nomsort1": "Pluie d'Icathia",
         "descsort1": "Inflige 1DAD avec des dégâts répartis de manière voulue entre les ennemis. À 10 de Force, inflige 1DAD + 6 à la place",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Kai%27Sa_Icathian_Rain.png/revision/latest?cb=20180301214516",
         "nomsort2": "Surpresseur",
-        "descsort2": "Confère +1 Vitesse d'Attaque pendant un tour. À 10 de Force, Kai'Sa ne peut pas être attaquée par les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Kai%27Sa_Supercharge.png/revision/latest?cb=20180301214613"
+        "descsort2": "Confère +1 Vitesse d'Attaque pendant un tour. À 10 de Force, Kai'Sa ne peut pas être attaquée par les ennemis"
     },
     {
         "nomchamp": "Kalista",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Kalista_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170401005336",
+        "nomchamplower": "kalista",
         "nomsort1": "Extirpation",
         "descsort1": "Instantané. Inflige 1DAD à un ennemi et applique une lance. Une lance retirée inflige 1DAD",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Kalista_Rend.png/revision/latest?cb=20141104220536",
         "nomsort2": "Appel du destin (Ultime)",
-        "descsort2": "En début de partie, Kalista se lie à un allié. Inflige des dégâts à un ennemi équivalents à la moyenne des Forces alliées",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Kalista_Fate%27s_Call.png/revision/latest?cb=20141104220726"
+        "descsort2": "En début de partie, Kalista se lie à un allié. Inflige des dégâts à un ennemi équivalents à la moyenne des Forces alliées"
     },
     {
         "nomchamp": "Karma",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Karma_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220251",
+        "nomchamplower": "karma",
         "nomsort1": "Volonté concentrée",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour. Si vous avez lancé un sort au tour précédent, inflige 1DAP + 2",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Karma_Focused_Resolve.png/revision/latest?cb=20130929122918",
         "nomsort2": "Exaltation",
-        "descsort2": "Confère un bouclier de 5 Points de Vie à un allié. Si vous avez lancé un sort au tour précédent, vous donne aussi le bouclier",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Karma_Inspire.png/revision/latest?cb=20130929122920"
+        "descsort2": "Confère un bouclier de 5 Points de Vie à un allié. Si vous avez lancé un sort au tour précédent, vous donne aussi le bouclier"
     },
     {
         "nomchamp": "Karthus",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Karthus_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160326090500",
+        "nomchamplower": "karthus",
         "nomsort1": "Dévastation",
         "descsort1": "Inflige 1DAP + 3 à un ennemi au tour suivant",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Karthus_Lay_Waste.png/revision/latest?cb=20170818190306",
         "nomsort2": "Requiem (Ultime)",
-        "descsort2": "Inflige l'équivalent de la moitié les Points de Vie d'un ennemi à ce dernier au tour suivant",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Karthus_Requiem.png/revision/latest?cb=20170818190320"
+        "descsort2": "Inflige l'équivalent de la moitié les Points de Vie d'un ennemi à ce dernier au tour suivant"
     },
     {
         "nomchamp": "Kassadin",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Kassadin_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20220318162058",
+        "nomchamplower": "kassadin",
         "nomsort1": "Orbe du Néant",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. Kassadin ne peut pas subir de dégâts de sorts pendant un tour.                ",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Kassadin_Null_Sphere.png/revision/latest?cb=20150224232011",
         "nomsort2": "Pulsation",
-        "descsort2": "Inflige 1D4 à un ennemi. Si l'ennemi a lancé un sort à sa dernière action, inflige 1DAP + 4 à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Kassadin_Force_Pulse.png/revision/latest?cb=20170818190412"
+        "descsort2": "Inflige 1D4 à un ennemi. Si l'ennemi a lancé un sort à sa dernière action, inflige 1DAP + 4 à la place"
     },
     {
         "nomchamp": "Katarina",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Katarina_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220331",
+        "nomchamplower": "katarina",
         "nomsort1": "Voracité",
         "descsort1": "La prochaine attaque de Katarina inflige +1D6 supplémentaire",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Katarina_Voracity.png/revision/latest?cb=20170707191122",
         "nomsort2": "Lotus mortel (Ultime)",
-        "descsort2": "Inflige 1DAD à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Katarina_Death_Lotus.png/revision/latest?cb=20170707191154"
+        "descsort2": "Inflige 1DAD à tous les ennemis"
     },
     {
         "nomchamp": "Kayle",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Kayle_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190901014208",
+        "nomchamplower": "kayle",
         "nomsort1": "Ascension divine",
         "descsort1": "Inflige 1DAP à un ennemi. Inflige +2 points de dégâts supplémentaires par niveau atteint",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Kayle_Divine_Judgment.png/revision/latest?cb=20190219193938",
         "nomsort2": "Jugement divin (Ultime)",
-        "descsort2": "Un allié ne peut pas subir de dégâts pendant un tour. Inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Kayle_Divine_Ascent.png/revision/latest?cb=20190219193922"
+        "descsort2": "Un allié ne peut pas subir de dégâts pendant un tour. Inflige 1DAP à tous les ennemis"
     },
     {
         "nomchamp": "Kayn",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Kayn_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170628021945",
+        "nomchamplower": "kayn",
         "nomsort1": "Faux des Darkin",
         "descsort1": "Transforme Kayn en Assassin de l'ombre ou en Darkin. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Kayn_The_Darkin_Scythe.png/revision/latest?cb=20170817200158",
         "nomsort2": "Moisson cruelle",
-        "descsort2": "Inflige 1DAD à un ennemi. Applique un effet supplémentaire en fonction de la forme adoptée",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Kayn_Reaping_Slash.png/revision/latest?cb=20170817195917"
+        "descsort2": "Inflige 1DAD à un ennemi. Applique un effet supplémentaire en fonction de la forme adoptée"
     },
     {
         "nomchamp": "Kennen",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Kennen_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160510182835",
+        "nomchamplower": "kennen",
         "nomsort1": "Rush foudroyant",
         "descsort1": "Donne +3 dégâts supplémentaires à vos trois prochaines attaques",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Kennen_Lightning_Rush.png/revision/latest?cb=20160608023409",
         "nomsort2": "Maelström (Ultime)",
-        "descsort2": "Inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Kennen_Slicing_Maelstrom.png/revision/latest?cb=20160608023501"
+        "descsort2": "Inflige 1DAP à tous les ennemis"
     },
     {
         "nomchamp": "Kha'Zix",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Kha%27Zix_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526212833",
+        "nomchamplower": "kha_zix",
         "nomsort1": "Goût de la peur",
         "descsort1": "Inflige 1DAD + 3 à un ennemi. Si cet ennemi est le seul ennemi, inflige des dégâts doublés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Kha%27Zix_Taste_Their_Fear.png/revision/latest?cb=20180516194018",
         "nomsort2": "Bond",
-        "descsort2": "Inflige 1DAD + 1. Si cet ennemi est le seul ennemi, l'immobilise, le réduit au silence et le désarme",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Kha%27Zix_Leap.png/revision/latest?cb=20180516194010"
+        "descsort2": "Inflige 1DAD + 1. Si cet ennemi est le seul ennemi, l'immobilise, le réduit au silence et le désarme"
     },
     {
         "nomchamp": "Kindred",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Kindred_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213008",
+        "nomchamplower": "kindred",
         "nomsort1": "Danse des flèches",
         "descsort1": "Inflige 1DAD + 3 avec des dégâts répartis de manière voulue entre les ennemis, jusqu'à trois ennemis simultanés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Kindred_Dance_of_Arrows.png/revision/latest?cb=20170818190615",
         "nomsort2": "Terreur mortelle",
-        "descsort2": "Inflige 1DAD + 1 et invoque Loup. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Kindred_Mounting_Dread.png/revision/latest?cb=20170818190712"
+        "descsort2": "Inflige 1DAD + 1 et invoque Loup. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Kled",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Kled_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170516205203",
+        "nomchamplower": "kled",
         "nomsort1": "Skaarl, le lézard froussard",
         "descsort1": "Invoque Skaarl. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Kled_Skaarl_the_Cowardly_Lizard.png/revision/latest?cb=20160811031310",
         "nomsort2": "Chaaaaaaaargez !!!",
-        "descsort2": "Confère +1 Vitesse d'Attaque pendant deux tours. Si Skaarl est présent, confère +1 Vitesse d'Attaque à tous les alliés",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Kled_Chaaaaaaaarge%21%21%21.png/revision/latest?cb=20160811032005"
+        "descsort2": "Confère +1 Vitesse d'Attaque pendant deux tours. Si Skaarl est présent, confère +1 Vitesse d'Attaque à tous les alliés"
     },
     {
         "nomchamp": "Kog'Maw",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Kog%27Maw_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220409",
+        "nomchamplower": "kog_maw",
         "nomsort1": "Barrage bio-arcanique",
         "descsort1": "Double votre Vitesse d'Attaque au prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Kog%27Maw_Bio-Arcane_Barrage.png/revision/latest?cb=20160608025319",
         "nomsort2": "Limon du Néant",
-        "descsort2": "Confère -1 Vitesse d'Attaque à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Kog%27Maw_Void_Ooze.png/revision/latest?cb=20160608025506"
+        "descsort2": "Confère -1 Vitesse d'Attaque à tous les ennemis"
     },
     {
         "nomchamp": "Leblanc",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/LeBlanc_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213056",
+        "nomchamplower": "leblanc",
         "nomsort1": "Sceau de malveillance",
         "descsort1": "La prochaine attaque subie d'un ennemi inflige +1D6 supplémentaire. Se relance sans coût au début de votre prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/LeBlanc_Sigil_of_Malice.png/revision/latest?cb=20180415162326",
         "nomsort2": "Distorsion",
-        "descsort2": "Inflige 1DAP à un ennemi. Se relance sans coût au début de votre prochain tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/LeBlanc_Distortion.png/revision/latest?cb=20170818190804"
+        "descsort2": "Inflige 1DAP à un ennemi. Se relance sans coût au début de votre prochain tour"
     },
     {
         "nomchamp": "Lee'Sin",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Lee_Sin_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170321025728",
+        "nomchamplower": "lee_sin",
         "nomsort1": "Onde sonore",
         "descsort1": "Révèle les ennemis cachés et les pièges. Inflige 1DAD + 3 à l'ennemi attaquant en premier",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Lee_Sin_Sonic_Wave.png/revision/latest?cb=20130929123013",
         "nomsort2": "Trombe",
-        "descsort2": "Révèle les ennemis cachés et les pièges. Inflige 1DAD + 3 à l'ennemi attaquant en dernier",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Lee_Sin_Tempest.png/revision/latest?cb=20130929123014"
+        "descsort2": "Révèle les ennemis cachés et les pièges. Inflige 1DAD + 3 à l'ennemi attaquant en dernier"
     },
     {
         "nomchamp": "Leona",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Leona_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220518",
+        "nomchamplower": "leona",
         "nomsort1": "Bouclier de l'aube",
         "descsort1": "Immobilise et réduit au silence un ennemi pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Leona_Shield_of_Daybreak.png/revision/latest?cb=20130929123016",
         "nomsort2": "Éruption solaire (Ultime)",
-        "descsort2": "Immobilise et réduit au silence tous les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Leona_Solar_Flare.png/revision/latest?cb=20130929123017"
+        "descsort2": "Immobilise et réduit au silence tous les ennemis pendant un tour"
     },
     {
         "nomchamp": "Lillia",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Lillia_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200707201152",
+        "nomchamplower": "lillia",
         "nomsort1": "Attention, désolée !",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. S'il a un effet \"Somnolence\", inflige 1DAP + 5 à la place",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Lillia_Watch_Out%21_Eep%21.png/revision/latest?cb=20210904161338",
         "nomsort2": "Douce berceuse (Ultime)",
-        "descsort2": "Empêche les ennemis d'attaquer pendant un tour et applique un effet \"Somnolence\" à chacun",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Lillia_Lilting_Lullaby.png/revision/latest?cb=20210904161358"
+        "descsort2": "Empêche les ennemis d'attaquer pendant un tour et applique un effet \"Somnolence\" à chacun"
     },
     {
         "nomchamp": "Lissandra",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Lissandra_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213305",
+        "nomchamplower": "lissandra",
         "nomsort1": "Chemin glacial",
         "descsort1": "Inflige 1DAP +1 à un ennemi et empêche un autre ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Lissandra_Glacial_Path.png/revision/latest?cb=20170818191045",
         "nomsort2": "Tombeau polaire (Ultime)",
-        "descsort2": "Empêche un allié ou un ennemi d'attaquer et d'être attaqué pendant un tour et inflige 1DAP + 1 à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Lissandra_Frozen_Tomb.png/revision/latest?cb=20170818191032"
+        "descsort2": "Empêche un allié ou un ennemi d'attaquer et d'être attaqué pendant un tour et inflige 1DAP + 1 à tous les ennemis"
     },
     {
         "nomchamp": "Lucian",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220529",
+        "nomchamplower": "lucian",
         "nomsort1": "Pistolero",
         "descsort1": "Double les dégâts de la prochaine attaque de Lucian",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Lucian_Lightslinger.png/revision/latest?cb=20170818191511",
         "nomsort2": "Lumière perforante",
-        "descsort2": "Inflige 1DAD + 1 à un ennemi et 1DAD - 1 à un autre ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Lucian_Piercing_Light.png/revision/latest?cb=20130929123025"
+        "descsort2": "Inflige 1DAD + 1 à un ennemi et 1DAD - 1 à un autre ennemi"
     },
     {
         "nomchamp": "Lulu",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Lulu_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220550",
+        "nomchamplower": "lulu",
         "nomsort1": "Pix, le compagnon féérique",
         "descsort1": "Inflige 1DAP + 1 à deux ennemis différents",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Lulu_Pix%2C_Faerie_Companion.png/revision/latest?cb=20130929123029",
         "nomsort2": "Croissance prodigieuse (Ultime)",
-        "descsort2": "Double les Points de Vie actuels d'un allié et l'oblige à être la cible des ennemis pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Lulu_Wild_Growth.png/revision/latest?cb=20170818191650"
+        "descsort2": "Double les Points de Vie actuels d'un allié et l'oblige à être la cible des ennemis pendant deux tours"
     },
     {
         "nomchamp": "Lux",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Lux_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220552",
+        "nomchamplower": "lux",
         "nomsort1": "Entrave de lumière",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Lux_Light_Binding.png/revision/latest?cb=20160608031730",
         "nomsort2": "Éclat final (Ultime)",
-        "descsort2": "Inflige 1DAP + 3 à tous les ennemis au tour suivant",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Lux_Final_Spark.png/revision/latest?cb=20160608031648"
+        "descsort2": "Inflige 1DAP + 3 à tous les ennemis au tour suivant"
     },
     {
         "nomchamp": "Malphite",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Malphite_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220554",
+        "nomchamplower": "malphite",
         "nomsort1": "Éclat sismique",
         "descsort1": "Inflige 1DAP +1 à un ennemi, lui confère -1 Vitesse d'Attaque et confère +1 Vitesse d'Attaque",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Malphite_Seismic_Shard.png/revision/latest?cb=20171223032122",
         "nomsort2": "Force indomptable (Ultime)",
-        "descsort2": "Inflige 1DAP puis immobilise, réduit au silence et désarme tous les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Malphite_Unstoppable_Force.png/revision/latest?cb=20171223032135"
+        "descsort2": "Inflige 1DAP puis immobilise, réduit au silence et désarme tous les ennemis pendant un tour"
     },
     {
         "nomchamp": "Malzahar",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Malzahar_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160419185355",
+        "nomchamplower": "malzahar",
         "nomsort1": "Visions maléfiques",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. L'ennemi peut annuler le sort si un jet de Constitution est réussi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Malzahar_Malefic_Visions.png/revision/latest?cb=20170217194900",
         "nomsort2": "Poigne du Néant (Ultime)",
-        "descsort2": "Inflige 1DAP puis immobilise, réduit au silence et désarme un ennemi pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Malzahar_Nether_Grasp.png/revision/latest?cb=20160420053221"
+        "descsort2": "Inflige 1DAP puis immobilise, réduit au silence et désarme un ennemi pendant un tour"
     },
     {
         "nomchamp": "Maokai",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Maokai_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220612",
+        "nomchamplower": "maokai",
         "nomsort1": "Croissance torturée",
         "descsort1": "Immobilise et le désarme un ennemi pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Maokai_Twisted_Advance.png/revision/latest?cb=20170503051019",
         "nomsort2": "Jet d'arbrisseau",
-        "descsort2": "Invoque un arbrisseau. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Maokai_Sapling_Toss.png/revision/latest?cb=20170818191752"
+        "descsort2": "Invoque un arbrisseau. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Maitre Yi",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Master_Yi_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220630",
+        "nomchamplower": "maitre_yi",
         "nomsort1": "Assaut éclair",
         "descsort1": "Inflige 2DAD à tous les ennemis. Inflige 1 point de dégâts en moins pour chaque ennemi touché",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Master_Yi_Alpha_Strike.png/revision/latest?cb=20170818191917",
         "nomsort2": "Style Wuju",
-        "descsort2": "La prochaine attaque de Katarina inflige +1D6 supplémentaire                                ",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Master_Yi_Wuju_Style.png/revision/latest?cb=20170818192025"
+        "descsort2": "La prochaine attaque de Katarina inflige +1D6 supplémentaire                                "
     },
     {
         "nomchamp": "Miss Fortune",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Miss_Fortune_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170221050257",
+        "nomchamplower": "miss_fortune",
         "nomsort1": "Doublé",
         "descsort1": "Inflige 1DAD + 1 à deux ennemis différents",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Miss_Fortune_Double_Up.png/revision/latest?cb=20150707191158",
         "nomsort2": "Barrage de plomb (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à tous les ennemis, qu'ils peuvent esquiver avec un jet de Dextérité",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Miss_Fortune_Bullet_Time.png/revision/latest?cb=20150707191213"
+        "descsort2": "Inflige 1DAD + 3 à tous les ennemis, qu'ils peuvent esquiver avec un jet de Dextérité"
     },
     {
         "nomchamp": "Mordekaiser",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Mordekaiser_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190529201459",
+        "nomchamplower": "mordekaiser",
         "nomsort1": "Oblitération",
         "descsort1": "Inflige 1DAP + 3 à un ennemi. Si cet ennemi n'a pas lancé de sorts à sa dernière action, inflige des dégâts doublés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Mordekaiser_Obliterate.png/revision/latest?cb=20190527181318",
         "nomsort2": "Royaume des morts (Ultime)",
-        "descsort2": "Effectue une bataille entre Mordekaiser et un ennemi. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Mordekaiser_Realm_of_Death.png/revision/latest?cb=20190527181328"
+        "descsort2": "Effectue une bataille entre Mordekaiser et un ennemi. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Morgana",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Morgana_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190226165233",
+        "nomchamplower": "morgana",
         "nomsort1": "Entrave sombre",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour et lui inflige 1DAP + 2",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Morgana_Dark_Binding.png/revision/latest?cb=20160608032328",
         "nomsort2": "Bouclier noir",
-        "descsort2": "Instantané. Un allié ne peut pas subir de dégâts de sorts pendant un tour.                ",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Morgana_Black_Shield.png/revision/latest?cb=20160608032305"
+        "descsort2": "Instantané. Un allié ne peut pas subir de dégâts de sorts pendant un tour.                "
     },
     {
         "nomchamp": "Nami",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Nami_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220700",
+        "nomchamplower": "nami",
         "nomsort1": "Prison aqueuse",
         "descsort1": "Inflige 1DAP à un ennemi, l'immobilise et le désarme pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Nami_Aqua_Prison.png/revision/latest?cb=20130929123105",
         "nomsort2": "Flux et reflux",
-        "descsort2": "Inflige ou soigne 1DAP + 3 de Points de VIe, répartis de manière voulue entre les autres personnages",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Nami_Ebb_and_Flow.png/revision/latest?cb=20130929123106"
+        "descsort2": "Inflige ou soigne 1DAP + 3 de Points de VIe, répartis de manière voulue entre les autres personnages"
     },
     {
         "nomchamp": "Nasus",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Nasus_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220659",
+        "nomchamplower": "nasus",
         "nomsort1": "Mangeur d'âmes",
         "descsort1": "La prochaine attaque de Nasus rend des Points de Vie équivalents aux dégâts infligés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Nasus_Soul_Eater.png/revision/latest?cb=20170818192444",
         "nomsort2": "Buveuse d'âmes",
-        "descsort2": "Inflige 1DAD à un ennemi. Donne +1 dégât supplémentaire au sort",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Nasus_Siphoning_Strike.png/revision/latest?cb=20170818192422"
+        "descsort2": "Inflige 1DAD à un ennemi. Donne +1 dégât supplémentaire au sort"
     },
     {
         "nomchamp": "Nautilus",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213414",
+        "nomchamplower": "nautilus",
         "nomsort1": "Coup écrasant",
         "descsort1": "Inflige 1DAD à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Nautilus_Staggering_Blow.png/revision/latest?cb=20130929123118",
         "nomsort2": "Abordage",
-        "descsort2": "Immobilise un ennemi et l'oblige à attaquer Nautilus pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Nautilus_Dredge_Line.png/revision/latest?cb=20130929123116"
+        "descsort2": "Immobilise un ennemi et l'oblige à attaquer Nautilus pendant un tour"
     },
     {
         "nomchamp": "Neeko",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Neeko_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20181119223759",
+        "nomchamplower": "neeko",
         "nomsort1": "Mirage inné",
         "descsort1": "Relance un sort allié lancé pendant ce tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Neeko_Inherent_Glamour.png/revision/latest?cb=20181119234347",
         "nomsort2": "Métaclonage",
-        "descsort2": "Copie les statistiques de combat d'un allié pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Neeko_Shapesplitter.png/revision/latest?cb=20181119234349"
+        "descsort2": "Copie les statistiques de combat d'un allié pendant deux tours"
     },
     {
         "nomchamp": "Nidalee",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Nidalee_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220734",
+        "nomchamplower": "nidalee",
         "nomsort1": "Javelot",
         "descsort1": "Inflige 1DAP + 1 à un ennemi par différence de position d'initiative entre Nidalee et l'ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Nidalee_Javelin_Toss.png/revision/latest?cb=20160608032959",
         "nomsort2": "Taillade",
-        "descsort2": "Inflige 1DAP + 1 à un ennemi et 1DAP - 1 à un autre ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Nidalee_Swipe.png/revision/latest?cb=20140627151547"
+        "descsort2": "Inflige 1DAP + 1 à un ennemi et 1DAP - 1 à un autre ennemi"
     },
     {
         "nomchamp": "Nilah",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Nilah_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220126",
+        "nomchamplower": "nilah",
         "nomsort1": "Synergie parfaite",
         "descsort1": "Augmente de 1D4 les soins alliés pendant un tour. Tout excès de soins est converti en bouclier pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Nilah_Joy_Unending.png/revision/latest?cb=20220622224441",
         "nomsort2": "Lame fluide",
-        "descsort2": "Inflige 1DAD + 1 à un ennemi. Inflige +1 dégât supplémentaire par point de bouclier que possède Nilah",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Nilah_Formless_Blade.png/revision/latest?cb=20220622224450"
+        "descsort2": "Inflige 1DAD + 1 à un ennemi. Inflige +1 dégât supplémentaire par point de bouclier que possède Nilah"
     },
     {
         "nomchamp": "Nocturne",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Nocturne_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220735",
+        "nomchamplower": "nocturne",
         "nomsort1": "Crépuscule",
         "descsort1": "Inflige 1DAD à un ennemi et applique un effet \"Crépuscule\" à tous les ennemis jouant après, pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Nocturne_Duskbringer.png/revision/latest?cb=20130929123126",
         "nomsort2": "Paranoïa (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi. Si l'ennemi est sous l'effet \"Crépuscule\", inflige 1DAD + 10 à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Nocturne_Paranoia.png/revision/latest?cb=20130929123127"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi. Si l'ennemi est sous l'effet \"Crépuscule\", inflige 1DAD + 10 à la place"
     },
     {
         "nomchamp": "Nunu Et Willump",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Nunu_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180815001402",
+        "nomchamplower": "nunu_et_willump",
         "nomsort1": "Voracité",
         "descsort1": "Inflige 1DAP + 1 à un ennemi et rend des Points de Vie équivalents aux dégâts infligés",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Nunu_Consume.png/revision/latest?cb=20180815003620",
         "nomsort2": "Boule de neige géante !",
-        "descsort2": "Inflige 1DAP à un ennemi au prochain tour. Peut être relancé ce tour pour infliger +3 dégâts supplémentaires",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Nunu_Biggest_Snowball_Ever%21.png/revision/latest?cb=20180815003606"
+        "descsort2": "Inflige 1DAP à un ennemi au prochain tour. Peut être relancé ce tour pour infliger +3 dégâts supplémentaires"
     },
     {
         "nomchamp": "Olaf",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Olaf_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220802",
+        "nomchamplower": "olaf",
         "nomsort1": "Déchireuse",
         "descsort1": "Inflige 1DAD + 3 à un ennemi et lui confère -1 Vitesse d'Attaque pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Olaf_Undertow.png/revision/latest?cb=20171223032547",
         "nomsort2": "Ragnarok (Ultime)",
-        "descsort2": "Confère +1 Dégât d'Attaque pour chaque Point de Vie manquant pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Olaf_Ragnarok.png/revision/latest?cb=20171223032521"
+        "descsort2": "Confère +1 Dégât d'Attaque pour chaque Point de Vie manquant pendant un tour"
     },
     {
         "nomchamp": "Orianna",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Orianna_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220803",
+        "nomchamplower": "orianna",
         "nomsort1": "Ordre : Attaque",
         "descsort1": "Invoque une sphère mécanique. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Orianna_Command-_Attack.png/revision/latest?cb=20170204153108",
         "nomsort2": "Ordre : Onde de choc (Ultime)",
-        "descsort2": "Immobilise, réduit au silence et désarme tous les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Orianna_Command-_Shockwave.png/revision/latest?cb=20170204153110"
+        "descsort2": "Immobilise, réduit au silence et désarme tous les ennemis pendant un tour"
     },
     {
         "nomchamp": "Ornn",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Ornn_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170819003104",
+        "nomchamplower": "ornn",
         "nomsort1": "Fournaise",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. La prochain attaque qu'il subira inflige +3 dégâts supplémentaires",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Ornn_Bellows_Breath.png/revision/latest?cb=20170816203303",
         "nomsort2": "Appel du dieu de la forge (Ultime)",
-        "descsort2": "Inflige 1DAD à tous les ennemis. La prochaine attaque qu'ils subiront inflie +3 dégâts supplémentaires",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Ornn_Call_of_the_Forge_God.png/revision/latest?cb=20170816203327"
+        "descsort2": "Inflige 1DAD à tous les ennemis. La prochaine attaque qu'ils subiront inflie +3 dégâts supplémentaires"
     },
     {
         "nomchamp": "Pantheon",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Pantheon_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190801100355",
+        "nomchamplower": "pantheon",
         "nomsort1": "Lance astrale",
         "descsort1": "Instantané. Inflige 1DAD + 3 à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Pantheon_Comet_Spear.png/revision/latest?cb=20190730164444",
         "nomsort2": "Égide impénétrable",
-        "descsort2": "Instantané. Annule une attaque ennemie",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Pantheon_Aegis_Assault.png/revision/latest?cb=20190730164428"
+        "descsort2": "Instantané. Annule une attaque ennemie"
     },
     {
         "nomchamp": "Poppy",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Poppy_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20151124204455",
+        "nomchamplower": "poppy",
         "nomsort1": "Charge héroïque",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Si cet ennemi n'a pas attaqué pendant ce tour, il n'attaquera pas à son prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Poppy_Heroic_Charge.png/revision/latest?cb=20170818192751",
         "nomsort2": "Verdict de la gardienne (Ultime)",
-        "descsort2": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Poppy_Keeper%27s_Verdict.png/revision/latest?cb=20170818192824"
+        "descsort2": "Empêche un ennemi d'attaquer pendant un tour"
     },
     {
         "nomchamp": "Pyke",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Pyke_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180522232638",
+        "nomchamplower": "pyke",
         "nomsort1": "Harponnage",
         "descsort1": "Immobilise et désarme un ennemi pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Pyke_Bone_Skewer.png/revision/latest?cb=20180516185241",
         "nomsort2": "Exécution abyssale (Ultime)",
-        "descsort2": "Exécute l'ennemi ayant perdu le plus de Points de Vie. Gagne 1D4 - 1 de Pièces d'Or à tous les alliés",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Pyke_Death_from_Below.png/revision/latest?cb=20180516185259"
+        "descsort2": "Exécute l'ennemi ayant perdu le plus de Points de Vie. Gagne 1D4 - 1 de Pièces d'Or à tous les alliés"
     },
     {
         "nomchamp": "Qiyana",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Qiyana_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190611190538",
+        "nomchamplower": "qiyana",
         "nomsort1": "Terraforce",
         "descsort1": "Obtient un élément. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Qiyana_Terrashape.png/revision/latest?cb=20190607182326",
         "nomsort2": "Tour de force suprême (Ultime)",
-        "descsort2": "Inflige 1DAP à un ennemi. Applique un effet supplémentaire en fonction de l'élement obtenu",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Qiyana_Supreme_Display_of_Talent.png/revision/latest?cb=20190607182321"
+        "descsort2": "Inflige 1DAP à un ennemi. Applique un effet supplémentaire en fonction de l'élement obtenu"
     },
     {
         "nomchamp": "Quinn",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Quinn_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220833",
+        "nomchamplower": "quinn",
         "nomsort1": "Assaut aveuglant",
         "descsort1": "Appelle Valor. Inflige 1DAD + 1 et confère -1 Vitesse d'Attaque à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Quinn_Blinding_Assault.png/revision/latest?cb=20130929123152",
         "nomsort2": "En territoire ennemi (Ultime)",
-        "descsort2": "Confère +2 Vitesse d'Attaque pendant un tour. Si Valor a été appelé à l'action précédente, la double à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Quinn_Behind_Enemy_Lines.png/revision/latest?cb=20160801045302"
+        "descsort2": "Confère +2 Vitesse d'Attaque pendant un tour. Si Valor a été appelé à l'action précédente, la double à la place"
     },
     {
         "nomchamp": "Rakan",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Rakan_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170404193836",
+        "nomchamplower": "rakan",
         "nomsort1": "Lien amoureux",
         "descsort1": "Double les dégâts de la prochaine attaque de Xayah. Le sort ne coûte aucun Point de Ressource si Xayah l'utilise aussi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Blazing_Feathers_profileicon.png/revision/latest/scale-to-width-down/64?cb=20170505012854",
         "nomsort2": "Entrée triomphale",
-        "descsort2": "Immobilise et désarme les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Rakan_Grand_Entrance.png/revision/latest?cb=20170817201348"
+        "descsort2": "Immobilise et désarme les ennemis pendant un tour"
     },
     {
         "nomchamp": "Rammus",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Rammus_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160413190405",
+        "nomchamplower": "rammus",
         "nomsort1": "Provocation frénétique",
         "descsort1": "Oblige les ennemis à attaquer Rammus pendant un tour. Chaque attaque qu'il subit inflige 1DAR ou 1DMR à l'attaquant",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Rammus_Frenzying_Taunt.png/revision/latest?cb=20170308195431",
         "nomsort2": "Frappe ascendante (Ultime)",
-        "descsort2": "Inflige 1DAD à l'ennemi attaquant avant et après Rammus. Inflige 1DAD à tout ennemi attaquant Rammus pendant ce tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125"
+        "descsort2": "Inflige 1DAD à l'ennemi attaquant avant et après Rammus. Inflige 1DAD à tout ennemi attaquant Rammus pendant ce tour"
     },
     {
         "nomchamp": "Rek'Sai",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Rek%27Sai_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213622",
+        "nomchamplower": "rek_sai",
         "nomsort1": "Tunnel",
         "descsort1": "Instantané. Empêche Rek'sai d'attaquer et d'être attaqué pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Rek%27Sai_Tunnel.png/revision/latest?cb=20141212015652",
         "nomsort2": "Rush du Néant (Ultime)",
-        "descsort2": "Inflige 1DAD + 5 au dernier ennemi ayant attaqué",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Rek%27Sai_Void_Rush.png/revision/latest?cb=20141125211540"
+        "descsort2": "Inflige 1DAD + 5 au dernier ennemi ayant attaqué"
     },
     {
         "nomchamp": "Rell",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Rell_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20201124040049",
+        "nomchamplower": "rell",
         "nomsort1": "Ferromancie",
         "descsort1": "Échange la valeur de Constitution et de Dextérité de Rell",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Rell_Ferromancy-_Mount_Up.png/revision/latest?cb=20201124194300",
         "nomsort2": "Magnétisme",
-        "descsort2": "Choisissez un autre allié. La première fois qu'il subit des dégâts, Rell les subit à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Rell_Attract_and_Repel.png/revision/latest?cb=20201123223740"
+        "descsort2": "Choisissez un autre allié. La première fois qu'il subit des dégâts, Rell les subit à la place"
     },
     {
         "nomchamp": "Renata Glasc",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Renata_Glasc_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20220330171748",
+        "nomchamplower": "renata_glasc",
         "nomsort1": "Poignée de main",
         "descsort1": "Choisissez un ennemi. Il inflige ses dégâts d'attaque de base maximum à un autre ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Renata_Glasc_Handshake.png/revision/latest?cb=20220201110016",
         "nomsort2": "Prise de contrôle hostile (Ultime)",
-        "descsort2": "Chaque ennemi attaque une fois chaque autre ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Renata_Glasc_Hostile_Takeover.png/revision/latest?cb=20220201110023"
+        "descsort2": "Chaque ennemi attaque une fois chaque autre ennemi"
     },
     {
         "nomchamp": "Renekton",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Renekton_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220903",
+        "nomchamplower": "renekton",
         "nomsort1": "Destruction des faibles",
         "descsort1": "Inflige 1DAD + 1 à un ennemi et applique un effet \"Fureur\" à Renekton. Sous effet 'Fureur\", rend 1D4 de Points de Vie",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Renekton_Cull_the_Meek.png/revision/latest?cb=20180301214744",
         "nomsort2": "Dominus (Ultime)",
-        "descsort2": "Double les Points de Vie actuels, gagne +2 Dégâts d'Attaque et applique un effet \"Fureur\" à Renekton pendant trois tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Renekton_Dominus.png/revision/latest?cb=20180301214803"
+        "descsort2": "Double les Points de Vie actuels, gagne +2 Dégâts d'Attaque et applique un effet \"Fureur\" à Renekton pendant trois tours"
     },
     {
         "nomchamp": "Rengar",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Rengar_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220904",
+        "nomchamplower": "rengar",
         "nomsort1": "Prédateur invisible",
         "descsort1": "Inflige 1DAD + 1 par participation à une élimination pendant le combat à un ennemi.",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Rengar_Unseen_Predator.png/revision/latest?cb=20170818193601",
         "nomsort2": "Chasseur-né (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi au tour suivant. Rengar ne peut pas être attaqué pendant ce tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Rengar_Thrill_of_the_Hunt.png/revision/latest?cb=20170818193550"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi au tour suivant. Rengar ne peut pas être attaqué pendant ce tour"
     },
     {
         "nomchamp": "Riven",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Riven_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220906",
+        "nomchamplower": "riven",
         "nomsort1": "Ailes brisées",
         "descsort1": "Inflige 1DAD à un ennemi. Peut être relancé sans coût jusqu'à deux fois si un jet de Dextérité est réussi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Riven_Broken_Wings.png/revision/latest?cb=20171223033604",
         "nomsort2": "Lame de l'exilée (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à tous les ennemis. Inflige 1DAD + 6 si \"Ailes birsées\" a réussi trois fois d'affilée au tour précédent",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Riven_Wind_Slash.png/revision/latest?cb=20171223033700"
+        "descsort2": "Inflige 1DAD + 3 à tous les ennemis. Inflige 1DAD + 6 si \"Ailes birsées\" a réussi trois fois d'affilée au tour précédent"
     },
     {
         "nomchamp": "Rumble",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Rumble_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220909",
+        "nomchamplower": "rumble",
         "nomsort1": "Lance-flammes",
         "descsort1": "Inflige 1DAP à tous les ennemis. Le lancer de dé de dégâts est différent pour chaque ennemi                             ",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Rumble_Flamespitter.png/revision/latest?cb=20171223034202",
         "nomsort2": "Éradication (Ultime)",
-        "descsort2": "Inflige 2DAP à chaque ennemi. Le lancer de dé de dégâts est différent pour chaque ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Rumble_The_Equalizer.png/revision/latest?cb=20171223034337"
+        "descsort2": "Inflige 2DAP à chaque ennemi. Le lancer de dé de dégâts est différent pour chaque ennemi"
     },
     {
         "nomchamp": "Ryze",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Ryze_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160630224634",
+        "nomchamplower": "ryze",
         "nomsort1": "Court-circuit",
         "descsort1": "Applique un effet \"Flux\". Si cet ennemi a un effet \"Flux\", inflige 1DAP + 5 à la place",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Ryze_Overload.png/revision/latest?cb=20170818193646",
         "nomsort2": "Flux envoûtant",
-        "descsort2": "Applique un effet \"Flux\". Si cet ennemi a un effet \"Flux\", réduit sa Vitesse d'Attaque à 0 pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Ryze_Spell_Flux.png/revision/latest?cb=20160628224231"
+        "descsort2": "Applique un effet \"Flux\". Si cet ennemi a un effet \"Flux\", réduit sa Vitesse d'Attaque à 0 pendant un tour"
     },
     {
         "nomchamp": "Samira",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Samira_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200829040527",
+        "nomchamplower": "samira",
         "nomsort1": "Tourbillon de lame",
         "descsort1": "Instantané. Annule une attaque ennemie visant Samira",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Samira_Blade_Whirl.png/revision/latest?cb=20200829104313",
         "nomsort2": "Gâchette infernale (Ultime)",
-        "descsort2": "Inflige 6DAD à tous les ennemis. N'est utilisable qu'en ayant enchaîner six attaques de base ou sorts",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Samira_Rank_S.png/revision/latest?cb=20200829104419"
+        "descsort2": "Inflige 6DAD à tous les ennemis. N'est utilisable qu'en ayant enchaîner six attaques de base ou sorts"
     },
     {
         "nomchamp": "Sejuani",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Sejuani_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220939",
+        "nomchamplower": "sejuani",
         "nomsort1": "Colère de l'hiver",
         "descsort1": "Inflige 2DAP à un ennemi. Applique un effet \"Givre\"",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Sejuani_Winter%27s_Wrath.png/revision/latest?cb=20170818194057",
         "nomsort2": "Permafrost",
-        "descsort2": "Inflige 1DAP + 2 par effet \"Givre\" à un ennemi et réduit sa Vitesse d'Attaque à 0 pendant un tour.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Sejuani_Permafrost.png/revision/latest?cb=20170817200418"
+        "descsort2": "Inflige 1DAP + 2 par effet \"Givre\" à un ennemi et réduit sa Vitesse d'Attaque à 0 pendant un tour."
     },
     {
         "nomchamp": "Senna",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Senna_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20191030041312",
+        "nomchamplower": "senna",
         "nomsort1": "Absolution",
         "descsort1": "Gagne +1 Dégât d'Attaque ou +1 Puissance par personnage mort pendant ce combat jusqu'à la fin du combat",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Senna_Absolution.png/revision/latest?cb=20191029180733",
         "nomsort2": "Ombre perforante",
-        "descsort2": "Inflige 1DAD aux ennemis et soigne 1DAP tous les alliés attaquant avant Senna",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Senna_Piercing_Darkness.png/revision/latest?cb=20191029180733"
+        "descsort2": "Inflige 1DAD aux ennemis et soigne 1DAP tous les alliés attaquant avant Senna"
     },
     {
         "nomchamp": "Seraphine",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Seraphine_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20201014004656",
+        "nomchamplower": "seraphine",
         "nomsort1": "Présence sur scène",
         "descsort1": "Inflige 1DAP à un ennemi à ce tour et dans trois tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Seraphine_Stage_Presence.png/revision/latest?cb=20201015204736",
         "nomsort2": "Bis (Ultime)",
-        "descsort2": "Empêche les ennemis d'attaquer pendant un tour pour chaque allié entre Seraphine et les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Seraphine_Encore.png/revision/latest?cb=20201015204620"
+        "descsort2": "Empêche les ennemis d'attaquer pendant un tour pour chaque allié entre Seraphine et les ennemis"
     },
     {
         "nomchamp": "Sett",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Sett_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200119095456",
+        "nomchamplower": "sett",
         "nomsort1": "Coup cathartique",
         "descsort1": "Inflige 1DAP + 1 par Point de Vie perdu à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Sett_Haymaker.png/revision/latest?cb=20200107124219",
         "nomsort2": "Le clou du spectacle (Ultime)",
-        "descsort2": "Inflige 1DAD à un ennemi et inflige 1DAD ou 1DAP de l'ennemi aux autres ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Sett_The_Show_Stopper.png/revision/latest?cb=20200107124154"
+        "descsort2": "Inflige 1DAD à un ennemi et inflige 1DAD ou 1DAP de l'ennemi aux autres ennemis"
     },
     {
         "nomchamp": "Shaco",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Shaco_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220937",
+        "nomchamplower": "shaco",
         "nomsort1": "Tromperie",
         "descsort1": "Shaco ne peut pas être attaqué par les ennemis pendant un tour. Sa prochaine attaque inflige +3 dégâts supplémentaires",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Shaco_Deceive.png/revision/latest?cb=20160608033455",
         "nomsort2": "Hallucination (Ultime)",
-        "descsort2": "Invoque un double de Shaco. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Shaco_Hallucinate.png/revision/latest?cb=20160608033548"
+        "descsort2": "Invoque un double de Shaco. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Shen",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Shen_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160113232959",
+        "nomchamplower": "shen",
         "nomsort1": "Rush des ombres",
         "descsort1": "Oblige les ennemis à attaquer Shen pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Shen_Shadow_Dash.png/revision/latest?cb=20160113193419",
         "nomsort2": "Soutien indéfectible (Ultime)",
-        "descsort2": "Les autres alliés ne subissent aucun dégât pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Shen_Stand_United.png/revision/latest?cb=20170217190944"
+        "descsort2": "Les autres alliés ne subissent aucun dégât pendant un tour"
     },
     {
         "nomchamp": "Shyvana",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Shyvana_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221059",
+        "nomchamplower": "shyvana",
         "nomsort1": "Souffle de flammes ",
         "descsort1": "Possède un effet différent en fonction de la forme adoptée",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Shyvana_Flame_Breath.png/revision/latest?cb=20130929123244",
         "nomsort2": "Vol du dragon (Ultime)",
-        "descsort2": "Transforme Shyvana en dragon pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Shyvana_Dragon%27s_Descent.png/revision/latest?cb=20130929123243"
+        "descsort2": "Transforme Shyvana en dragon pendant trois tours. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Singed",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Singed_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221057",
+        "nomchamplower": "singed",
         "nomsort1": "Piste empoisonnée",
         "descsort1": "Inflige 1DAP à tous les ennemis",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Singed_Poison_Trail.png/revision/latest?cb=20141023220615",
         "nomsort2": "Potion de démence (Ultime)",
-        "descsort2": "Passe en première position d'initiative et donne +3 dégâts supplémentaires à \"Piste empoisonnée\" pendant trois tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Singed_Insanity_Potion.png/revision/latest?cb=20141023220448"
+        "descsort2": "Passe en première position d'initiative et donne +3 dégâts supplémentaires à \"Piste empoisonnée\" pendant trois tours"
     },
     {
         "nomchamp": "Sion",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Sion_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221054",
+        "nomchamplower": "sion",
         "nomsort1": "Fracas meurtrier",
         "descsort1": "Inflige 1DAD + 3 à tous les ennemis au tour suivant",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Sion_Decimating_Smash.png/revision/latest?cb=20170818194232",
         "nomsort2": "Assaut inarrêtable (Ultime)",
-        "descsort2": "Inflige 1DAD + 5 à un ennemi, l'empêche d'attaquer pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Sion_Unstoppable_Onslaught.png/revision/latest?cb=20170818194344"
+        "descsort2": "Inflige 1DAD + 5 à un ennemi, l'empêche d'attaquer pendant un tour"
     },
     {
         "nomchamp": "Sivir",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Sivir_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221110",
+        "nomchamplower": "sivir",
         "nomsort1": "Lame boomerang",
         "descsort1": "Inflige 1DAD + 1 à un ennemi pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Sivir_Boomerang_Blade.png/revision/latest?cb=20170818194410",
         "nomsort2": "Bouclier magique",
-        "descsort2": "Instantané. Sivir ne peut pas subir de dégâts de sorts pendant un tour.                                                ",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Sivir_Spell_Shield.png/revision/latest?cb=20170818194532"
+        "descsort2": "Instantané. Sivir ne peut pas subir de dégâts de sorts pendant un tour.                                                "
     },
     {
         "nomchamp": "Skarner",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Skarner_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221137",
+        "nomchamplower": "skarner",
         "nomsort1": "Brèche",
         "descsort1": "Inflige 1DAD + 3 à un ennemi. La prochaine attaque qu'il subira l'empêchera d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Skarner_Fracture.png/revision/latest?cb=20140619095951",
         "nomsort2": "Empalement (Ultime)",
-        "descsort2": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Skarner_Impale.png/revision/latest?cb=20140619100032"
+        "descsort2": "Empêche un ennemi d'attaquer pendant un tour"
     },
     {
         "nomchamp": "Sona",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Sona_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221141",
+        "nomchamplower": "sona",
         "nomsort1": "Hymne à la bravoure",
         "descsort1": "Inflige 1DAP - 1 à l'ennemi ayant attaqué en premier ou en dernier",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Sona_Hymn_of_Valor.png/revision/latest?cb=20170818194632",
         "nomsort2": "Crescendo (Ultime)",
-        "descsort2": "Empêche les ennemis d'attaquer pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Sona_Crescendo.png/revision/latest?cb=20170818194617"
+        "descsort2": "Empêche les ennemis d'attaquer pendant un tour"
     },
     {
         "nomchamp": "Soraka",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Soraka_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221143",
+        "nomchamplower": "soraka",
         "nomsort1": "Infusion astrale",
         "descsort1": "Rend 1DAP de Points de Vie à un autre personnage allié",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Soraka_Astral_Infusion.png/revision/latest?cb=20170818194809",
         "nomsort2": "Équinoxe",
-        "descsort2": "Réduit au silence et confère -1 Vitesse d'Attaque à tous les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Soraka_Equinox.png/revision/latest?cb=20170818194837"
+        "descsort2": "Réduit au silence et confère -1 Vitesse d'Attaque à tous les ennemis pendant un tour"
     },
     {
         "nomchamp": "Swain",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Swain_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180201124449",
+        "nomchamplower": "swain",
         "nomsort1": "Oeil de l'empire",
         "descsort1": "Révèle les ennemis cachés et les pièges. Inflige 1DAP + 1 à un ennemi.",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Swain_Vision_of_Empire.png/revision/latest?cb=20180301213848",
         "nomsort2": "Capture",
-        "descsort2": "Inflige 1DAP + 1 à un ennemi, l'immobilise et le désarme pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Swain_Nevermove.png/revision/latest?cb=20180301213703"
+        "descsort2": "Inflige 1DAP + 1 à un ennemi, l'immobilise et le désarme pendant un tour"
     },
     {
         "nomchamp": "Sylas",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Sylas_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190108224754",
+        "nomchamplower": "sylas",
         "nomsort1": "Régicide",
         "descsort1": "Inflige 1DAP + 3 à un ennemi. Si son sort ultime est copié, inflige 1DAP + 5 et rend 1D4 de Points de Vie",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Sylas_Kingslayer.png/revision/latest?cb=20190109233825",
         "nomsort2": "Détournement (Ultime)",
-        "descsort2": "Copie le sort ultime d'un allié ou d'un ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Sylas_Hijack.png/revision/latest?cb=20190109233812"
+        "descsort2": "Copie le sort ultime d'un allié ou d'un ennemi"
     },
     {
         "nomchamp": "Syndra",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Syndra_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213755",
+        "nomchamplower": "syndra",
         "nomsort1": "Sphère noire",
         "descsort1": "Consomme un point d'Intelligence pour gagner une sphère noire",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Syndra_Dark_Sphere.png/revision/latest?cb=20130929123317",
         "nomsort2": "Déchaînement de puissance (Ultime)",
-        "descsort2": "Inflige 1DAP + 1 par sphère noire à un ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Syndra_Unleashed_Power.png/revision/latest?cb=20130929123322"
+        "descsort2": "Inflige 1DAP + 1 par sphère noire à un ennemi"
     },
     {
         "nomchamp": "Tahm Kench",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Tahm_Kench_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526213915",
+        "nomchamplower": "tahm_kench",
         "nomsort1": "Coup de langue",
         "descsort1": "Inflige 1DAD à un ennemi. Applique un effet \"Goût acquis\"",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Tahm_Kench_Tongue_Lash.png/revision/latest?cb=20150623185326",
         "nomsort2": "Dévoration (Ultime)",
-        "descsort2": "Élimine un ennemi ayant trois effets \"Goût acquis\"",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Tahm_Kench_Devour.png/revision/latest?cb=20150623185326"
+        "descsort2": "Élimine un ennemi ayant trois effets \"Goût acquis\""
     },
     {
         "nomchamp": "Taliyah",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Taliyah_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160510183138",
+        "nomchamplower": "taliyah",
         "nomsort1": "Rafale filée",
         "descsort1": "Inflige 1DAP + 3 avec des dégâts répartis de manière voulue entre les ennemis.",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Taliyah_Threaded_Volley.png/revision/latest?cb=20160521202755",
         "nomsort2": "Mur de la tisseuse (Ultime)",
-        "descsort2": "Sépare le champ de bataille de manière souhaitée pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Taliyah_Weaver%27s_Wall.png/revision/latest?cb=20160521202829"
+        "descsort2": "Sépare le champ de bataille de manière souhaitée pendant trois tours. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Talon",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Talon_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221208",
+        "nomchamplower": "talon",
         "nomsort1": "Ratissage",
         "descsort1": "Inflige 1DAD + 2 à un ennemi pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Talon_Rake.png/revision/latest?cb=20170818195054",
         "nomsort2": "Voie de l'assassin",
-        "descsort2": "Passe en première position d'initiative pendant deux tours. Talon ne peut pas être attaqué pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Talon_Assassin%27s_Path.png/revision/latest?cb=20170818195014"
+        "descsort2": "Passe en première position d'initiative pendant deux tours. Talon ne peut pas être attaqué pendant un tour"
     },
     {
         "nomchamp": "Taric",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Taric_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160405191023",
+        "nomchamplower": "taric",
         "nomsort1": "Éblouissement",
         "descsort1": "Inflige 1DAP + 1 à un ennemi, et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Taric_Dazzle.png/revision/latest?cb=20160608034559",
         "nomsort2": "Lumière cosmique (Ultime)",
-        "descsort2": "Un allié ne peut pas subir de dégâts pendant un tour, et Taric ne peut pas subir de dégâts au tour suivant",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/Taric_Cosmic_Radiance.png/revision/latest?cb=20160608034537"
+        "descsort2": "Un allié ne peut pas subir de dégâts pendant un tour, et Taric ne peut pas subir de dégâts au tour suivant"
     },
     {
         "nomchamp": "Teemo",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Teemo_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221254",
+        "nomchamplower": "teemo",
         "nomsort1": "Fléchette aveuglante ",
         "descsort1": "Inflige 1DAP + 3 à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Teemo_Blinding_Dart.png/revision/latest?cb=20171221034010",
         "nomsort2": "Piège nocif (Ultime)",
-        "descsort2": "Invoque un champignon qui inflige 1DAP + 3 au prochain ennemi attaquant",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Teemo_Noxious_Trap.png/revision/latest?cb=20171221034223"
+        "descsort2": "Invoque un champignon qui inflige 1DAP + 3 au prochain ennemi attaquant"
     },
     {
         "nomchamp": "Thresh",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Thresh_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221302",
+        "nomchamplower": "thresh",
         "nomsort1": "Peine capitale",
         "descsort1": "Oblige un ennemi à attaquer Thresh ou l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Thresh_Death_Sentence.png/revision/latest?cb=20130929123337",
         "nomsort2": "Lien des ténèbres",
-        "descsort2": "Instantané. Un allié ne peut pas subir de dégâts pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Thresh_Dark_Passage.png/revision/latest?cb=20130929123336"
+        "descsort2": "Instantané. Un allié ne peut pas subir de dégâts pendant un tour"
     },
     {
         "nomchamp": "Tristana",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Tristana_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221501",
+        "nomchamplower": "tristana",
         "nomsort1": "Saut roquette",
         "descsort1": "Empêche Tristana d'attaquer et d'être attaqué pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Tristana_Rocket_Jump.png/revision/latest?cb=20150117180803",
         "nomsort2": "Charge explosive",
-        "descsort2": "Inflige 1DAD + 1 par attaque de base faite sur un ennemi au prochain tour.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Tristana_Explosive_Charge.png/revision/latest?cb=20170818195216"
+        "descsort2": "Inflige 1DAD + 1 par attaque de base faite sur un ennemi au prochain tour."
     },
     {
         "nomchamp": "Trundle",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Trundle_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221506",
+        "nomchamplower": "trundle",
         "nomsort1": "Morsure",
         "descsort1": "Inflige 1DAD à un ennemi et gagne ses Dégâts d'Attaque pendant deux tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Trundle_Chomp.png/revision/latest?cb=20170818195236",
         "nomsort2": "Montagne de glace",
-        "descsort2": "Confère -1 Vitesse d'Attaque à tous les ennemis pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/Trundle_Pillar_of_Ice.png/revision/latest?cb=20170818195329"
+        "descsort2": "Confère -1 Vitesse d'Attaque à tous les ennemis pendant un tour"
     },
     {
         "nomchamp": "Tryndamere",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Tryndamere_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221636",
+        "nomchamplower": "tryndamere",
         "nomsort1": "Vague de violence",
         "descsort1": "Applique trois effets \"Fureur\" à Tryndamere pendant deux tours. Inflige 1DAD + 1 par effet \"Fureur\" à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Tryndamere_Battle_Fury.png/revision/latest?cb=20140618163443",
         "nomsort2": "Rage inépuisable (Ultime)",
-        "descsort2": "Instantané. Tryndamere ne peut pas mourir pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Tryndamere_Undying_Rage.png/revision/latest?cb=20170818195410"
+        "descsort2": "Instantané. Tryndamere ne peut pas mourir pendant deux tours"
     },
     {
         "nomchamp": "Twisted Fate",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Twisted_Fate_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221634",
+        "nomchamplower": "twisted_fate",
         "nomsort1": "Dé pipé",
         "descsort1": "Instantané. Peut changer la valeur d'un jet de dé d'un allié",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Twisted_Fate_Loaded_Dice.png/revision/latest?cb=20150312021516",
         "nomsort2": "Bonne pioche",
-        "descsort2": "Obtient une carte bleue, rouge ou jaune aléatoirement et applique son effet. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Twisted_Fate_Pick_a_Card.png/revision/latest?cb=20170212193240"
+        "descsort2": "Obtient une carte bleue, rouge ou jaune aléatoirement et applique son effet. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Twitch",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Twitch_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221633",
+        "nomchamplower": "twitch",
         "nomsort1": "Embuscade",
         "descsort1": "Empêche Twitch d'être attaqué pendant un tour et lui confère +1 Vitesse d'Attaque au prochain tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Twitch_Ambush.png/revision/latest?cb=20140421235044",
         "nomsort2": "Panique (Ultime)",
-        "descsort2": "Inflige 1DAD + 1 par ennemi présent dans le combat à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Twitch_Spray_and_Pray.png/revision/latest?cb=20140414084451"
+        "descsort2": "Inflige 1DAD + 1 par ennemi présent dans le combat à tous les ennemis"
     },
     {
         "nomchamp": "Udyr",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Udyr_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402221631",
+        "nomchamplower": "udyr",
         "nomsort1": "Posture du tigre",
         "descsort1": "Adopte la posture du tigre. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Udyr_Tiger_Stance.png/revision/latest?cb=20171223035235",
         "nomsort2": "Posture du phénix",
-        "descsort2": "Adopte la posture du phénix. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Udyr_Phoenix_Stance.png/revision/latest?cb=20171223035221"
+        "descsort2": "Adopte la posture du phénix. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Urgot",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Urgot_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170711190113",
+        "nomchamplower": "urgot",
         "nomsort1": "Torpille corrosive",
         "descsort1": "Inflige 1DAD + 3 à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Urgot_Corrosive_Charge.png/revision/latest?cb=20170715223126",
         "nomsort2": "Règne de la terreur (Ultime)",
-        "descsort2": "Élimine un ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Urgot_Fear_Beyond_Death.png/revision/latest?cb=20170715224457"
+        "descsort2": "Élimine un ennemi"
     },
     {
         "nomchamp": "Varus",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Varus_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20171215205843",
+        "nomchamplower": "varus",
         "nomsort1": "Flèche perforante",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Peut être relancé sans coût au tour suivant pour infliger 1DAD + 5",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Varus_Piercing_Arrow.png/revision/latest?cb=20170818195559",
         "nomsort2": "Chaîne corruptrice (Ultime)",
-        "descsort2": "Réduit la Vitesse d'Attaque de tous les ennemis à 0 pendant un tour. Ils peuvent esquiver par un jet de Constitution",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Varus_Chain_of_Corruption.png/revision/latest?cb=20170818195519"
+        "descsort2": "Réduit la Vitesse d'Attaque de tous les ennemis à 0 pendant un tour. Ils peuvent esquiver par un jet de Constitution"
     },
     {
         "nomchamp": "Vayne",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Vayne_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222338",
+        "nomchamplower": "vayne",
         "nomsort1": "Roulade",
         "descsort1": "Instantané. Annule une attaque ennemie visant Vayne",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Vayne_Tumble.png/revision/latest?cb=20171223035822",
         "nomsort2": "Carreaux d'argent",
-        "descsort2": "Inflige 1DAD +1 à un ennemi par différence positive de Point de Vie entre Vayne et l'ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Vayne_Silver_Bolts.png/revision/latest?cb=20171223035808"
+        "descsort2": "Inflige 1DAD +1 à un ennemi par différence positive de Point de Vie entre Vayne et l'ennemi"
     },
     {
         "nomchamp": "Veigar",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Veigar_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222337",
+        "nomchamplower": "veigar",
         "nomsort1": "Matière noire",
         "descsort1": "Inflige 1DAP + 1 par sort de Veigar lancé pendant l'aventure",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Veigar_Dark_Matter.png/revision/latest?cb=20171223040046",
         "nomsort2": "Profanation",
-        "descsort2": "Immobilise, réduit au silence et désarme tous les ennemis pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Veigar_Event_Horizon.png/revision/latest?cb=20171223040100"
+        "descsort2": "Immobilise, réduit au silence et désarme tous les ennemis pendant deux tours"
     },
     {
         "nomchamp": "Vel'Koz",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Vel%27Koz_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222335",
+        "nomchamplower": "vel_koz",
         "nomsort1": "Fission du plasma",
         "descsort1": "Inflige 1DAP + 3 à deux ennemis. Si un ennemi a un effet \"Plasma\", inflige 1DAP + 5. Applique un effet \"Plasma\"",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Vel%27Koz_Plasma_Fission.png/revision/latest?cb=20170818195659",
         "nomsort2": "Désintégrateur de formes de vie (Ultime)",
-        "descsort2": "Inflige 1DAP + 5 à tous les ennemis ayant un effet \"Plasma\". Applique un effet \"Plasma\"",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Vel%27Koz_Life_Form_Disintegration_Ray.png/revision/latest?cb=20170818195631"
+        "descsort2": "Inflige 1DAP + 5 à tous les ennemis ayant un effet \"Plasma\". Applique un effet \"Plasma\""
     },
     {
         "nomchamp": "Vex",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Vex_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20220330171954",
+        "nomchamplower": "vex",
         "nomsort1": "Malheur et désespoir",
         "descsort1": "Applique une effet \"Désespoir\" sur chaque ennemi ayant attaqué basiquement ou lancé un sort avec un composant gestuel",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Vex_Doom_%27n_Gloom.png/revision/latest?cb=20210907161544",
         "nomsort2": "Déferlement d'ombre (Ultime)",
-        "descsort2": "Inflige 1DAP + 2 par effet \"Désespoir\" à tous les ennemis",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Vex_Shadow_Surge.png/revision/latest?cb=20210907161543"
+        "descsort2": "Inflige 1DAP + 2 par effet \"Désespoir\" à tous les ennemis"
     },
     {
         "nomchamp": "Vi",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Vi_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526214220",
+        "nomchamplower": "vi",
         "nomsort1": "Brise-coffre",
         "descsort1": "Inflige 2DAD à un ennemi au tour suivant",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Vi_Vault_Breaker.png/revision/latest?cb=20130929123432",
         "nomsort2": "Mise en demeure (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à un ennemi, l'immobilise et le désarme pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Vi_Cease_and_Desist.png/revision/latest?cb=20130929123428"
+        "descsort2": "Inflige 1DAD + 3 à un ennemi, l'immobilise et le désarme pendant un tour"
     },
     {
         "nomchamp": "Viego",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Viego_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20210904152806",
+        "nomchamplower": "viego",
         "nomsort1": "Assujettissement",
         "descsort1": "Gagne la moitié des caractéristiques d'un ennemi éliminé et copie son premier sort pendant trois tours",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Viego_Sovereign%27s_Domination.png/revision/latest?cb=20210108194318",
         "nomsort2": "Coeur brisé (Ultime)",
-        "descsort2": "Inflige 1DAD + 5 à un ennemi. N'a aucun temps de recharge si votre action précédente était un sort adverse",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Viego_Heartbreaker.png/revision/latest?cb=20210108194301"
+        "descsort2": "Inflige 1DAD + 5 à un ennemi. N'a aucun temps de recharge si votre action précédente était un sort adverse"
     },
     {
         "nomchamp": "Viktor",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Viktor_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222333",
+        "nomchamplower": "viktor",
         "nomsort1": "Rayon de la mort",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. Les autres ennemis subissent 1DAP - 1",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Viktor_Death_Ray.png/revision/latest?cb=20170818195814",
         "nomsort2": "Tempête du chaos (Ultime)",
-        "descsort2": "Inverse les Dégâts d'Attaque et la Puissance des ennemis pendant trois tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Viktor_Chaos_Storm.png/revision/latest?cb=20170818195755"
+        "descsort2": "Inverse les Dégâts d'Attaque et la Puissance des ennemis pendant trois tours"
     },
     {
         "nomchamp": "Vladimir",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Vladimir_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222423",
+        "nomchamplower": "vladimir",
         "nomsort1": "Transfusion",
         "descsort1": "Inflige 1DAP à un ennemi et augmente définitivement les points de vie de Vladimir d'un point",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Vladimir_Transfusion.png/revision/latest?cb=20160616212740",
         "nomsort2": "Bain de sang",
-        "descsort2": "Empêche Vladimir d'attaquer et d'être attaqué pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Vladimir_Sanguine_Pool.png/revision/latest?cb=20160616212644"
+        "descsort2": "Empêche Vladimir d'attaquer et d'être attaqué pendant un tour"
     },
     {
         "nomchamp": "Volibear",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Volibear_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200512204952 ",
+        "nomchamplower": "volibear",
         "nomsort1": "Foudroiement",
         "descsort1": "Inflige 1DAP à tous les ennemis et confère 1D2 d'Armure et Résistance Magique pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Volibear_Sky_Splitter.png/revision/latest?cb=20200512213218",
         "nomsort2": "Tempête incarnée (Ultime)",
-        "descsort2": "Détruit tous les pièges ennemis. Confère 1D6 de Points de Vie et 1D4 de Puissance pendant trois tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Volibear_Stormbringer.png/revision/latest?cb=20200512213224"
+        "descsort2": "Détruit tous les pièges ennemis. Confère 1D6 de Points de Vie et 1D4 de Puissance pendant trois tours"
     },
     {
         "nomchamp": "Warwick",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Warwick_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170110204118",
+        "nomchamplower": "warwick",
         "nomsort1": "Dents de la bête",
         "descsort1": "Inflige 1DAD + 1 par Point de Vie ennemi manquant et soigne l'équivalent à Warwick",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Warwick_Jaws_of_the_Beast.png/revision/latest?cb=20170817195500",
         "nomsort2": "Contrainte infinie (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 au premier ennemi attaquant et l'empêche d'attaquer pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Warwick_Infinite_Duress.png/revision/latest?cb=20170817201148"
+        "descsort2": "Inflige 1DAD + 3 au premier ennemi attaquant et l'empêche d'attaquer pendant un tour"
     },
     {
         "nomchamp": "Wukong",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Wukong_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222522",
+        "nomchamplower": "wukong",
         "nomsort1": "Guerrier espiègle",
         "descsort1": "Invoque un clone de Wukong pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Wukong_Warrior_Trickster.png/revision/latest?cb=20130929123452",
         "nomsort2": "Cyclone (Ultime)",
-        "descsort2": "Inflige 1DAD à tous les ennemis. Empêche le premier et le dernier ennemi d'attaquer pendant ce tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Wukong_Cyclone.png/revision/latest?cb=20130929123451"
+        "descsort2": "Inflige 1DAD à tous les ennemis. Empêche le premier et le dernier ennemi d'attaquer pendant ce tour"
     },
     {
         "nomchamp": "Xayah",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Xayah_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20170404193839",
+        "nomchamplower": "xayah",
         "nomsort1": "Lien amoureux",
         "descsort1": "Annule les prochains dégâts que subit Rakan. Le sort ne coûte aucun Point de Ressource si Rakan l'utilise aussi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Blazing_Feathers_profileicon.png/revision/latest/scale-to-width-down/64?cb=20170505012854",
         "nomsort2": "Rafale de plumes (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à tous les ennemis. Xayah ne peut pas être attaqué pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Xayah_Featherstorm.png/revision/latest?cb=20170817195129"
+        "descsort2": "Inflige 1DAD + 3 à tous les ennemis. Xayah ne peut pas être attaqué pendant un tour"
     },
     {
         "nomchamp": "Xerath",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Xerath_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222520",
+        "nomchamplower": "xerath",
         "nomsort1": "Rayon arcanique",
         "descsort1": "Inflige 1DAP + 3 à un ennemi. Peut être relancé sans coût au tour suivant pour toucher un ennemi supplémentaire",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Xerath_Arcanopulse.png/revision/latest?cb=20180616010113",
         "nomsort2": "Rite arcanique (Ultime)",
-        "descsort2": "Inflige 1DAP à un ennemi, cinq fois",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Xerath_Rite_of_the_Arcane.png/revision/latest?cb=20180616010310"
+        "descsort2": "Inflige 1DAP à un ennemi, cinq fois"
     },
     {
         "nomchamp": "Xin Zhao",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20180207001445",
+        "nomchamplower": "xin_zhao",
         "nomsort1": "Frappe des trois serres",
         "descsort1": "Inflige 1DAD + 2 à un ennemi. Si l'ennemi n'a pas été attaqué au tour précédent, inflige 1DAD + 3 à la place",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Xin_Zhao_Three_Talon_Strike.png/revision/latest?cb=20170915205234",
         "nomsort2": "Charge audacieuse",
-        "descsort2": "Inflige 1DAD à tous les ennemis, leur confère -1 Vitesse d'Attaque et confère +1 Vitesse d'Attaque pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Xin_Zhao_Audacious_Charge.png/revision/latest?cb=20170915205300"
+        "descsort2": "Inflige 1DAD à tous les ennemis, leur confère -1 Vitesse d'Attaque et confère +1 Vitesse d'Attaque pendant un tour"
     },
     {
         "nomchamp": "Yasuo",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Yasuo_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222545",
+        "nomchamplower": "yasuo",
         "nomsort1": "Tempête d'acier",
         "descsort1": "Applique un effet \"Tempête\" et inflige 1DAD + 3 à un ennemi. À trois effets \"Tempête\", inflige à tous les ennemis",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Yasuo_Steel_Tempest_3.png/revision/latest?cb=20171221052243",
         "nomsort2": "Mur de vent",
-        "descsort2": "Instantané. Annule une attaque ennemie visant Yasuo                         ",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Yasuo_Wind_Wall.png/revision/latest?cb=20131122024151"
+        "descsort2": "Instantané. Annule une attaque ennemie visant Yasuo                         "
     },
     {
         "nomchamp": "Yone",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Yone_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20200916084443",
+        "nomchamplower": "yone",
         "nomsort1": "Libération spirituelle",
         "descsort1": "Yone ne peut pas être attaqué pendant un tour. Sa prochaine attaque inflige +2 dégâts supplémentaires",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Yone_Soul_Unbound.png/revision/latest?cb=20200726104428",
         "nomsort2": "Destin scellé (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 à tous les ennemis sauf pour le dernier ennemi attaquant qui subit 1DAD + 5 à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Yone_Fate_Sealed.png/revision/latest?cb=20200726104302"
+        "descsort2": "Inflige 1DAD + 3 à tous les ennemis sauf pour le dernier ennemi attaquant qui subit 1DAD + 5 à la place"
     },
     {
         "nomchamp": "Yorick",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Yorick_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160823190542",
+        "nomchamplower": "yorick",
         "nomsort1": "Derniers sacrements",
         "descsort1": "Invoque quatre goules de brume. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Yorick_Last_Rites.png/revision/latest?cb=20170818200247",
         "nomsort2": "Élégie des îles (Ultime)",
-        "descsort2": "Invoque la Vierge de la brume. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Yorick_Eulogy_of_the_Isles.png/revision/latest?cb=20170818200231"
+        "descsort2": "Invoque la Vierge de la brume. Pour plus d'informations, se référer à l'annexe"
     },
     {
         "nomchamp": "Yuumi",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Yuumi_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20190430215817",
+        "nomchamplower": "yuumi",
         "nomsort1": "Félin pour l'autre !",
         "descsort1": "Attache Yuumi à un allié. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Yuumi_You_and_Me%21.png/revision/latest?cb=20190426210438",
         "nomsort2": "Zouuu !",
-        "descsort2": "Soigne 1D6 de Points de Vie à un allié. Si Yuumi est attachée à cet allié, soigne 1D8 de Points de Vie à la place",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Yuumi_Zoomies.png/revision/latest?cb=20190426210450"
+        "descsort2": "Soigne 1D6 de Points de Vie à un allié. Si Yuumi est attachée à cet allié, soigne 1D8 de Points de Vie à la place"
     },
     {
         "nomchamp": "Zac",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Zac_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160417012331",
+        "nomchamplower": "zac",
         "nomsort1": "Fronde",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Zac_Elastic_Slingshot.png/revision/latest?cb=20170818200352",
         "nomsort2": "Boing ! (Ultime)",
-        "descsort2": "Inflige 1DAP + 4 à tous les ennemis et les empêche d'attaquer pendant un tour.",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Zac_Let%27s_Bounce%21.png/revision/latest?cb=20170818200420"
+        "descsort2": "Inflige 1DAP + 4 à tous les ennemis et les empêche d'attaquer pendant un tour."
     },
     {
         "nomchamp": "Zed",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Zed_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526214523",
+        "nomchamplower": "zed",
         "nomsort1": "Ombre vivante",
         "descsort1": "Invoque une ombre de Zed. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Zed_Living_Shadow.png/revision/latest?cb=20130929123514",
         "nomsort2": "Marque de la mort (Ultime)",
-        "descsort2": "Inflige 1DAD + 3 par ombre à un ennemi",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Zed_Death_Mark.png/revision/latest?cb=20130929123513"
+        "descsort2": "Inflige 1DAD + 3 par ombre à un ennemi"
     },
     {
         "nomchamp": "Zeri",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Zeri_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20220330171840",
+        "nomchamplower": "zeri",
         "nomsort1": "Rafale",
         "descsort1": "Inflige 1DAD à un ennemi, sept fois",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Zeri_Burst_Fire.png/revision/latest?cb=20220107163524",
         "nomsort2": "Charge ionique",
-        "descsort2": "Passe en première position d'intiative et donne +2 dégâts supplémentaires à vos attaques pendant deux tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Zeri_Spark_Surge.png/revision/latest?cb=20220107163536"
+        "descsort2": "Passe en première position d'intiative et donne +2 dégâts supplémentaires à vos attaques pendant deux tours"
     },
     {
         "nomchamp": "Ziggs",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Ziggs_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402220126",
+        "nomchamplower": "ziggs",
         "nomsort1": "Bombe rebondissante",
         "descsort1": "Inflige 1DAP + 3 à un ennemi ou la moitié des dégâts originels à deux ennemis (Arrondis au supérieur)",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Ziggs_Bouncing_Bomb.png/revision/latest?cb=20130929123517",
         "nomsort2": "Charge explosive",
-        "descsort2": "Inflige 1DAP à tous les ennemis. Ils sont désarmés pendant un tour",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Ziggs_Satchel_Charge.png/revision/latest?cb=20130929123519"
+        "descsort2": "Inflige 1DAP à tous les ennemis. Ils sont désarmés pendant un tour"
     },
     {
         "nomchamp": "Zilean",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Zilean_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20150402222614",
+        "nomchamplower": "zilean",
         "nomsort1": "Retour rapide",
         "descsort1": "Réduit le temps de recharge d'un sort choisi de chaque autre allié à zéro",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Zilean_Rewind.png/revision/latest?cb=20150210202329",
         "nomsort2": "Retour temporel (Ultime)",
-        "descsort2": "Un allié ne peut pas mourir pendant trois tours",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Zilean_Chronoshift.png/revision/latest?cb=20150210202548"
+        "descsort2": "Un allié ne peut pas mourir pendant trois tours"
     },
     {
         "nomchamp": "Zoe",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Zoe_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20171107215256",
+        "nomchamplower": "zoe",
         "nomsort1": "Astro-pong !",
         "descsort1": "Inflige 1DAP + 2 par tour où le sort est relancé à un ennemi",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Zoe_Paddle_Star.png/revision/latest?cb=20171221181550",
         "nomsort2": "Bulle soporifique",
-        "descsort2": "Empêche un ennemi d'attaquer pendant un tour. La prochaine attaque qu'il subira infligera des dégâts doublés",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Zoe_Sleepy_Trouble_Bubble.png/revision/latest?cb=20171221182251"
+        "descsort2": "Empêche un ennemi d'attaquer pendant un tour. La prochaine attaque qu'il subira infligera des dégâts doublés"
     },
     {
         "nomchamp": "Zyra",
-        "iconechamp": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Zyra_OriginalSquare.png/revision/latest/scale-to-width-down/96?cb=20160526214642",
+        "nomchamplower": "zyra",
         "nomsort1": "Jardin de ronces",
         "descsort1": "Invoque une graine qui devient une plante au tour suivant. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Zyra_Garden_of_Thorns.png/revision/latest?cb=20160608035341",
         "nomsort2": "Ronces étrangleuses (Ultime)",
-        "descsort2": "Inflige 1DAP + 3 par plante poussée à tous les ennemis. Consomme les plantes poussées",
-        "iconesort2": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Zyra_Stranglethorns.png/revision/latest?cb=20160608035451"
+        "descsort2": "Inflige 1DAP + 3 par plante poussée à tous les ennemis. Consomme les plantes poussées"
     }
 ]
