@@ -6,8 +6,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <!-- Latest compiled and minified CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/format-classique.css">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/format-classique.css">
     <title>Voyages en Terre Runique</title>
     <link rel="icon" href="files/images/icon.png">
     <meta name="description" content="Voyages en Terre Runique">
@@ -17,12 +17,12 @@
 <body>
     <header id="header">
         <a class="nav-link" href="index.html">
-            <img src="files/images/logo.png" id="logo" alt="Logo de voyages en Terre Runique">
+            <img src="../files/images/logo.png" id="logo" alt="Logo de voyages en Terre Runique">
         </a>
         <nav class="navbar navbar-expand-lg navbar-dark" id="sticky-header">
             <div class="container-fluid">
                 <a class="nav-logo" href="index.html">
-                    <img src="files/images/minilogo.png" id="minilogo" height=50 class="invisible" alt="Logo miniature de voyages en Terre Runique">
+                    <img src="../files/images/minilogo.png" id="minilogo" height=50 class="invisible" alt="Logo miniature de voyages en Terre Runique">
                     <p id="minilogotext" class="invisible">Voyages en Terre Runique</p>
                 </a>
                 <div class="borgar-container">
@@ -33,14 +33,14 @@
                 <div class="collapse navbar-collapse navbar-right" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item home notcurrent">
-                            <a class="nav-link" href="index.html">ACCUEIL</a>
+                            <a class="nav-link" href="../index.html">ACCUEIL</a>
                         </li>
                         <li class="separator"></li>
                         <li class="nav-item currentpage">
-                            <a class="nav-link" href="format-classique.html">FORMAT CLASSIQUE</a>
+                            <a class="nav-link" href="champions.html">FORMAT CLASSIQUE</a>
                         </li>
                         <li class="nav-item notcurrent">
-                            <a class="nav-link" href="format-libre.html">FORMAT LIBRE</a>
+                            <a class="nav-link" href="../format-libre.html">FORMAT LIBRE</a>
                         </li>
                         <li class="separator"></li>
                         <li class="separator"></li>
@@ -54,7 +54,7 @@
         <h1>Format Classique</h1>
         <h2>En développement !</h2>
         <form class="form-inline d-flex justify-content-center md-form form-sm mt-0">
-            <img id="fieldChampIcon" class="search" src="files/images/magnifying-glass.png">
+            <img id="fieldChampIcon" class="search" src="../files/images/magnifying-glass.png">
             <input id="fieldChamp" onkeyup="champ_search()" class="form-control form-control-sm ml-3" type="text" placeholder="Rechercher un champion" aria-label="Search">
           </form>
         <div id="champion-list"></div>
@@ -99,41 +99,6 @@
                 });
             });
     </script>
-    <!--script>
-        // Function to change background size "cover" to
-        // either "100vw auto" (100 percent of viewport
-        // width and automatic height)
-        // or "auto 100vh" (automatic width and 100
-        // percent of viewport height).
-        fixBackgroundSizeCover = function(event) {
-
-        var bgImageWidth = 1920,
-        bgImageHeight = 1080,
-        bgImageRatio = bgImageWidth / bgImageHeight,
-        windowSizeRatio = window.innerWidth / window.innerHeight;
-
-        if (bgImageRatio > windowSizeRatio) {
-        document.body.style.backgroundSize = 'auto 100vh';
-        } else {
-        document.body.style.backgroundSize = '100vw auto';
-        }
-        };
-
-        // Execute the fix function once upon load
-        fixBackgroundSizeCover();
-
-        // Execute the fix function everytime on window resize
-        window.addEventListener('resize', fixBackgroundSizeCover);
-
-        // A test button to toggle body vertical scrollbar on and off
-        document.getElementById('toggle-body-vertical-scrollbar-btn').addEventListener('click', function(event) {
-        if(document.body.classList.contains('force-scrollbar')) {
-            document.body.classList.remove('force-scrollbar');
-        } else {
-            document.body.classList.add('force-scrollbar');
-        }
-        });
-    </script-->
     <script>
         function champ_search() {
             var text;
