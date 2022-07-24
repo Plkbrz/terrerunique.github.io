@@ -1096,7 +1096,7 @@
         "descsort1": "Choisissez un ennemi. Il inflige ses dégâts d'attaque de base maximum à un autre ennemi",
         "iconesort1": "https://terrerunique.github.io/files/images/champions/renata_glasc1.webp",
         "nomsort2": "Prise de contrôle hostile (Ultime)",
-        "descsort2": "Chaque ennemi attaque une fois chaque autre ennemi",
+        "descsort2": "Chaque ennemi attaque un autre ennemi",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/renata_glasc2.webp"
     },
     {
