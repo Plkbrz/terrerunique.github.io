@@ -441,6 +441,9 @@ h1 {
     padding-bottom: 2px;
 }
 
+.pages-formats .currentpage {
+    font-weight: bold;
+}
 
 .pages-formats .currentpage .nav-link:after{
     display: block;
