@@ -37,7 +37,7 @@
                         </li>
                         <li class="separator"></li>
                         <li class="nav-item currentpage">
-                            <a class="nav-link" href="champions.html">FORMAT CLASSIQUE</a>
+                            <a class="nav-link" href="ressources.html">FORMAT CLASSIQUE</a>
                         </li>
                         <li class="nav-item notcurrent">
                             <a class="nav-link" href="../format-libre.html">FORMAT LIBRE</a>
@@ -52,13 +52,9 @@
     
     <div id="content" class="headernotfixed">
         <h1>Format Classique</h1>
-        <h2>Champions</h2>
+        <h2>Ressources</h2>
         <p>En développement !</p>
-        <form class="form-inline d-flex justify-content-center md-form form-sm mt-0">
-            <img id="fieldChampIcon" class="search" src="../files/images/magnifying-glass.png">
-            <input id="fieldChamp" onkeyup="champ_search()" class="form-control form-control-sm ml-3" type="text" placeholder="Rechercher un champion" aria-label="Search">
-          </form>
-        <div id="champion-list"></div>
+      
     </div>
 
     <footer>
@@ -66,67 +62,6 @@
         <p class="footer-text">Riot Games ne soutient ni ne sponsorise ce projet.</p>
     </footer>
 
-    <script>
-        // Script pour récupérer les champions depuis l'api champions.json
-        $(document).ready(function() {	   
-            var index = 0;
-                $.getJSON('https://terrerunique.github.io/files/data/champions.json', function(champion) {
-                    $.each(champion, function(i, champ) {
-                        $('#champion-list').append(
-                            '<div id="champion-' + index + '" class="champion">'+ 
-                                '<div class="champion-header">'+
-                                    '<img src="' + champ.iconechamp + '" alt="Icone de ' + champ.nomchamp + '" class="champion-icone">'+
-                                    '<h2 class="champion-name champ-search">' + champ.nomchamp + '</h2>'+
-                                '</div>'+
-                                '<div class="champion-content">'+
-                                    '<div class="champion-spell">'+
-                                        '<div class="champion-spell-header">'+
-                                            '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-spell-icone">'+
-                                            '<h3 class="champion-spell-nom">' + champ.nomsort1 + '</h3>'+
-                                        '</div>'+
-                                        '<p class="champion-spell-desc">' + champ.descsort1 + '</p>'+
-                                    '</div>'+
-                                    '<div class="champion-spell">'+
-                                        '<div class="champion-spell-header">'+
-                                            '<img src="' + champ.iconesort2 + '" alt="Icone du sort ' + champ.nomsort2 + '" class="champion-spell-icone">'+
-                                            '<h3 class="champion-spell-nom">' + champ.nomsort2 + '</h3>'+
-                                        '</div>'+
-                                        '<p class="champion-spell-desc">' + champ.descsort2 + '</p>'+
-                                    '</div>'+
-                                '</div>'+
-                            '</div>');
-                            index++;
-                    });
-                });
-            });
-    </script>
-    <script>
-        // Fonction qui permet de rechercher un champion dans la liste
-        function champ_search() {
-            var text;
-            var filter = $('#fieldChamp').val().toUpperCase();
-            for (var i = 0; i < $('.champion').length; i++) {
-                text = "";
-                $('#champion-' + i + ' .champ-search').each(function() {
-                    text+= $(this).text() + " ";
-                });
-                if (text.toUpperCase().indexOf(filter) > -1) {
-                    $('#champion-' + i).show();
-                } else {
-                    $('#champion-' + i).hide();
-                }
-            }
-        }
-    </script>
-    <script>
-        // Fonction qui gère l'affichage du champ de recherche
-        $('#fieldChamp').focus(function() {
-            $('#fieldChampIcon').addClass('focused');
-        }).
-        blur(function() {
-            $('#fieldChampIcon').removeClass('focused');
-        });
-    </script>
     <script>
         // When the user scrolls the page, execute stickOnScroll
         window.onscroll = function() {stickOnScroll()};
