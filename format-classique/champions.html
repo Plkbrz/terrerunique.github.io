@@ -166,7 +166,6 @@
             $(".r-type").click(function() {
                 $(".r-type").removeClass("checked");
                 $(this).addClass("checked");
-                console.log($('.r-type.checked label').text());
                 if ($('.r-type.checked label').text() == "Tous") {
                     $('#dropdownType button').text("Dégâts");
                 } else {
