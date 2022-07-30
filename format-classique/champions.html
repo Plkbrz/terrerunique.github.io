@@ -73,7 +73,7 @@
             <img id="fieldChampIcon" class="search" src="../files/images/magnifying-glass.png">
             <input id="fieldChamp" onkeyup="champ_search()" class="form-control form-control-sm ml-3" type="text" placeholder="Rechercher un champion" aria-label="Search">
             <div class="dropdown" id="dropdownType">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownFilterTypeButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Type</button>
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownFilterTypeButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dégâts</button>
                 <div class="dropdown-menu" aria-labelledby="dropdownFilterTypeButton">
                     <div class="form-check radio dropdown-item r-type checked">
                         <input class="form-check-input display-none" type="radio" name="filterType" id="radioTypeAll">
@@ -166,7 +166,12 @@
             $(".r-type").click(function() {
                 $(".r-type").removeClass("checked");
                 $(this).addClass("checked");
-                $('#dropdownType button').text($(this).text());
+                console.log($('.r-type.checked label').text());
+                if ($('.r-type.checked label').text() == "Tous") {
+                    $('#dropdownType button').text("Dégâts");
+                } else {
+                    $('#dropdownType button').text($(this).text());
+                }
                 event.stopPropagation(); // Empèche le dropdown de se fermer en cliquant
                 champ_search();
             });
