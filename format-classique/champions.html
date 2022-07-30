@@ -135,20 +135,20 @@
     <script>
         // Fonction qui permet de rechercher un champion dans la liste
         function champ_search() {
-            var filtreType = "type-" + $('.r-type.checked label').text();
-
             var text;
-            var filter = $('#fieldChamp').val().toUpperCase();
-            
+            var filter = $('#fieldChamp').val().toUpperCase(); // Recherche par nom
+            var filtreType = "type-" + $('.r-type.checked label').text(); // Récupère le filtre par type
             for (var i = 0; i < $('.champion').length; i++) {
                 text = "";
                 $('#champion-' + i + ' .champ-search').each(function() {
                     text+= $(this).text() + " ";
                 });
                 if (text.toUpperCase().indexOf(filter) > -1) {
+                    // Filtre nom
                     if (filtreType == "type-Tous") {
                         $('#champion-' + i).show();
                     } else {
+                        // Filtre type
                         if($('#champion-' + i).hasClass(filtreType)) {
                             $('#champion-' + i).show();
                         } else {
