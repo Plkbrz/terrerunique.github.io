@@ -473,3 +473,7 @@ h1 {
 }
 
 /* Menu fixe fin */
+
+.type-img {
+    cursor: help;
+}

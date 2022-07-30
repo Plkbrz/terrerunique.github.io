@@ -234,6 +234,10 @@
     background-color: var(--search-grey-bg-focus) !important;
 }
 
+#dropdownType button {
+    width: 90px !important;
+}
+
 .btn:focus {
     outline: none;
     box-shadow: none;
