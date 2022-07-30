@@ -477,3 +477,16 @@ h1 {
 .type-img {
     cursor: help;
 }
+
+
+.temporaire a:hover {
+    background-color: #c9c9c90b;
+    color: rgb(86, 226, 244) !important;
+}
+
+.temporaire {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
