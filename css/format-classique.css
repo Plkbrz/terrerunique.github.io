@@ -244,3 +244,8 @@
 }
 
 /* Forms recherche de champion fin */
+
+em.tag {
+    text-decoration: underline;
+    font-style: normal;
+}
