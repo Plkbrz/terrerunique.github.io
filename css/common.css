@@ -70,7 +70,62 @@ ul, li {
     height: 50px;
 }
 
+header .dropdown-menu .links {
+    width: 100%;
+    background-color: var(--nav-grey);
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
 
+header .dropdown-menu {
+    width: 100%;
+    background-color: transparent;
+    padding-top: 0px;
+    margin-top: 0;
+    border: none !important;
+}
+
+header .nav-item.currentpage .dropdown-menu {
+    margin-top: -4px !important;
+}
+
+header .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    z-index: 1099 !important;
+ }
+
+ header .dropdown:hover .dropdown-menu * {
+    z-index: 1099 !important;
+ }
+
+header .dropdown-menu .dropdown-item:hover {
+    background-color: var(--nav-grey-hover);
+    color: white !important;
+}
+
+header .dropdown-menu .dropdown-item.active {
+    background-color: var(--nav-grey);
+    font-weight: bold;
+    color: var(--violet-plkbrz) !important;
+}
+
+header .dropdown-menu:before {
+    border-top: transparent;
+    border-top-style: solid;
+    border-top-width: 4px;
+    width: 80%;
+    margin-left: 10%;
+
+    display:block;
+    content: '';
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+}
+
+header .dropdown:hover .dropdown-menu:before {
+    transform: scaleX(1);  
+}
 
 #sticky-header {
     display: flex;
