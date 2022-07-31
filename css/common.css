@@ -89,6 +89,10 @@ header .nav-item.currentpage .dropdown-menu {
     margin-top: -4px !important;
 }
 
+header .dropdown .dropdown-toggle {
+    cursor: default;
+}
+
 header .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0;
