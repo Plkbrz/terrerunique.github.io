@@ -13,7 +13,7 @@
     text-align: justify;
 }
 
-#content .floated-images .image-container {
+#content .floated-images.img-desktop .image-container {
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -209,7 +209,7 @@ p.title {
     padding-left: 10%;
 }
 
-.img-mobile *, .img-mobile {
+.img-mobile {
     display: none;
 }
 
@@ -228,6 +228,23 @@ p.title {
 
         width: 40%;
     }
+
+    .img-desktop {
+        display: none;
+    }
+
+    .img-mobile {
+        display: flex;
+        width: 100%;
+        height: auto;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .img-mobile .paysage-2 {
+        margin-top: 80px;
+    }
+
     
     .author.palkiabraz:before {
         margin: 0px 30% 15px 30%;
@@ -236,6 +253,22 @@ p.title {
     .author.palkiabraz:after {
         margin: 45px 30% 15px 30%;
     }
+
+    .author.kuuroneko:after {
+        content: '';
+        display: block;
+    
+        border-bottom: white;
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+
+        width: 40%;
+    }
+
+    .author.kuuroneko:after {
+        margin: 45px 30% 15px 30%;
+    }
+    
     .author .title {
         text-align: center;
     }
@@ -301,5 +334,21 @@ p.title {
     .link {
         margin: 3px;
         padding: 7px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .paysage-3 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .paysage-2 {
+        display: none;
+    }
+
+    .paysage-1 {
+        margin-top: 25px;
     }
 }

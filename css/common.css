@@ -371,6 +371,13 @@ h1 {
 
 /* Menu fixe début */
 
+@media only screen and (max-width: 991px) {
+    .pages-formats {
+        display: none;
+    }
+}
+
+
 .pages-formats ul {
 
     display: flex;
