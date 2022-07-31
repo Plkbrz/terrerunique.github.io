@@ -2,7 +2,16 @@
 function champ_search() {
     var text;
     var filter = $('#fieldChamp').val().toUpperCase(); // Recherche par nom
-    var filtreType = "type-" + $('.r-type.checked label').text(); // Récupère le filtre par type
+    var filtreType = "type-"; // Récupère le filtre par type
+    if($('.r-type.checked label').text() == "Physiques") {
+        filtreType += "AD";
+    } else {
+        if ($('.r-type.checked label').text() == "Magiques") {
+            filtreType += "AP";
+        } else {
+            filtreType += $('.r-type.checked label').text();
+        }
+    }
     var filtreTag = $('.r-tag.checked label').text().toLowerCase(); // Récupère le filtre par tag en minuscules
     for (var i = 0; i < $('.champion').length; i++) {
         text = "";

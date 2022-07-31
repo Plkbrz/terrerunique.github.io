@@ -84,7 +84,7 @@
 /* Forms recherche de champion début */
 
 #search-div {
-    padding-left: 15%;
+    padding-left: 13.5%;
     height: 50px !important;
 }
 
@@ -235,7 +235,7 @@
 }
 
 #dropdownType button {
-    width: 90px !important;
+    width: 120px !important;
 }
 
 .btn:focus {
