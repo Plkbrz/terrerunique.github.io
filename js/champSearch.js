@@ -3,16 +3,35 @@ function champ_search() {
     var text;
     var filter = $('#fieldChamp').val().toUpperCase(); // Recherche par nom
     var filtreType = "type-"; // Récupère le filtre par type
-    if($('.r-type.checked label').text() == "Physiques") {
-        filtreType += "AD";
-    } else {
-        if ($('.r-type.checked label').text() == "Magiques") {
+    switch($('.r-type.checked label').text()) {
+        case $('.r-type.physiques label').text():
+            filtreType += "AD";
+            break;
+        case $('.r-type.magiques label').text():
             filtreType += "AP";
-        } else {
-            filtreType += $('.r-type.checked label').text();
-        }
+            break;  
+        default:
+            filtreType += "Tous";
+            break;
     }
-    var filtreTag = $('.r-tag.checked label').text().toLowerCase(); // Récupère le filtre par tag en minuscules
+    var filtreTag = ""; // Récupère le filtre par tag en minuscules
+    switch ($('.r-tag.checked label').text()) {
+        case $('.r-tag.désarme label').text():
+            filtreTag = "désarme";
+            break;
+        case $('.r-tag.immobilise label').text():
+            filtreTag = "immobilise";
+            break;
+        case $('.r-tag.instantane label').text():
+            filtreTag = "instantané";
+            break;
+        case $('.r-tag.silence label').text():
+            filtreTag = "silence";
+            break;
+        default:
+            filtreTag = "tous";
+            break;
+    }
     for (var i = 0; i < $('.champion').length; i++) {
         text = "";
         $('#champion-' + i + ' .champ-search').each(function() {
