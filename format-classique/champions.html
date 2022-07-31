@@ -69,9 +69,13 @@
     
     <div id="content" class="headernotfixed">
         <p style="text-align: center;">En développement !</p>
-        <form class="form-inline d-flex md-form form-sm mt-0" id="search-div">
+
+        <form class="form-inline d-flex md-form form-sm mt-0" id="search-div"><!-- Input de recherche -->
+            <!-- Recherche par nom -->
             <img id="fieldChampIcon" class="search" src="../files/images/magnifying-glass.png">
             <input id="fieldChamp" onkeyup="champ_search()" class="form-control form-control-sm ml-3" type="text" placeholder="Rechercher un champion" aria-label="Search">
+            
+            <!-- Filtre par type de dégâts -->
             <div class="dropdown" id="dropdownType">
                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownFilterTypeButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dégâts</button>
                 <div class="dropdown-menu" aria-labelledby="dropdownFilterTypeButton">
@@ -89,7 +93,36 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Filtre par mots-clés -->
+            <div class="dropdown" id="dropdownTag">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownFilterTagButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mots-clés</button>
+                <div class="dropdown-menu" aria-labelledby="dropdownFilterTagButton">
+                    <div class="form-check radio dropdown-item r-tag checked">
+                        <input class="form-check-input display-none" type="radio" name="filterTag" id="radioTagAll">
+                        <label class="form-check-label" for="radioTagAll">Tous</label>
+                    </div>
+                    <div class="form-check radio dropdown-item r-tag">
+                        <input class="form-check-input display-none" type="radio" name="filterTag" id="radioTagInstantané">
+                        <label class="form-check-label" for="radioTagInstantané">Instantané</label>
+                    </div>
+                    <div class="form-check radio dropdown-item r-tag">
+                        <input class="form-check-input display-none" type="radio" name="filterTag" id="radioTagSilence">
+                        <label class="form-check-label" for="radioTagSilence">Silence</label>
+                    </div>
+                    <div class="form-check radio dropdown-item r-tag">
+                        <input class="form-check-input display-none" type="radio" name="filterTag" id="radioTagImmobilise">
+                        <label class="form-check-label" for="radioTagImmobilise">Immobilise</label>
+                    </div>
+                    <div class="form-check radio dropdown-item r-tag">
+                        <input class="form-check-input display-none" type="radio" name="filterTag" id="radioTagDésarme">
+                        <label class="form-check-label" for="radioTagDésarme">Désarme</label>
+                    </div>
+                </div>
+            </div>
+
         </form>
+
         <div id="champion-list"></div>
     </div>
 
@@ -98,155 +131,8 @@
         <p class="footer-text">Riot Games ne soutient ni ne sponsorise ce projet.</p>
     </footer>
 
-    <script>
-        // Script pour récupérer les champions depuis l'api champions.json
-        $(document).ready(function() {	   
-            var index = 0;
-            var tags = [];
-            var tagList = ["instantané", "silence", "désarme", "immobilise"];
-            var regexList = ["/instantané|instantanés|instantanée|instantanées/gi", "/silence/gi", "/désarme|désarmés|désarmé|désarmes/gi", "/immobilise|immobilisé|immobilises|immobilisés/gi"];
-            var tagDisplay = "";
-            var textSpellOne = "";
-            var textSpellTwo = "";
-            $.getJSON('https://terrerunique.github.io/files/data/champions.json', function(champion) {
-                $.each(champion, function(i, champ) {
-                    tags = [];
-                    textSpellOne = champ.descsort1;
-                    textSpellTwo = champ.descsort2;
-                    tagDisplay = "";
-                    // Oula c'est moche :d Va falloir refactor ça
-                    textSpellOne = textSpellOne.replace(/Instantané|instantanés|instantanée|instantanées/gi, function (x) {
-                        if(!tags.includes("instantané")) {
-                            tags.push("instantané");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellOne = textSpellOne.replace(/silence/gi, function (x) {
-                        if(!tags.includes("silence")) {
-                            tags.push("silence");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellOne = textSpellOne.replace(/désarme|désarmés|désarmé|désarmes/gi, function (x) {
-                        if(!tags.includes("désarme")) {
-                            tags.push("désarme");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellOne = textSpellOne.replace(/immobilise|immobilisé|immobilises|immobilisés/gi, function (x) {
-                        if(!tags.includes("immobilise")) {
-                            tags.push("immobilise");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellTwo = textSpellTwo.replace(/Instantané|instantanés|instantanée|instantanées/gi, function (x) {
-                        if(!tags.includes("instantané")) {
-                            tags.push("instantané");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellTwo = textSpellTwo.replace(/silence/gi, function (x) {
-                        if(!tags.includes("silence")) {
-                            tags.push("silence");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellTwo = textSpellTwo.replace(/désarme|désarmés|désarmé|désarmes/gi, function (x) {
-                        if(!tags.includes("désarme")) {
-                            tags.push("désarme");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-                    textSpellTwo = textSpellTwo.replace(/immobilise|immobilisé|immobilises|immobilisés/gi, function (x) {
-                        if(!tags.includes("immobilise")) {
-                            tags.push("immobilise");
-                        }
-                        return '<em class="tag">' + x + '</em>';
-                    });
-
-                    tagDisplay = tags.join(" ");
-                    $('#champion-list').append(
-                        '<div id="champion-' + index + '" class="champion type-' + champ.type + ' ' + tagDisplay + '">' + 
-                            '<div class="champion-header">'+
-                                '<img src="' + champ.iconechamp + '" alt="Icone de ' + champ.nomchamp + '" class="champion-icone">'+
-                                '<h2 class="champion-name champ-search">' + champ.nomchamp + '&nbsp;'+
-                                    '<img class="type-img" src="../files/images/' + champ.type + '.png" height="24" title="Dégâts ' + champ.type + '"></h2>'+
-                            '</div>'+
-                            '<div class="champion-content">'+
-                                '<div class="champion-spell">'+
-                                    '<div class="champion-spell-header">'+
-                                        '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-spell-icone">'+
-                                        '<h3 class="champion-spell-nom">' + champ.nomsort1 + '</h3>'+
-                                    '</div>'+
-                                    '<p class="champion-spell-desc">' + textSpellOne + '</p>'+
-                                '</div>'+
-                                '<div class="champion-spell">'+
-                                    '<div class="champion-spell-header">'+
-                                        '<img src="' + champ.iconesort2 + '" alt="Icone du sort ' + champ.nomsort2 + '" class="champion-spell-icone">'+
-                                        '<h3 class="champion-spell-nom">' + champ.nomsort2 + '</h3>'+
-                                    '</div>'+
-                                    '<p class="champion-spell-desc">' + textSpellTwo + '</p>'+
-                                '</div>'+
-                            '</div>'+
-                        '</div>');
-                    index++;
-                });
-            });
-        });
-    </script>
-    <script>
-        // Fonction qui permet de rechercher un champion dans la liste
-        function champ_search() {
-            var text;
-            var filter = $('#fieldChamp').val().toUpperCase(); // Recherche par nom
-            var filtreType = "type-" + $('.r-type.checked label').text(); // Récupère le filtre par type
-            for (var i = 0; i < $('.champion').length; i++) {
-                text = "";
-                $('#champion-' + i + ' .champ-search').each(function() {
-                    text+= $(this).text() + " ";
-                });
-                if (text.toUpperCase().indexOf(filter) > -1) {
-                    // Filtre nom
-                    if (filtreType == "type-Tous") {
-                        $('#champion-' + i).show();
-                    } else {
-                        // Filtre type
-                        if($('#champion-' + i).hasClass(filtreType)) {
-                            $('#champion-' + i).show();
-                        } else {
-                            $('#champion-' + i).hide();
-                        }
-                    }
-                } else {
-                    $('#champion-' + i).hide();
-                }
-            }
-        }
-
-        // Fonction qui permet de filtrer les champions par type
-        $(function() {
-            $(".r-type").click(function() {
-                $(".r-type").removeClass("checked");
-                $(this).addClass("checked");
-                if ($('.r-type.checked label').text() == "Tous") {
-                    $('#dropdownType button').text("Dégâts");
-                } else {
-                    $('#dropdownType button').text($(this).text());
-                }
-                event.stopPropagation(); // Empèche le dropdown de se fermer en cliquant
-                champ_search();
-            });
-        });
-    </script>
-    <script>
-        // Fonction qui gère l'affichage du champ de recherche
-        $('#fieldChamp').focus(function() {
-            $('#fieldChampIcon').addClass('focused');
-        }).
-        blur(function() {
-            $('#fieldChampIcon').removeClass('focused');
-        });
-    </script>
+    <script src="../js/getChamps.js"></script>
+    <script src="../js/champSearch.js"></script>
     <script src="../js/stickynavbar.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
