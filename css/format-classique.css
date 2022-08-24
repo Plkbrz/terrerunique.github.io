@@ -52,8 +52,6 @@
     justify-content: center;
     
     width: 100%;
-    height: 100%;
-    padding-left: 25px;
 }
 
 .champion-spell {
@@ -260,9 +258,6 @@ em.tag {
     font-style: normal;
 }
 
-
-
-
 .champion-tag-list {
     position: absolute;
     left: 80%;
@@ -293,4 +288,26 @@ em.tag {
 
 .champion-tag * {
     text-align: center;
+}
+
+.icon-dmg {
+    position: relative;
+    width: 100px;
+    left: -27px;
+    height: 24px;
+    align-self: center;
+    display: block;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    cursor:help;
+}
+
+.icon-dmg.dmg-AP {
+    background-image: url("../files/images/AP.png");
+}
+
+.icon-dmg.dmg-AD {
+    background-image: url("../files/images/AD.png");
 }

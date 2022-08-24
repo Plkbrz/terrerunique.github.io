@@ -83,9 +83,9 @@ $(document).ready(function() {
                     '<div class="champion-header">'+
                         '<img src="' + champ.iconechamp + '" alt="Icone de ' + champ.nomchamp + '" class="champion-icone">'+
                         '<h2 class="champion-name champ-search">' + champ.nomchamp + '&nbsp;'+
-                            '<img class="type-img" src="../files/images/' + champ.type + '.png" height="24" title="Dégâts ' + champ.type + '"></h2>'+
                     '</div>'+
                     '<div class="champion-content">'+
+                        '<div class="icon-dmg dmg-' + champ.type + '" title="Dégâts ' + champ.type + '"></div>'+
                         '<div class="champion-spell">'+
                             '<div class="champion-spell-header">'+
                                 '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-spell-icone">'+
