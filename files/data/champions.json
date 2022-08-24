@@ -1600,11 +1600,11 @@
         "nomchamplower": "udyr",
         "iconechamp": "https://terrerunique.github.io/files/images/champions/udyr.webp",
         "type": "AD",
-        "nomsort1": "Posture du tigre",
-        "descsort1": "Adopte la posture du tigre. Pour plus d'informations, se référer à l'annexe",
+        "nomsort1": "Entraînement du moine",
+        "descsort1": "Adopte une posture différente de la posture actuelle. Pour plus d'informations, se référer à l'annexe",
         "iconesort1": "https://terrerunique.github.io/files/images/champions/udyr1.webp",
-        "nomsort2": "Posture du phénix",
-        "descsort2": "Adopte la posture du phénix. Pour plus d'informations, se référer à l'annexe",
+        "nomsort2": "Esprit éveillé",
+        "descsort2": "Améliore la posture actuelle pendant deux tours. Pour plus d'informations, se référer à l'annexe",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/udyr2.webp"
     },
     {
