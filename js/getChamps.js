@@ -78,6 +78,12 @@ $(document).ready(function() {
                 tagHTMLDisplay = "";
             }
             tagDisplay = tags.join(" ");
+            var typeDisplay;
+            if (champ.type == "AD") {
+                typeDisplay = "Physiques";
+            } else {
+                typeDisplay = "Magiques";
+            }
             $('#champion-list').append(
                 '<div id="champion-' + index + '" class="champion type-' + champ.type + ' ' + tagDisplay + '">' + 
                     '<div class="champion-header">'+
@@ -85,7 +91,7 @@ $(document).ready(function() {
                         '<h2 class="champion-name champ-search">' + champ.nomchamp + '&nbsp;'+
                     '</div>'+
                     '<div class="champion-content">'+
-                        '<div class="icon-dmg dmg-' + champ.type + '" title="Dégâts ' + champ.type + '"></div>'+
+                        '<div class="icon-dmg dmg-' + champ.type + '" title="Dégâts ' + typeDisplay + '"></div>'+
                         '<div class="champion-spell">'+
                             '<div class="champion-spell-header">'+
                                 '<img src="' + champ.iconesort1 + '" alt="Icone du sort ' + champ.nomsort1 + '" class="champion-spell-icone">'+
