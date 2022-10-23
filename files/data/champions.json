@@ -6,7 +6,7 @@
         "type": "AD",
         "nomsort1": "Épée des Darkin",
         "descsort1": "Inflige 1DAD à un ennemi. Peut être relancé sans coût jusqu'à deux fois si le sort précédent est réussi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/aatrox1.webp"
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/aatrox1.webp",
         "nomsort2": "Fossoyeur des mondes (Ultime)",
         "descsort2": "Les attaques d'Aatrox rendent des Points de Vie équivalents aux dégâts infligés pendant deux tours",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/aatrox2.webp"
