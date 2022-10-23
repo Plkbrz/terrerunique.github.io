@@ -6,7 +6,7 @@
         "type": "AD",
         "nomsort1": "Épée des Darkin",
         "descsort1": "Inflige 1DAD à un ennemi. Peut être relancé sans coût jusqu'à deux fois si le sort précédent est réussi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/aatrox2.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/aatrox1.webp",
         "nomsort2": "Fossoyeur des mondes (Ultime)",
         "descsort2": "Les attaques d'Aatrox rendent des Points de Vie équivalents aux dégâts infligés pendant deux tours",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/aatrox2.webp"
@@ -1033,15 +1033,15 @@
     },
     {
         "nomchamp": "Norra",
-        "nomchamplower": "Norra",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/Norra.webp",
+        "nomchamplower": "norra",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/norra.webp",
         "type": "AP",
         "nomsort1": "Afflux de portails",
         "descsort1": "Invoque une fée avec 7 Points de Vie qui devient l'unique cible des prochaines attaques ennemies",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/Norra1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/norra1.webp",
         "nomsort2": "Collection éclectique (Ultime)",
         "descsort2": "Au début de votre tour, l'effet de ce sort devient l'effet d'un objet légendaire aléatoire de la Boutique des Objets",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/Norra2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/norra2.webp"
     },
     {
         "nomchamp": "Nunu & Willump",
