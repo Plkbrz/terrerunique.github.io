@@ -6,7 +6,7 @@
         "type": "AD",
         "nomsort1": "Épée des Darkin",
         "descsort1": "Inflige 1DAD à un ennemi. Peut être relancé sans coût jusqu'à deux fois si le sort précédent est réussi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/aatrox1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/aatrox2.webp",
         "nomsort2": "Fossoyeur des mondes (Ultime)",
         "descsort2": "Les attaques d'Aatrox rendent des Points de Vie équivalents aux dégâts infligés pendant deux tours",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/aatrox2.webp"
@@ -110,1837 +110,1837 @@
     {
         "nomchamp": "Ashe",
         "nomchamplower": "ashe",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/aurelion_sol.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ashe.webp",
         "type": "AD",
         "nomsort1": "Salve",
         "descsort1": "Inflige 1DAD + 1 ou confère -1 Vitesse d'Attaque à tous les ennemis",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/aurelion_sol1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ashe1.webp",
         "nomsort2": "Flèche de cristal enchantée (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/aurelion_sol2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ashe2.webp"
     },
     {
         "nomchamp": "Aurelion Sol",
         "nomchamplower": "aurelion_sol",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/azir.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/aurelion_sol.webp",
         "type": "AP",
         "nomsort1": "Centre de l'univers",
         "descsort1": "Gagne une étoile orbitante autour d'Aurelion Sol",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/azir1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/aurelion_sol1.webp",
         "nomsort2": "Stellogénèse",
         "descsort2": "Inflige 1DAP + 1 par étoile consommée à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/azir2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/aurelion_sol2.webp"
     },
     {
         "nomchamp": "Azir",
         "nomchamplower": "azir",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/bard.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/azir.webp",
         "type": "AP",
         "nomsort1": "Dresse-toi !",
         "descsort1": "Invoque un soldat de sable auprès Azir. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/bard1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/azir1.webp",
         "nomsort2": "Partition impériale (Ultime)",
         "descsort2": "Inflige 1DAP + 1 par soldat de sable utilisé à un ennemi et empêche toute attaque contre Azir pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/bard2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/azir2.webp"
     },
     {
         "nomchamp": "Bard",
         "nomchamplower": "bard",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/bel_veth.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/bard.webp",
         "type": "AP",
         "nomsort1": "Instict du voyageur",
         "descsort1": "La prochaine attaque d'un autre allié inflige +1D6 supplémentaire",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/bel_veth1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/bard1.webp",
         "nomsort2": "Destin tempéré (Ultime)",
         "descsort2": "Empêche les personnages choisis d'attaquer et d'être attaqué pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/bel_veth2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/bard2.webp"
     },
     {
         "nomchamp": "Bel'Veth",
         "nomchamplower": "bel_veth",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/blitzcrank.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/bel_veth.webp",
         "type": "AD",
         "nomsort1": "Charge du Néant",
         "descsort1": "Inflige 1DAD + 1 à un ennemi différent jusqu'à quatre fois. Ne peut pas être relancé sur le même ennemi pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/blitzcrank1.webp",
-        "nomsort2": "Banquet infini",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/bel_veth1.webp",
+        "nomsort2": "Banquet infini (Ultime)",
         "descsort2": "Peut être lancé si un ennemi est mort pendant ce tour ou au tour précédent. Gagne +2 Vitesse d'Attaque pendant deux tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/blitzcrank2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/bel_veth2.webp"
     },
     {
         "nomchamp": "Blitzcrank",
         "nomchamplower": "blitzcrank",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/brand.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/blitzcrank.webp",
         "type": "AP",
         "nomsort1": "Grappin propulsé",
         "descsort1": "Immobilise et désarme un ennemi pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/brand1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/blitzcrank1.webp",
         "nomsort2": "Champ de stase (Ultime)",
         "descsort2": "Inflige 1DAP à tous les ennemis et les immobilise et lréduit au silence pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/brand2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/blitzcrank2.webp"
     },
     {
         "nomchamp": "Brand",
         "nomchamplower": "brand",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/braum.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/brand.webp",
         "type": "AP",
         "nomsort1": "Colonne de flammes",
         "descsort1": "Inflige 1DAP + 1 à un ennemi ",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/braum1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/brand1.webp",
         "nomsort2": "Pyrolyse (Ultime)",
         "descsort2": "Inflige 1DAP + 3 à un ennemi et se relance sur un autre ennemi avec un point de dégâts en moins jusqu'à zéro",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/braum2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/brand2.webp"
     },
     {
         "nomchamp": "Braum",
         "nomchamplower": "braum",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/caitlyn.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/braum.webp",
         "type": "AD",
         "nomsort1": "Bouclier humain",
         "descsort1": "Confère +1 Armure et +1 Résistance Magique à Braum et un allié",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/caitlyn1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/braum1.webp",
         "nomsort2": "Incassable",
         "descsort2": "Instantané. Annule les dégâts d'une attaque ciblée sur un allié ",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/caitlyn2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/braum2.webp"
     },
     {
         "nomchamp": "Caitlyn",
         "nomchamplower": "caitlyn",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/camille.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/caitlyn.webp",
         "type": "AD",
         "nomsort1": "Filet de calibre 90",
         "descsort1": "Immobilise et désarme un ennemi pendant un tour. Gagne ou perd une place en position d'initiative",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/camille1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/caitlyn1.webp",
         "nomsort2": "Tir chirurgical (Ultime)",
         "descsort2": "Inflige 1DAD + 1 à un ennemi par différence de position d'initiative entre Caitlyn et l'ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/camille2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/caitlyn2.webp"
     },
     {
         "nomchamp": "Camille",
         "nomchamplower": "camille",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/cassiopeia.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/camille.webp",
         "type": "AD",
         "nomsort1": "Protocole de précision",
         "descsort1": "Inflige 1DAD + 1 ou 1DAP + 1 à un ennemi. La prochaine utilisation du sort inflige avec le type de dégâts inutilisé",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/cassiopeia1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/camille1.webp",
         "nomsort2": "Ultimatum Hextech (Ultime)",
         "descsort2": "Camille ne peut pas subir de dégâts du dernier type utilisé par \"Protocole de précision\" pendant deux tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/cassiopeia2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/camille2.webp"
     },
     {
         "nomchamp": "Cassiopeia",
         "nomchamplower": "cassiopeia",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/cho_gath.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/cassiopeia.webp",
         "type": "AP",
         "nomsort1": "Bombe nocive",
         "descsort1": "Inflige 1DAP à un ennemi. Sous \"Poison\", lui retire l'effet et l'équivalent en Point de Ressource. Lui applique un effet \"Poison\"",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/cho_gath1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/cassiopeia1.webp",
         "nomsort2": "Morsure fatale",
         "descsort2": "Inflige 1DAP à un ennemi. Sous \"Poison\", lui retire l'effet et inflige le maximum de dégâts possible. Lui applique un effet \"Poison\"",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/cho_gath2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/cassiopeia2.webp"
     },
     {
         "nomchamp": "Cho'Gath",
         "nomchamplower": "cho_gath",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/corki.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/cho_gath.webp",
         "type": "AD",
         "nomsort1": "Carnivore",
         "descsort1": "Inflige 1DAD + 3 à un ennemi. Si l'ennemi est tué, rend la moitié en Points de Vie ",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/corki1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/cho_gath1.webp",
         "nomsort2": "Festin (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à un ennemi. Si l'ennemi est tué, augmente définitivement les points de vie de Cho'Gath d'un point",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/corki2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/cho_gath2.webp"
     },
     {
         "nomchamp": "Corki",
         "nomchamplower": "corki",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/darius.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/corki.webp",
         "type": "AD",
         "nomsort1": "Munitions Hextech",
         "descsort1": "Les trois prochaines attaques de Corki infligent +2 dégâts supplémentaires",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/darius1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/corki1.webp",
         "nomsort2": "Barrage de projectiles (Ultime)",
         "descsort2": "Inflige 1DAD + 1 à un ennemi. Lors de la troisième utilisation du sort, inflige 1DAD + 3 à la place",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/darius2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/corki2.webp"
     },
     {
         "nomchamp": "Darius",
         "nomchamplower": "darius",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/diana.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/darius.webp",
         "type": "AD",
         "nomsort1": "Décimation",
         "descsort1": "Inflige 1DAD à un ennemi. S'il a subi des dégâts lors de l'action précédente, inflige à tous les ennemis à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/diana1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/darius1.webp",
         "nomsort2": "Guillotine noxienne (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à un ennemi. S'il a subi de dégâts lors de l'action précédente, inflige 1DAD + 6 à la place",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/diana2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/darius2.webp"
     },
     {
         "nomchamp": "Diana",
         "nomchamplower": "diana",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/dr_mundo.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/diana.webp",
         "type": "AP",
         "nomsort1": "Croissant lunaire",
         "descsort1": "Inflige 1DAP + 2 à un ennemi. Gagne un effet \"Clair de lune\"",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/dr_mundo1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/diana1.webp",
         "nomsort2": "Attraction lunaire (Ultime)",
         "descsort2": "Inflige 1DAP + 2 par effet \"Clair de lune\" à tous les ennemis. Retire les effets \"Clair de lune\"",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/dr_mundo2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/diana2.webp"
     },
     {
         "nomchamp": "Dr. Mundo",
         "nomchamplower": "dr_mundo",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/draven.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/dr_mundo.webp",
         "type": "AD",
         "nomsort1": "Scie souillée",
         "descsort1": "Inflige 1DAD + 3 à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/draven1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/dr_mundo1.webp",
         "nomsort2": "Dosage maximal (Ultime)",
         "descsort2": "Rend tous les Points de Vie de Dr.Mundo",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/draven2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/dr_mundo2.webp"
     },
     {
         "nomchamp": "Draven",
         "nomchamplower": "draven",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/ekko.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/draven.webp",
         "type": "AD",
         "nomsort1": "League of Draven",
         "descsort1": "Gagne +1 Dégât d'Attaque pour chaque participation à une élimination durant l'aventure. Utilisable une fois par combat",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/ekko1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/draven1.webp",
         "nomsort2": "Hache tournoyante",
         "descsort2": "Inflige 1DAD + 1 à un ennemi. Ne coûte aucun Point de Ressource si le sort lancé précédent était \"Hache tournoyante\"",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/ekko2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/draven2.webp"
     },
     {
         "nomchamp": "Ekko",
         "nomchamplower": "ekko",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/elise.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ekko.webp",
         "type": "AP",
         "nomsort1": "Rétrobang",
         "descsort1": "Inflige 1DAP + 1 à un ennemi à ce tour, et au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/elise1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ekko1.webp",
         "nomsort2": "Chronofracture (Ultime)",
         "descsort2": "Sauvegarde un temps où Ekko peut revenir, avec les caractéristiques et bonus sauvegardés",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/elise2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ekko2.webp"
     },
     {
         "nomchamp": "Elise",
         "nomchamplower": "elise",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/evelynn.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/elise.webp",
         "type": "AP",
         "nomsort1": "Neurotoxine / Morsure venimeuse",
         "descsort1": "Inflige 1DAP à un ennemi. Modifie l'effet en fonction de la forme prise",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/evelynn1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/elise1.webp",
         "nomsort2": "Forme humaine / arachnéenne (Ultime)",
         "descsort2": "Transforme Elise en humaine ou en araignée. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/evelynn2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/elise2.webp"
     },
     {
         "nomchamp": "Evelynn",
         "nomchamplower": "evelynn",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/ezreal.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/evelynn.webp",
         "type": "AP",
         "nomsort1": "Ombre démoniaque",
         "descsort1": "Rend Evelynn invisible pendant deux tours. Elle ne peut pas être attaquée en étant invisible",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/ezreal1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/evelynn1.webp",
         "nomsort2": "Piques de haine",
         "descsort2": "Inflige 1DAP + 3 à un ennemi. Si Evelynn est invisible, inflige 3DAP + 3. Enlève l'invisibilité d'Evelynn",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/ezreal2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/evelynn2.webp"
     },
     {
         "nomchamp": "Ezreal",
         "nomchamplower": "ezreal",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/fiddlesticks.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ezreal.webp",
         "type": "AD",
         "nomsort1": "Flux essentiel",
         "descsort1": "Applique un effet \"Flux\" à un ennemi qui se retire lorsqu'il est frappé par une attaque. L'efffet 'Flux\" double les dégâts reçus",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/fiddlesticks1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ezreal1.webp",
         "nomsort2": "Transfert arcanique",
         "descsort2": "Inflige 1DAD à tous les ennemis qui ont un effet \"Flux\". Applique un effet \"Flux\" à un ennemi qui n'en a pas eu",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/fiddlesticks2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ezreal2.webp"
     },
     {
         "nomchamp": "Fiddlesticks",
         "nomchamplower": "fiddlesticks",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/fiora.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/fiddlesticks.webp",
         "type": "AP",
         "nomsort1": "Épouvantable épouvantail",
         "descsort1": "Invoque une effigie avec 3 Points de Vie qui lance les mêmes attaques que Fiddlesticks",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/fiora1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/fiddlesticks1.webp",
         "nomsort2": "Rafale de corbeaux (Ultime)",
         "descsort2": "Inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/fiora2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/fiddlesticks2.webp"
     },
     {
         "nomchamp": "Fiora",
         "nomchamplower": "fiora",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/fizz.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/fiora.webp",
         "type": "AD",
         "nomsort1": "Fente",
         "descsort1": "Inflige 1DAD + 1 à l'ennemi ayant le plus de Points de Vie et 1DAD - 1 à l'ennemi ayant le moins de Points de Vie",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/fizz1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/fiora1.webp",
         "nomsort2": "Riposte",
         "descsort2": "Instantané.  Fiora ne peut pas subir de dégâts pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/fizz2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/fiora2.webp"
     },
     {
         "nomchamp": "Fizz",
         "nomchamplower": "fizz",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/galio.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/fizz.webp",
         "type": "AP",
         "nomsort1": "Joueur",
         "descsort1": "Empêche Fizz d'attaquer et d'être attaqué pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/galio1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/fizz1.webp",
         "nomsort2": "Pêche au gros (Ultime)",
         "descsort2": "Inflige 3DAP - 1 à un ennemi au prochain tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/galio2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/fizz2.webp"
     },
     {
         "nomchamp": "Galio",
         "nomchamplower": "galio",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/gangplank.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/galio.webp",
         "type": "AP",
         "nomsort1": "Bouclier de Durand",
         "descsort1": "Galio ne peut pas subir de dégâts magiques pendant un tour. Force les ennemis à attaquer Galio pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/gangplank1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/galio1.webp",
         "nomsort2": "Entrée héroïque (Ultime)",
         "descsort2": "Confère sa Résistance Magique à un allié pendant un tour et inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/gangplank2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/galio2.webp"
     },
     {
         "nomchamp": "Gangplank",
         "nomchamplower": "gangplank",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/garen.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/gangplank.webp",
         "type": "AD",
         "nomsort1": "Pourparlers",
         "descsort1": "Inflige 1DAD + 2 à un ennemi. Gagne l'équivalent des dégâts en Pièces d'Or",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/garen1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/gangplank1.webp",
         "nomsort2": "Tir de barrage (Ultime)",
         "descsort2": "Inflige 1DAD à tous les ennemis. Pour 100 Pièces d'or, améliore ce sort définitivement. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/garen2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/gangplank2.webp"
     },
     {
         "nomchamp": "Garen",
         "nomchamplower": "garen",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/gnar.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/garen.webp",
         "type": "AD",
         "nomsort1": "Coup décisif",
         "descsort1": "Inflige 1DAD + 1 à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/gnar1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/garen1.webp",
         "nomsort2": "Justice de Demacia (Ultime)",
         "descsort2": "Inflige 1DAD + 5 à un ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/gnar2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/garen2.webp"
     },
     {
         "nomchamp": "Gnar",
         "nomchamplower": "gnar",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/gragas.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/gnar.webp",
         "type": "AD",
         "nomsort1": "Rage génique",
         "descsort1": "Transforme Gnar en Méga-Gnar ou inversement. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/gragas1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/gnar1.webp",
         "nomsort2": "Jet de boomerang / Jet de rocher",
         "descsort2": "Possède un effet différent en fonction de la transformation adoptée.",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/gragas2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/gnar2.webp"
     },
     {
         "nomchamp": "Gragas",
         "nomchamplower": "gragas",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/graves.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/gragas.webp",
         "type": "AP",
         "nomsort1": "Fût roulant",
         "descsort1": "Inflige 1DAP + 1 à un ennemi et ll'immobilise, le réduit au silence ou le désarme pendant un tour, choisi aléatoirement",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/graves1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/gragas1.webp",
         "nomsort2": "Rage d'ivorgne",
         "descsort2": "Gragas ne peut pas être immobilisé, réduit au silence ou désarmé, choisi aléatoirement, pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/graves2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/gragas2.webp"
     },
     {
         "nomchamp": "Graves",
         "nomchamplower": "graves",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/gwen.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/graves.webp",
         "type": "AD",
         "nomsort1": "Terminus",
         "descsort1": "Inflige 1DAD à un ennemi, puis 1DAD - 1 à tous les autres ennemis au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/gwen1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/graves1.webp",
         "nomsort2": "Écran de fumée",
         "descsort2": "Les ennemis doivent faire un test de Sagesse pour faire une action pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/gwen2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/graves2.webp"
     },
     {
         "nomchamp": "Gwen",
         "nomchamplower": "gwen",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/hecarim.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/gwen.webp",
         "type": "AP",
         "nomsort1": "Tchac, tchac !",
         "descsort1": "Inflige 1DAP + 6 à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/hecarim1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/gwen1.webp",
         "nomsort2": "Brume sacrée",
         "descsort2": "Instantané. Annule les attaques de base visant Gwen pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/hecarim2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/gwen2.webp"
     },
     {
         "nomchamp": "Hecarim",
         "nomchamplower": "hecarim",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/heimerdinger.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/hecarim.webp",
         "type": "AD",
         "nomsort1": "Charge dévastatrice",
         "descsort1": "Fait passer Hecarim en première position d'initiative pendant deux tours. Gagne +1 Dégâts d'Attaque par différence de position",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/heimerdinger1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/hecarim1.webp",
         "nomsort2": "Légion des ombres (Ultime)",
         "descsort2": "Inflige 1DAD à tous les ennemis. Si Hecarim est en première position d'initiative, inflige 3DAD à la place",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/heimerdinger2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/hecarim2.webp"
     },
     {
         "nomchamp": "Heimerdinger",
         "nomchamplower": "heimerdinger",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/illaoi.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/heimerdinger.webp",
         "type": "AP",
         "nomsort1": "Affinité Hextech",
         "descsort1": "Utilise un gadget. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/illaoi1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/heimerdinger1.webp",
         "nomsort2": "Amélioration ! (Ultime)",
         "descsort2": "Utilise un gadget amélioré. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/illaoi2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/heimerdinger2.webp"
     },
     {
         "nomchamp": "Illaoi",
         "nomchamplower": "illaoi",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/irelia.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/illaoi.webp",
         "type": "AD",
         "nomsort1": "Prophétesse d'un dieu ancestral",
         "descsort1": "Invoque un tentacule. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/irelia1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/illaoi1.webp",
         "nomsort2": "Épreuve de l'esprit",
         "descsort2": "Inflige 1DAD + 1 par tentacule à tous les ennemis. Consomme les tentacules",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/irelia2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/illaoi2.webp"
     },
     {
         "nomchamp": "Irelia",
         "nomchamplower": "irelia",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/ivern.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/irelia.webp",
         "type": "AD",
         "nomsort1": "Rush fatal",
         "descsort1": "Inflige 1DAD + 1 à un ennemi et le marque. S'il était marqué, peut être relancé sans coût sur un autre ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/ivern1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/irelia1.webp",
         "nomsort2": "Danse de défi",
         "descsort2": "Inflige 1DAD + 2 à tous les ennemis ayant une marque. Retire les marques",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/ivern2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/irelia2.webp"
     },
     {
         "nomchamp": "Ivern",
         "nomchamplower": "ivern",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/janna.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ivern.webp",
         "type": "AP",
         "nomsort1": "Ami de la forêt",
         "descsort1": "Invoque un monstre de la jungle. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/janna1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ivern1.webp",
         "nomsort2": "Marguerite ! (Ultime)",
         "descsort2": "Invoque Marguerite. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/janna2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ivern2.webp"
     },
     {
         "nomchamp": "Janna",
         "nomchamplower": "janna",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/jarvan_iv.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/janna.webp",
         "type": "AP",
         "nomsort1": "Vent hurlant",
         "descsort1": "Inflige 1DAP à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/jarvan_iv1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/janna1.webp",
         "nomsort2": "Mousson",
         "descsort2": "Rend tous les Points de Vie de tous les alliés",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/jarvan_iv2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/janna2.webp"
     },
     {
         "nomchamp": "Jarvan IV",
         "nomchamplower": "jarvan_iv",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/jax.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/jarvan_iv.webp",
         "type": "AD",
         "nomsort1": "Étendard démacien",
         "descsort1": "Révèle les ennemis cachés et les pièges. Gagne +1 Vitesse d'Attaque pendant deux tours",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/jax1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/jarvan_iv1.webp",
         "nomsort2": "Cataclysme (Ultime)",
         "descsort2": "Inflige 1DAD + 2 à tous les ennemis et les force à attaquer Jarvan IV pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/jax2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/jarvan_iv2.webp"
     },
     {
         "nomchamp": "Jax",
         "nomchamplower": "jax",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/jayce.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/jax.webp",
         "type": "AD",
         "nomsort1": "Frappe bondissante",
         "descsort1": "Inflige 1DAD + 2 à un ennemi. Si l'ennemi ne peut pas attaquer, inflige des dégâts doublés",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/jayce1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/jax1.webp",
         "nomsort2": "Contre-attaque",
         "descsort2": "Jax ne peut pas subir de dégâts pendant un tour. Tous les ennemis attaquant Jax ne peuvent pas attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/jayce2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/jax2.webp"
     },
     {
         "nomchamp": "Jayce",
         "nomchamplower": "jayce",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/jhin.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/jayce.webp",
         "type": "AD",
         "nomsort1": "Capaciteur Hextech",
         "descsort1": "Échange l'attaque de base, en dégâts physiques ou en dégâts magiques",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/jhin1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/jayce1.webp",
         "nomsort2": "Arme Mercury",
         "descsort2": "Convertit la Puissance en Dégâts d'Attaque, ou inversement. Inflige 1DAD ou 1DAP + 3 à un ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/jhin2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/jayce2.webp"
     },
     {
         "nomchamp": "Jhin",
         "nomchamplower": "jhin",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/jinx.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/jhin.webp",
         "type": "AD",
         "nomsort1": "Murmure",
         "descsort1": "Passe la Vitesse d'Attaque de Jhin à quatre au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/jinx1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/jhin1.webp",
         "nomsort2": "Rappel de rideau (Ultime)",
         "descsort2": "Inflige 1DAD + 1 à un ennemi. Peut être relancé sans coût jusqu'à trois fois. La quatrième attaque inflige 1DAD + 4",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/jinx2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/jhin2.webp"
     },
     {
         "nomchamp": "Jinx",
         "nomchamplower": "jinx",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kai_sa.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/jinx.webp",
         "type": "AD",
         "nomsort1": "Flip flap !",
         "descsort1": "Les attaques de base de Jinx infligent +2 dégâts supplémentaires",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kai_sa1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/jinx1.webp",
         "nomsort2": "Super roquette de la mort ! (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kai_sa2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/jinx2.webp"
     },
     {
         "nomchamp": "Kai'Sa",
         "nomchamplower": "kai_sa",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kalista.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kai_sa.webp",
         "type": "AD",
         "nomsort1": "Pluie d'Icathia",
         "descsort1": "Inflige 1DAD avec des dégâts répartis de manière voulue entre les ennemis. À 10 de Force, inflige 1DAD + 6 à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kalista1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kai_sa1.webp",
         "nomsort2": "Surpresseur",
         "descsort2": "Confère +1 Vitesse d'Attaque pendant un tour. À 10 de Force, Kai'Sa ne peut pas être attaquée par les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kalista2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kai_sa2.webp"
     },
     {
         "nomchamp": "Kalista",
         "nomchamplower": "kalista",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/karma.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kalista.webp",
         "type": "AD",
         "nomsort1": "Extirpation",
         "descsort1": "Instantané. Inflige 1DAD à un ennemi et lui applique une lance ou lui retire ses lances. Une lance retirée inflige 1DAD",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/karma1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kalista1.webp",
         "nomsort2": "Appel du destin (Ultime)",
         "descsort2": "En début de partie, Kalista se lie à un allié. Inflige des dégâts à un ennemi équivalents à la moyenne des Forces alliées",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/karma2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kalista2.webp"
     },
     {
         "nomchamp": "Karma",
         "nomchamplower": "karma",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/karthus.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/karma.webp",
         "type": "AP",
         "nomsort1": "Volonté concentrée",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour. Si vous avez lancé un sort au tour précédent, inflige 1DAP + 2",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/karthus1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/karma1.webp",
         "nomsort2": "Exaltation",
         "descsort2": "Confère un bouclier de 5 Points de Vie à un allié. Si vous avez lancé un sort au tour précédent, vous donne aussi le bouclier",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/karthus2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/karma2.webp"
     },
     {
         "nomchamp": "Karthus",
         "nomchamplower": "karthus",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kassadin.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/karthus.webp",
         "type": "AP",
         "nomsort1": "Dévastation",
         "descsort1": "Inflige 1DAP + 3 à un ennemi au tour suivant",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kassadin1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/karthus1.webp",
         "nomsort2": "Requiem (Ultime)",
         "descsort2": "Réduit de moitié les Points de Vie d'un ennemi au tour suivant",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kassadin2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/karthus2.webp"
     },
     {
         "nomchamp": "Kassadin",
         "nomchamplower": "kassadin",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/katarina.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kassadin.webp",
         "type": "AP",
         "nomsort1": "Orbe du Néant",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. Si l'ennemi a lancé un sort à sa dernière action, inflige 2DAP + 3 à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/katarina1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kassadin1.webp",
         "nomsort2": "Pulsation",
         "descsort2": "Inflige 1DAP + 1 pour chaque sort ennemi lancé pendant ce tour à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/katarina2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kassadin2.webp"
     },
     {
         "nomchamp": "Katarina",
         "nomchamplower": "katarina",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kayle.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/katarina.webp",
         "type": "AD",
         "nomsort1": "Voracité",
         "descsort1": "Récupère toutes les dagues. Inflige 1DAD + 1 par dague récupérée à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kayle1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/katarina1.webp",
         "nomsort2": "Lame rebondissante",
         "descsort2": "Inflige 1DAD à tous les ennemis, et lâche une dague pour chaque ennemi touché",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kayle2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/katarina2.webp"
     },
     {
         "nomchamp": "Kayle",
         "nomchamplower": "kayle",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kayn.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kayle.webp",
         "type": "AP",
         "nomsort1": "Ascension divine",
         "descsort1": "Inflige 1DAP par niveau atteint à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kayn1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kayle1.webp",
         "nomsort2": "Jugement divin (Ultime)",
         "descsort2": "Un allié ne peut pas subir de dégâts pendant un tour. Inflige 1DAP + 1 par niveau atteint à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kayn2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kayle2.webp"
     },
     {
         "nomchamp": "Kayn",
         "nomchamplower": "kayn",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kennen.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kayn.webp",
         "type": "AD",
         "nomsort1": "Faux des Darkin",
         "descsort1": "Transforme Kayn en Assassin de l'ombre ou en Darkin. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kennen1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kayn1.webp",
         "nomsort2": "Moisson cruelle",
         "descsort2": "Inflige 1DAD à un ennemi. Gagne un effet supplémentaire en fonction de la forme adoptée",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kennen2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kayn2.webp"
     },
     {
         "nomchamp": "Kennen",
         "nomchamplower": "kennen",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kha_zix.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kennen.webp",
         "type": "AP",
         "nomsort1": "Rush foudroyant",
         "descsort1": "Donne +3 dégâts supplémentaires à vos trois prochaines attaques",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kha_zix1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kennen1.webp",
         "nomsort2": "Maelström (Ultime)",
         "descsort2": "Inflige 1DAP à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kha_zix2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kennen2.webp"
     },
     {
         "nomchamp": "Kha'Zix",
         "nomchamplower": "kha_zix",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kindred.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kha_zix.webp",
         "type": "AD",
         "nomsort1": "Goût de la peur",
         "descsort1": "Inflige 1DAD + 3 à un ennemi. Si cet ennemi est le seul ennemi, inflige des dégâts doublés",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kindred1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kha_zix1.webp",
         "nomsort2": "Bond",
         "descsort2": "Inflige 1DAD + 1 à un ennemi. Si cet ennemi est le seul ennemi, l'empêche d'attaquer au prochain tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kindred2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kha_zix2.webp"
     },
     {
         "nomchamp": "Kindred",
         "nomchamplower": "kindred",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kled.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kindred.webp",
         "type": "AD",
         "nomsort1": "Terreur mortelle",
         "descsort1": "Inflige 1DAD + 1 et invoque Loup. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kled1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kindred1.webp",
         "nomsort2": "Repos d'agneau (Ultime)",
         "descsort2": "Aucun personnage ne peut mourir pendant un tour. Au début de votre prochain tour, rend 1D6 de Points de Vie à tous les personnages",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kled2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kindred2.webp"
     },
     {
         "nomchamp": "Kled",
         "nomchamplower": "kled",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/kog_maw.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kled.webp",
         "type": "AD",
         "nomsort1": "Skaarl, le lézard froussard",
         "descsort1": "Invoque Skaarl. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/kog_maw1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kled1.webp",
         "nomsort2": "Chaaaaaaaargez !!!",
         "descsort2": "Confère +1 Vitesse d'Attaque pendant deux tours. Si Skaarl est présent, confère +1 Vitesse d'Attaque à tous les alliés",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/kog_maw2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kled2.webp"
     },
     {
         "nomchamp": "Kog'Maw",
         "nomchamplower": "kog_maw",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/leblanc.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/kog_maw.webp",
         "type": "AD",
         "nomsort1": "Barrage bio-arcanique",
         "descsort1": "Double votre Vitesse d'Attaque au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/leblanc1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/kog_maw1.webp",
         "nomsort2": "Limon du Néant",
         "descsort2": "Fait passer la Vitesse d'Attaque de tous les ennemis à 1 pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/leblanc2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/kog_maw2.webp"
     },
     {
         "nomchamp": "Leblanc",
         "nomchamplower": "leblanc",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/lee_sin.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/leblanc.webp",
         "type": "AP",
         "nomsort1": "Image miroir",
         "descsort1": "Invoque une image miroir qui lance une copie de la prochaine attaque de Leblanc",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/lee_sin1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/leblanc1.webp",
         "nomsort2": "Distorsion",
         "descsort2": "Inflige 1DAP à un ennemi. Se relance sans coût au début de votre prochain tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/lee_sin2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/leblanc2.webp"
     },
     {
         "nomchamp": "Lee'Sin",
         "nomchamplower": "lee_sin",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/leona.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/lee_sin.webp",
         "type": "AD",
         "nomsort1": "Onde sonore",
         "descsort1": "Révèle les ennemis cachés et les pièges. Inflige 1DAD + 3 à l'ennemi attaquant en premier",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/leona1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/lee_sin1.webp",
         "nomsort2": "Trombe",
         "descsort2": "Révèle les ennemis cachés et les pièges. Inflige 1DAD + 3 à l'ennemi attaquant en dernier",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/leona2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/lee_sin2.webp"
     },
     {
         "nomchamp": "Leona",
         "nomchamplower": "leona",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/lillia.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/leona.webp",
         "type": "AD",
         "nomsort1": "Bouclier de l'aube",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/lillia1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/leona1.webp",
         "nomsort2": "Éruption solaire (Ultime)",
         "descsort2": "Empêche les ennemis d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/lillia2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/leona2.webp"
     },
     {
         "nomchamp": "Lillia",
         "nomchamplower": "lillia",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/lissandra.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/lillia.webp",
         "type": "AP",
         "nomsort1": "Attention, désolée !",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. S'il a un effet \"Somnolence\", inflige 1DAP + 5 à la place et lui retire l'effet",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/lissandra1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/lillia1.webp",
         "nomsort2": "Douce berceuse (Ultime)",
         "descsort2": "Empêche les ennemis d'attaquer pendant un tour et leur applique un effet \"Somnolence\"",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/lissandra2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/lillia2.webp"
     },
     {
         "nomchamp": "Lissandra",
         "nomchamplower": "lissandra",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/lucian.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/lissandra.webp",
         "type": "AP",
         "nomsort1": "Chemin glacial",
         "descsort1": "Inflige 1DAP +1 à un ennemi et empêche un autre ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/lucian1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/lissandra1.webp",
         "nomsort2": "Tombeau polaire (Ultime)",
         "descsort2": "Empêche un allié ou un ennemi d'attaquer et d'être attaqué pendant un tour et inflige 1DAP + 1 à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/lucian2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/lissandra2.webp"
     },
     {
         "nomchamp": "Lucian",
         "nomchamplower": "lucian",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/lulu.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/lucian.webp",
         "type": "AD",
         "nomsort1": "Pistolero",
         "descsort1": "Double les dégâts de la prochaine attaque de Lucian",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/lulu1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/lucian1.webp",
         "nomsort2": "Lumière perforante",
         "descsort2": "Inflige 1DAD + 1 à un ennemi et 1DAD - 1 à un autre ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/lulu2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/lucian2.webp"
     },
     {
         "nomchamp": "Lulu",
         "nomchamplower": "lulu",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/lux.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/lulu.webp",
         "type": "AP",
         "nomsort1": "Fantaisie",
         "descsort1": "Sur un allié, lui confère +1 Vitesse d'Attaque pendant un tour. Sur un ennemi, l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/lux1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/lulu1.webp",
         "nomsort2": "Croissance prodigieuse (Ultime)",
         "descsort2": "Double les Points de Vie actuels d'un allié et l'oblige à être la cible des ennemis pendant deux tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/lux2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/lulu2.webp"
     },
     {
         "nomchamp": "Lux",
         "nomchamplower": "lux",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/malphite.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/lux.webp",
         "type": "AP",
         "nomsort1": "Entrave de lumière",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/malphite1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/lux1.webp",
         "nomsort2": "Éclat final (Ultime)",
         "descsort2": "Inflige 1DAP + 3 à tous les ennemis au tour suivant",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/malphite2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/lux2.webp"
     },
     {
         "nomchamp": "Malphite",
         "nomchamplower": "malphite",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/malzahar.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/malphite.webp",
         "type": "AP",
         "nomsort1": "Éclat sismique",
         "descsort1": "Inflige 1DAP + 1 à un ennemi, lui confère -1 Vitesse d'Attaque et vous confère +1 Vitesse d'Attaque pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/malzahar1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/malphite1.webp",
         "nomsort2": "Force indomptable (Ultime)",
         "descsort2": "Inflige 1DAP à tous les ennemis et les empêche d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/malzahar2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/malphite2.webp"
     },
     {
         "nomchamp": "Malzahar",
         "nomchamplower": "malzahar",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/maokai.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/malzahar.webp",
         "type": "AP",
         "nomsort1": "Nuée du Néant",
         "descsort1": "Invoque un être du Néant avec 3 Points de Vie qui attaque un ennemi aléatoire, ou celui de \"Visions maléfiques\" s'il y en a",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/maokai1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/malzahar1.webp",
         "nomsort2": "Visions maléfiques",
         "descsort2": "Inflige 1DAP à un ennemi, puis 1D6 de dégâts pendant deux tours. Si l'ennemi meurt, relance ce sort sur un ennemi aléatoire",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/maokai2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/malzahar2.webp"
     },
     {
         "nomchamp": "Maokai",
         "nomchamplower": "maokai",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/maitre_yi.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/maokai.webp",
         "type": "AP",
         "nomsort1": "Jet d'arbrisseau",
         "descsort1": "Invoque un arbrisseau. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/maitre_yi1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/maokai1.webp",
         "nomsort2": "Emprise de la nature (Ultime)",
         "descsort2": "Empêche les ennemis d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/maitre_yi2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/maokai2.webp"
     },
     {
         "nomchamp": "Maitre Yi",
         "nomchamplower": "maitre_yi",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/miss_fortune.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/maitre_yi.webp",
         "type": "AD",
         "nomsort1": "Assaut éclair",
         "descsort1": "Inflige 2DAD à tous les ennemis. Inflige 1 point de dégâts en moins pour chaque ennemi touché",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/miss_fortune1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/maitre_yi1.webp",
         "nomsort2": "Style Wuju",
         "descsort2": "La prochaine attaque de Maître Yi inflige +1D6 supplémentaire                                ",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/miss_fortune2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/maitre_yi2.webp"
     },
     {
         "nomchamp": "Miss Fortune",
         "nomchamplower": "miss_fortune",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/mordekaiser.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/miss_fortune.webp",
         "type": "AD",
         "nomsort1": "Coeur volage",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Inflige +2 points de dégâts supplémentaires s'il n'était pas la cible de votre attaque précédente",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/mordekaiser1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/miss_fortune1.webp",
         "nomsort2": "Fanfaronne",
         "descsort2": "Passe la Vitesse d'Attaque de Miss Fortune à trois au prochain tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/mordekaiser2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/miss_fortune2.webp"
     },
     {
         "nomchamp": "Mordekaiser",
         "nomchamplower": "mordekaiser",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/morgana.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/mordekaiser.webp",
         "type": "AP",
         "nomsort1": "Oblitération",
         "descsort1": "Inflige 1DAP + 3 à un ennemi. Si cet ennemi n'a pas perdu de Points de Vie, inflige des dégâts doublés",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/morgana1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/mordekaiser1.webp",
         "nomsort2": "Royaume des morts (Ultime)",
         "descsort2": "Effectue une bataille entre Mordekaiser et un ennemi. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/morgana2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/mordekaiser2.webp"
     },
     {
         "nomchamp": "Morgana",
         "nomchamplower": "morgana",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nami.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/morgana.webp",
         "type": "AP",
         "nomsort1": "Entrave sombre",
         "descsort1": "Inflige 1DAP + 1 à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nami1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/morgana1.webp",
         "nomsort2": "Bouclier noir",
         "descsort2": "Instantané. Annule les dégâts de sorts visant un allié pendant un tour          ",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nami2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/morgana2.webp"
     },
     {
         "nomchamp": "Nami",
         "nomchamplower": "nami",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nasus.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nami.webp",
         "type": "AP",
         "nomsort1": "Prison aqueuse",
         "descsort1": "Inflige 1DAP à un ennemi, l'immobilise et le désarme pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nasus1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nami1.webp",
         "nomsort2": "Flux et reflux",
         "descsort2": "Inflige ou soigne 1DAP + 3 de Points de VIe, répartis de manière voulue entre les autres personnages",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nasus2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nami2.webp"
     },
     {
         "nomchamp": "Nasus",
         "nomchamplower": "nasus",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nautilus.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nasus.webp",
         "type": "AD",
         "nomsort1": "Mangeur d'âmes",
         "descsort1": "La prochaine attaque de Nasus rend des Points de Vie équivalents aux dégâts infligés",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nautilus1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nasus1.webp",
         "nomsort2": "Buveuse d'âmes",
         "descsort2": "Inflige 1DAD à un ennemi. Donne +1 dégât supplémentaire au sort",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nautilus2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nasus2.webp"
     },
     {
         "nomchamp": "Nautilus",
         "nomchamplower": "nautilus",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/neeko.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nautilus.webp",
         "type": "AD",
         "nomsort1": "Coup écrasant",
         "descsort1": "Inflige 1DAD à un ennemi et l'immobilise, le réduit au silence ou le désarme au choix",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/neeko1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nautilus1.webp",
         "nomsort2": "Abordage",
         "descsort2": "Empêche un ennemi d'attaquer pendant un tour, et l'oblige à attaquer Nautilus au tour suivant",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/neeko2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nautilus2.webp"
     },
     {
         "nomchamp": "Neeko",
         "nomchamplower": "neeko",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nidalee.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/neeko.webp",
         "type": "AP",
         "nomsort1": "Mirage inné",
         "descsort1": "Relance l'effet du dernier sort lancé par un autre allié",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nidalee1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/neeko1.webp",
         "nomsort2": "Métaclonage",
         "descsort2": "Copie les statistiques d'aventure et combat d'un allié pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nidalee2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/neeko2.webp"
     },
     {
         "nomchamp": "Nidalee",
         "nomchamplower": "nidalee",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nilah.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nidalee.webp",
         "type": "AP",
         "nomsort1": "Javelot / Mise à terre",
         "descsort1": "Inflige 1DAP à un ennemi. Modifie l'effet en fonction de la forme prise",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nilah1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nidalee1.webp",
         "nomsort2": "Aspect du cougar (Ultime)",
         "descsort2": "Transforme Nidalee en humaine ou en cougar. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nilah2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nidalee2.webp"
     },
     {
         "nomchamp": "Nilah",
         "nomchamplower": "nilah",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nocturne.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nilah.webp",
         "type": "AD",
         "nomsort1": "Synergie parfaite",
         "descsort1": "Augmente de 1D4 les soins alliés pendant un tour. Tout excès de soins est converti en bouclier pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nocturne1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nilah1.webp",
         "nomsort2": "Lame fluide",
         "descsort2": "Inflige 1DAD + 1 à un ennemi. Inflige +1 dégât supplémentaire par point de bouclier que possède Nilah",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nocturne2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nilah2.webp"
     },
     {
         "nomchamp": "Nocturne",
         "nomchamplower": "nocturne",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/nunu_et_willump.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nocturne.webp",
         "type": "AD",
         "nomsort1": "Crépuscule",
         "descsort1": "Inflige 1DAD à un ennemi et applique un effet \"Crépuscule\" à tous les ennemis jouant après pendant ce tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/nunu_et_willump1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nocturne1.webp",
         "nomsort2": "Paranoïa (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à un ennemi. S'il est sous l'effet \"Crépuscule\", inflige 1DAD + 5 à la place et lui retire l'effet",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/nunu_et_willump2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nocturne2.webp"
     },
     {
         "nomchamp": "Norra",
         "nomchamplower": "Norra",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/olaf.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/Norra.webp",
         "type": "AP",
         "nomsort1": "Afflux de portails",
         "descsort1": "Invoque une fée avec 7 Points de Vie qui devient l'unique cible des prochaines attaques ennemies",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/olaf1.webp",
-        "nomsort2": "Collection éclectique",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/Norra1.webp",
+        "nomsort2": "Collection éclectique (Ultime)",
         "descsort2": "Au début de votre tour, l'effet de ce sort devient l'effet d'un objet légendaire aléatoire de la Boutique des Objets",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/olaf2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/Norra2.webp"
     },
     {
         "nomchamp": "Nunu & Willump",
         "nomchamplower": "nunu_et_willump",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/orianna.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/nunu_et_willump.webp",
         "type": "AP",
         "nomsort1": "Voracité",
         "descsort1": "Inflige 1DAP + 1 à un ennemi et rend des Points de Vie équivalents aux dégâts infligés",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/orianna1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/nunu_et_willump1.webp",
         "nomsort2": "Boule de neige géante !",
         "descsort2": "Inflige 1DAP à un ennemi au prochain tour. Peut être relancé ce tour pour infliger +3 dégâts supplémentaires",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/orianna2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/nunu_et_willump2.webp"
     },
     {
         "nomchamp": "Olaf",
         "nomchamplower": "olaf",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/ornn.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/olaf.webp",
         "type": "AD",
         "nomsort1": "Déchireuse",
         "descsort1": "Inflige 1DAD + 3 à un ennemi et lui confère -1 Vitesse d'Attaque pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/ornn1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/olaf1.webp",
         "nomsort2": "Ragnarok (Ultime)",
         "descsort2": "Confère +1 Dégât d'Attaque pour chaque Point de Vie manquant pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/ornn2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/olaf2.webp"
     },
     {
         "nomchamp": "Orianna",
         "nomchamplower": "orianna",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/pantheon.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/orianna.webp",
         "type": "AP",
         "nomsort1": "Remontoir",
         "descsort1": "Invoque une sphère mécanique. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/pantheon1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/orianna1.webp",
         "nomsort2": "Ordre : Onde de choc (Ultime)",
         "descsort2": "Inflige 1DAP à tous les ennemis. Si sa sphère est invoquée, empêche également les ennemis d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/pantheon2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/orianna2.webp"
     },
     {
         "nomchamp": "Ornn",
         "nomchamplower": "ornn",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/poppy.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ornn.webp",
         "type": "AD",
         "nomsort1": "Fournaise",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. La prochain attaque qu'il subira inflige +3 dégâts supplémentaires",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/poppy1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ornn1.webp",
         "nomsort2": "Appel du dieu de la forge (Ultime)",
         "descsort2": "Inflige 1DAD à tous les ennemis. La prochaine attaque qu'ils subiront inflige +3 dégâts supplémentaires",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/poppy2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ornn2.webp"
     },
     {
         "nomchamp": "Pantheon",
         "nomchamplower": "pantheon",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/pyke.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/pantheon.webp",
         "type": "AD",
         "nomsort1": "Lance astrale",
         "descsort1": "Instantané. Inflige 1DAD + 1 à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/pyke1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/pantheon1.webp",
         "nomsort2": "Égide impénétrable",
         "descsort2": "Instantané. Annule une attaque ennemie",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/pyke2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/pantheon2.webp"
     },
     {
         "nomchamp": "Poppy",
         "nomchamplower": "poppy",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/qiyana.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/poppy.webp",
         "type": "AD",
         "nomsort1": "Charge héroïque",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Si cet ennemi n'a pas attaqué pendant ce tour, l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/qiyana1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/poppy1.webp",
         "nomsort2": "Verdict de la gardienne (Ultime)",
         "descsort2": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/qiyana2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/poppy2.webp"
     },
     {
         "nomchamp": "Pyke",
         "nomchamplower": "pyke",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/quinn.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/pyke.webp",
         "type": "AD",
         "nomsort1": "Harponnage",
         "descsort1": "Empêche l'ennemi d'utiliser des attaques de base ou des sorts pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/quinn1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/pyke1.webp",
         "nomsort2": "Exécution abyssale (Ultime)",
         "descsort2": "Élimine un ennemi ayant perdu plus de 90% de ses Points de Vie. Donne 1D6 - 1 de Pièces d'Or à tous les alliés",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/quinn2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/pyke2.webp"
     },
     {
         "nomchamp": "Qiyana",
         "nomchamplower": "qiyana",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/rakan.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/qiyana.webp",
         "type": "AP",
         "nomsort1": "Terraforce",
         "descsort1": "Obtient un élément. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/rakan1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/qiyana1.webp",
         "nomsort2": "Tour de force suprême (Ultime)",
         "descsort2": "Inflige 1DAP à un ennemi. Gagne un effet supplémentaire en fonction de l'élement obtenu",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/rakan2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/qiyana2.webp"
     },
     {
         "nomchamp": "Quinn",
         "nomchamplower": "quinn",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/rammus.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/quinn.webp",
         "type": "AD",
         "nomsort1": "Assaut aveuglant",
         "descsort1": "Appelle Valor. Inflige 1DAD + 1 et confère -1 Vitesse d'Attaque à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/rammus1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/quinn1.webp",
         "nomsort2": "En territoire ennemi (Ultime)",
         "descsort2": "Confère +2 Vitesse d'Attaque au prochain tour. Si Valor a été appelé à l'action précédente, la double à la place",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/rammus2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/quinn2.webp"
     },
     {
         "nomchamp": "Rakan",
         "nomchamplower": "rakan",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/rek_sai.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/rakan.webp",
         "type": "AD",
         "nomsort1": "Lien amoureux",
         "descsort1": "Double les dégâts de la prochaine attaque de Xayah. Le sort ne coûte aucun Point de Ressource si Xayah l'utilise aussi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/rek_sai1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/rakan1.webp",
         "nomsort2": "Entrée triomphale",
         "descsort2": "Immobilise et désarme les ennemis pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/rek_sai2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/rakan2.webp"
     },
     {
         "nomchamp": "Rammus",
         "nomchamplower": "rammus",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/rell.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/rammus.webp",
         "type": "AD",
         "nomsort1": "Provocation frénétique",
         "descsort1": "Oblige les ennemis à attaquer Rammus pendant un tour. Chaque attaque qu'il subit inflige 1DAR ou 1DMR à l'attaquant",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/rell1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/rammus1.webp",
         "nomsort2": "Frappe ascendante (Ultime)",
         "descsort2": "Inflige 1DAD à l'ennemi attaquant avant et après Rammus. Inflige 1DAD à tout ennemi attaquant Rammus pendant ce tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/rell2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/rammus2.webp"
     },
     {
         "nomchamp": "Rek'Sai",
         "nomchamplower": "rek_sai",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/renata_glasc.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/rek_sai.webp",
         "type": "AD",
         "nomsort1": "Enfouissement / Jaillissement",
         "descsort1": "Enterre ou déterre Rek'Sai du sol. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/renata_glasc1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/rek_sai1.webp",
         "nomsort2": "Morsure féroce / Tunnel",
         "descsort2": "Possède un effet différent en fonction de l'état de Rek'Sai. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/renata_glasc2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/rek_sai2.webp"
     },
     {
         "nomchamp": "Rell",
         "nomchamplower": "rell",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/renekton.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/rell.webp",
         "type": "AD",
         "nomsort1": "Ferromancie",
         "descsort1": "Possède un effet supplémentaire en fonction de la forme adoptée. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/renekton1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/rell1.webp",
         "nomsort2": "Magnétisme",
         "descsort2": "Instantané. Confère une portion déterminée de l'Armure et de la Résistance Magique de Rell à un autre allié",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/renekton2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/rell2.webp"
     },
     {
         "nomchamp": "Renata Glasc",
         "nomchamplower": "renata_glasc",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/rengar.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/renata_glasc.webp",
         "type": "AP",
         "nomsort1": "Poignée de main",
         "descsort1": "Choisissez un ennemi. Il inflige ses dégâts d'attaque basique maximum à un autre ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/rengar1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/renata_glasc1.webp",
         "nomsort2": "Prise de contrôle hostile (Ultime)",
         "descsort2": "Chaque ennemi attaque un autre ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/rengar2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/renata_glasc2.webp"
     },
     {
         "nomchamp": "Renekton",
         "nomchamplower": "renekton",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/riven.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/renekton.webp",
         "type": "AD",
         "nomsort1": "Destruction des faibles",
         "descsort1": "Inflige 1DAD + 1 à un ennemi et gagne un effet \"Fureur\". Sous \"Fureur\", rend 1D4 de Points de Vie et lui retire l'effet",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/riven1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/renekton1.webp",
         "nomsort2": "Dominus (Ultime)",
         "descsort2": "Double les Points de Vie actuels, gagne +2 Dégâts d'Attaque et gagne un effet \"Fureur\" pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/riven2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/renekton2.webp"
     },
     {
         "nomchamp": "Rengar",
         "nomchamplower": "rengar",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/rumble.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/rengar.webp",
         "type": "AD",
         "nomsort1": "Prédateur invisible",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Si c'est la première fois que Rengar l'attaque, inflige 1DAD + 3 à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/rumble1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/rengar1.webp",
         "nomsort2": "Esprit sauvage",
         "descsort2": "Inflige 1DAD + 1 par participation à une élimination pendant le combat à un ennemi.",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/rumble2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/rengar2.webp"
     },
     {
         "nomchamp": "Riven",
         "nomchamplower": "riven",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/ryze.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/riven.webp",
         "type": "AD",
         "nomsort1": "Ailes brisées",
         "descsort1": "Inflige 1DAD à un ennemi. Peut être relancé sans coût jusqu'à deux fois si un jet de Dextérité est réussi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/ryze1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/riven1.webp",
         "nomsort2": "Lame de l'exilée (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à tous les ennemis. Inflige 1DAD + 6 si \"Ailes birsées\" a réussi trois fois d'affilée au tour précédent",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/ryze2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/riven2.webp"
     },
     {
         "nomchamp": "Rumble",
         "nomchamplower": "rumble",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/samira.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/rumble.webp",
         "type": "AP",
         "nomsort1": "Lance-flammes",
         "descsort1": "Inflige 1DAP + 3 à un ennemi aléatoire. S'il meurt, relance le sort",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/samira1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/rumble1.webp",
         "nomsort2": "Éradication (Ultime)",
         "descsort2": "Inflige 1DAP à tous les ennemis. Le lancer de dé de dégâts est différent pour chaque ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/samira2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/rumble2.webp"
     },
     {
         "nomchamp": "Ryze",
         "nomchamplower": "ryze",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/sejuani.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ryze.webp",
         "type": "AP",
         "nomsort1": "Court-circuit",
         "descsort1": "Applique un effet \"Flux\" à un ennemi. Si cet ennemi a un effet \"Flux\", inflige 1DAP + 5 à la place et lui reitre l'effet \"Flux\"",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/sejuani1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ryze1.webp",
         "nomsort2": "Flux envoûtant",
         "descsort2": "Applique un effet \"Flux\" à un ennemi. Si cet ennemi a un effet \"Flux\", réduit sa Vitesse d'Attaque à 0 pendant un tour et lui retire l'effet",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/sejuani2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ryze2.webp"
     },
     {
         "nomchamp": "Samira",
         "nomchamplower": "samira",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/senna.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/samira.webp",
         "type": "AD",
         "nomsort1": "Panache",
         "descsort1": "Inflige 1DAD - 1 à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/senna1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/samira1.webp",
         "nomsort2": "Gâchette infernale (Ultime)",
         "descsort2": "Inflige 6DAD à tous les ennemis. N'est utilisable qu'en ayant enchaîné en alternant six fois des attaques de base et des sorts",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/senna2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/samira2.webp"
     },
     {
         "nomchamp": "Sejuani",
         "nomchamplower": "sejuani",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/seraphine.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/sejuani.webp",
         "type": "AP",
         "nomsort1": "Colère de l'hiver",
         "descsort1": "Inflige 1DAP + 1 à un ennemi. Gagne un effet \"Givre\"",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/seraphine1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/sejuani1.webp",
         "nomsort2": "Permafrost",
         "descsort2": "Inflige 1DAP + 1 par effet \"Givre\" à un ennemi et réduit sa Vitesse d'Attaque à 0 pendant un tour.",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/seraphine2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/sejuani2.webp"
     },
     {
         "nomchamp": "Senna",
         "nomchamplower": "senna",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/sett.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/senna.webp",
         "type": "AD",
         "nomsort1": "Absolution",
         "descsort1": "Gagne +1 Dégât d'Attaque ou +1 Puissance par personnage mort pendant ce combat. Utilisable une fois par combat",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/sett1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/senna1.webp",
         "nomsort2": "Ombre perforante",
         "descsort2": "Inflige 1DAD aux ennemis et soigne 1DAP tous les alliés attaquant avant Senna",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/sett2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/senna2.webp"
     },
     {
         "nomchamp": "Seraphine",
         "nomchamplower": "seraphine",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/shaco.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/seraphine.webp",
         "type": "AP",
         "nomsort1": "Note aïgue",
         "descsort1": "Inflige 1DAP à un ennemi à ce tour et dans trois tours",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/shaco1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/seraphine1.webp",
         "nomsort2": "Bis (Ultime)",
         "descsort2": "Empêche les ennemis d'attaquer pendant un tour pour chaque allié entre Seraphine et les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/shaco2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/seraphine2.webp"
     },
     {
         "nomchamp": "Sett",
         "nomchamplower": "sett",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/shen.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/sett.webp",
         "type": "AD",
         "nomsort1": "Coup cathartique",
         "descsort1": "Inflige 1DAP + 1 par Point de Vie perdu à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/shen1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/sett1.webp",
         "nomsort2": "Le clou du spectacle (Ultime)",
         "descsort2": "Inflige 1DAD à un ennemi et inflige 1DAD ou 1DAP de l'ennemi aux autres ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/shen2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/sett2.webp"
     },
     {
         "nomchamp": "Shaco",
         "nomchamplower": "shaco",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/shyvana.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/shaco.webp",
         "type": "AD",
         "nomsort1": "Boîte surprise",
         "descsort1": "Place une boîte surprise qui inflige 1DAP au prochain attaquant une fois par tour jusqu'à ce qu'elle soit détruite",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/shyvana1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/shaco1.webp",
         "nomsort2": "Hallucination (Ultime)",
         "descsort2": "Invoque un double de Shaco. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/shyvana2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/shaco2.webp"
     },
     {
         "nomchamp": "Shen",
         "nomchamplower": "shen",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/singed.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/shen.webp",
         "type": "AD",
         "nomsort1": "Rush des ombres",
         "descsort1": "Oblige les ennemis à attaquer Shen pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/singed1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/shen1.webp",
         "nomsort2": "Soutien indéfectible (Ultime)",
         "descsort2": "Les autres alliés ne subissent aucun dégât pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/singed2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/shen2.webp"
     },
     {
         "nomchamp": "Shyvana",
         "nomchamplower": "shyvana",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/sion.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/shyvana.webp",
         "type": "AD",
         "nomsort1": "Souffle de flammes ",
         "descsort1": "Possède un effet différent en fonction de la forme adoptée",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/sion1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/shyvana1.webp",
         "nomsort2": "Vol du dragon (Ultime)",
         "descsort2": "Transforme Shyvana en dragon pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/sion2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/shyvana2.webp"
     },
     {
         "nomchamp": "Singed",
         "nomchamplower": "singed",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/sivir.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/singed.webp",
         "type": "AP",
         "nomsort1": "Piste empoisonnée",
         "descsort1": "Inflige 1DAP à tous les ennemis",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/sivir1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/singed1.webp",
         "nomsort2": "Potion de démence (Ultime)",
         "descsort2": "Passe en première position d'initiative et donne +3 dégâts supplémentaires à \"Piste empoisonnée\" pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/sivir2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/singed2.webp"
     },
     {
         "nomchamp": "Sion",
         "nomchamplower": "sion",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/skarner.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/sion.webp",
         "type": "AD",
         "nomsort1": "Fracas meurtrier",
         "descsort1": "Inflige 1DAD + 3 à tous les ennemis au tour suivant",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/skarner1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/sion1.webp",
         "nomsort2": "Assaut inarrêtable (Ultime)",
         "descsort2": "Inflige 1DAD + 5 à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/skarner2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/sion2.webp"
     },
     {
         "nomchamp": "Sivir",
         "nomchamplower": "sivir",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/sona.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/sivir.webp",
         "type": "AD",
         "nomsort1": "Lame boomerang",
         "descsort1": "Inflige 1DAP + 1 à un ennemi à ce tour, et au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/sona1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/sivir1.webp",
         "nomsort2": "Ricochet",
         "descsort2": "La prochaine attaque de Sivir inflige des dégâts à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/sona2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/sivir2.webp"
     },
     {
         "nomchamp": "Skarner",
         "nomchamplower": "skarner",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/soraka.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/skarner.webp",
         "type": "AD",
         "nomsort1": "Flèches cristallines",
         "descsort1": "Place un cristal qui confère +1 Dégât d'Attaque et +1 Vitesse d'Attaque à Skarner, et révèle les ennemis cachés et les pièges",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/soraka1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/skarner1.webp",
         "nomsort2": "Empalement (Ultime)",
         "descsort2": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/soraka2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/skarner2.webp"
     },
     {
         "nomchamp": "Sona",
         "nomchamplower": "sona",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/swain.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/sona.webp",
         "type": "AP",
         "nomsort1": "Accord de puissance",
         "descsort1": "Joue un morceau de musique. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/swain1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/sona1.webp",
         "nomsort2": "Crescendo (Ultime)",
         "descsort2": "Empêche les ennemis d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/swain2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/sona2.webp"
     },
     {
         "nomchamp": "Soraka",
         "nomchamplower": "soraka",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/sylas.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/soraka.webp",
         "type": "AP",
         "nomsort1": "Infusion astrale",
         "descsort1": "Rend 1DAP de Points de Vie à un autre personnage allié",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/sylas1.webp",
-        "nomsort2": "Souhait",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/soraka1.webp",
+        "nomsort2": "Souhait (Ultime)",
         "descsort2": "Rend 1DAP + 1 de Points de Vie aux autres alliés",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/sylas2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/soraka2.webp"
     },
     {
         "nomchamp": "Swain",
         "nomchamplower": "swain",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/syndra.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/swain.webp",
         "type": "AP",
         "nomsort1": "Oeil de l'empire",
         "descsort1": "Révèle les ennemis cachés et les pièges. Inflige 1DAP + 1 à un ennemi.",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/syndra1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/swain1.webp",
         "nomsort2": "Capture",
         "descsort2": "Inflige 1DAP + 1 à un ennemi, l'immobilise et le désarme pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/syndra2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/swain2.webp"
     },
     {
         "nomchamp": "Sylas",
         "nomchamplower": "sylas",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/tahm_kench.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/sylas.webp",
         "type": "AP",
         "nomsort1": "Régicide",
         "descsort1": "Inflige 1DAP + 3 à un ennemi. Si son sort ultime est copié, inflige 1DAP + 5 et rend 1D4 de Points de Vie",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/tahm_kench1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/sylas1.webp",
         "nomsort2": "Détournement (Ultime)",
         "descsort2": "Copie le sort ultime d'un allié ou d'un ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/tahm_kench2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/sylas2.webp"
     },
     {
         "nomchamp": "Syndra",
         "nomchamplower": "syndra",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/taliyah.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/syndra.webp",
         "type": "AP",
         "nomsort1": "Sphère noire",
         "descsort1": "Gagne un sphère noire autour de Syndra",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/taliyah1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/syndra1.webp",
         "nomsort2": "Déchaînement de puissance (Ultime)",
         "descsort2": "Inflige 1DAP + 1 par sphère consommée à un ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/taliyah2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/syndra2.webp"
     },
     {
         "nomchamp": "Tahm Kench",
         "nomchamplower": "tahm_kench",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/talon.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/tahm_kench.webp",
         "type": "AD",
         "nomsort1": "Coup de langue",
         "descsort1": "Inflige 1DAD + 1 à un ennemi et lui applique un effet \"Goût acquis\"",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/talon1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/tahm_kench1.webp",
         "nomsort2": "Dévoration (Ultime)",
         "descsort2": "Élimine un ennemi ayant trois effets \"Goût acquis\"",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/talon2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/tahm_kench2.webp"
     },
     {
         "nomchamp": "Taliyah",
         "nomchamplower": "taliyah",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/taric.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/taliyah.webp",
         "type": "AP",
         "nomsort1": "Rafale filée",
         "descsort1": "Inflige 1DAP + 3 avec des dégâts répartis de manière voulue entre les ennemis",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/taric1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/taliyah1.webp",
         "nomsort2": "Défilage tellurique",
         "descsort2": "Au prochain tour, chaque fois qu'un ennemi effectue une attaque de base ou un sort avec un élément gestuel, lui inflige 1DAP + 2",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/taric2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/taliyah2.webp"
     },
     {
         "nomchamp": "Talon",
         "nomchamplower": "talon",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/teemo.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/talon.webp",
         "type": "AD",
         "nomsort1": "Ratissage",
         "descsort1": "Inflige 1DAP + 3 à un ennemi à ce tour, et au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/teemo1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/talon1.webp",
         "nomsort2": "Voie de l'assassin",
         "descsort2": "Passe en première position d'initiative pendant deux tours. Talon ne peut pas être attaqué pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/teemo2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/talon2.webp"
     },
     {
         "nomchamp": "Taric",
         "nomchamplower": "taric",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/thresh.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/taric.webp",
         "type": "AP",
         "nomsort1": "Bénédiction stellaire",
         "descsort1": "Rend 1DAP de Points de Vie à un allié. Si vous avez lancé \"Bénédiction stellaire\" à votre précédente action, rend 2DAP à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/thresh1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/taric1.webp",
         "nomsort2": "Lumière cosmique (Ultime)",
         "descsort2": "Un allié ne peut pas subir de dégâts pendant ce tour, et Taric ne peut pas subir de dégâts au tour suivant",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/thresh2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/taric2.webp"
     },
     {
         "nomchamp": "Teemo",
         "nomchamplower": "teemo",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/tristana.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/teemo.webp",
         "type": "AP",
         "nomsort1": "Fléchette aveuglante ",
         "descsort1": "Inflige 1DAP + 3 à un ennemi et l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/tristana1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/teemo1.webp",
         "nomsort2": "Piège nocif (Ultime)",
         "descsort2": "Place un champignon qui inflige 1DAP + 3 au prochain ennemi attaquant",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/tristana2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/teemo2.webp"
     },
     {
         "nomchamp": "Thresh",
         "nomchamplower": "thresh",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/trundle.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/thresh.webp",
         "type": "AD",
         "nomsort1": "Peine capitale",
         "descsort1": "Oblige un ennemi à attaquer Thresh ou l'empêche d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/trundle1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/thresh1.webp",
         "nomsort2": "Lien des ténèbres",
         "descsort2": "Instantané. Un allié ne peut pas subir de dégâts pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/trundle2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/thresh2.webp"
     },
     {
         "nomchamp": "Tristana",
         "nomchamplower": "tristana",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/tryndamere.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/tristana.webp",
         "type": "AD",
         "nomsort1": "Saut roquette",
         "descsort1": "Empêche Tristana d'attaquer et d'être attaqué pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/tryndamere1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/tristana1.webp",
         "nomsort2": "Charge explosive",
         "descsort2": "Inflige 1DAD + 1 par attaque de base faite sur un ennemi au prochain tour.",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/tryndamere2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/tristana2.webp"
     },
     {
         "nomchamp": "Trundle",
         "nomchamplower": "trundle",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/twisted_fate.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/trundle.webp",
         "type": "AD",
         "nomsort1": "Morsure",
         "descsort1": "Inflige 1DAD à un ennemi et gagne la moitié d'une de ses caractéristiques, choisie au hasard, arrondie au supérieur, pendant trois tours",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/twisted_fate1.webp",
-        "nomsort2": "Soumission",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/trundle1.webp",
+        "nomsort2": "Soumission (Ultime)",
         "descsort2": "Inflige 1DAD à un ennemi et gagne la moitié de ses caractéristiques, arrondies au supérieur, pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/twisted_fate2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/trundle2.webp"
     },
     {
         "nomchamp": "Tryndamere",
         "nomchamplower": "tryndamere",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/twitch.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/tryndamere.webp",
         "type": "AD",
         "nomsort1": "Vague de violence",
         "descsort1": "Gagne 1D4 d'effet \"Fureur\" pendant deux tours. Inflige 1DAD + 1 par effet \"Fureur\" à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/twitch1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/tryndamere1.webp",
         "nomsort2": "Rage inépuisable (Ultime)",
         "descsort2": "Instantané. Tryndamere ne peut pas mourir pendant deux tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/twitch2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/tryndamere2.webp"
     },
     {
         "nomchamp": "Twisted Fate",
         "nomchamplower": "twisted_fate",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/udyr.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/twisted_fate.webp",
         "type": "AP",
         "nomsort1": "Dé pipé",
         "descsort1": "Instantané. Peut changer la valeur d'un jet de dé d'un allié",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/udyr1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/twisted_fate1.webp",
         "nomsort2": "Bonne pioche",
         "descsort2": "Obtient une carte bleue, rouge ou jaune aléatoirement et utilise son effet. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/udyr2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/twisted_fate2.webp"
     },
     {
         "nomchamp": "Twitch",
         "nomchamplower": "twitch",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/urgot.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/twitch.webp",
         "type": "AD",
         "nomsort1": "Embuscade",
         "descsort1": "Empêche Twitch d'être attaqué pendant un tour et lui confère +1 Vitesse d'Attaque au prochain tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/urgot1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/twitch1.webp",
         "nomsort2": "Panique (Ultime)",
         "descsort2": "Inflige 1DAD + 1 par ennemi présent dans le combat à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/urgot2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/twitch2.webp"
     },
     {
         "nomchamp": "Udyr",
         "nomchamplower": "udyr",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/varus.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/udyr.webp",
         "type": "AD",
         "nomsort1": "Entraînement du moine",
         "descsort1": "Adopte une posture différente de la posture actuelle. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/varus1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/udyr1.webp",
         "nomsort2": "Esprit éveillé",
         "descsort2": "Améliore la posture actuelle pendant deux tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/varus2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/udyr2.webp"
     },
     {
         "nomchamp": "Urgot",
         "nomchamplower": "urgot",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/vayne.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/urgot.webp",
         "type": "AD",
         "nomsort1": "Torpille corrosive",
         "descsort1": "Inflige 1DAD + 3 à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/vayne1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/urgot1.webp",
         "nomsort2": "Règne de la terreur (Ultime)",
         "descsort2": "Élimine un ennemi ayant perdu plus de 50% de ses Points de Vie",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/vayne2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/urgot2.webp"
     },
     {
         "nomchamp": "Varus",
         "nomchamplower": "varus",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/veigar.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/varus.webp",
         "type": "AD",
         "nomsort1": "Flèche perforante",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Peut être relancé sans coût au tour suivant pour infliger 1DAD + 5",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/veigar1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/varus1.webp",
         "nomsort2": "Chaîne corruptrice (Ultime)",
         "descsort2": "Réduit la Vitesse d'Attaque de tous les ennemis à 0 pendant un tour. Ils peuvent esquiver le sort par un jet de Constitution",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/veigar2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/varus2.webp"
     },
     {
         "nomchamp": "Vayne",
         "nomchamplower": "vayne",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/vel_koz.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/vayne.webp",
         "type": "AD",
         "nomsort1": "Roulade",
         "descsort1": "Instantané. Annule une attaque ennemie visant Vayne",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/vel_koz1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/vayne1.webp",
         "nomsort2": "Carreaux d'argent",
         "descsort2": "Inflige 1DAD +1 à un ennemi. Si l'ennemi a plus de Points de Vie que Vayne, inflige 1DAD + 3",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/vel_koz2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/vayne2.webp"
     },
     {
         "nomchamp": "Veigar",
         "nomchamplower": "veigar",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/vex.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/veigar.webp",
         "type": "AP",
         "nomsort1": "Pouvoir maléfique phénoménal",
         "descsort1": "Confère +1 Puissance pour chaque sort lancé par Veigar pendant l'aventure. Utilisable une fois par combat",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/vex1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/veigar1.webp",
         "nomsort2": "Coup malin",
         "descsort2": "Inflige 1DAP + 1 par sort de Veigar lancé pendant le combat",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/vex2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/veigar2.webp"
     },
     {
         "nomchamp": "Vel'Koz",
         "nomchamplower": "vel_koz",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/vi.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/vel_koz.webp",
         "type": "AP",
         "nomsort1": "Fission du plasma",
         "descsort1": "Inflige 1DAP + 3 à deux ennemis. Si un ennemi a un effet \"Plasma\", lui retire l'effet et inflige 1DAP + 5. Applique un effet \"Plasma\"",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/vi1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/vel_koz1.webp",
         "nomsort2": "Désintégrateur de formes de vie (Ultime)",
         "descsort2": "Inflige 1DAP + 5 à tous les ennemis ayant un effet \"Plasma\"et leur retire l'effet. Applique un effet \"Plasma\"",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/vi2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/vel_koz2.webp"
     },
     {
         "nomchamp": "Vex",
         "nomchamplower": "vex",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/viego.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/vex.webp",
         "type": "AP",
         "nomsort1": "Malheur et désespoir",
         "descsort1": "Applique une effet \"Désespoir\" sur chaque ennemi ayant attaqué basiquement ou lancé un sort avec un composant gestuel",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/viego1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/vex1.webp",
         "nomsort2": "Déferlement d'ombre (Ultime)",
         "descsort2": "Inflige 1DAP + 2 par effet \"Désespoir\" à tous les ennemis",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/viego2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/vex2.webp"
     },
     {
         "nomchamp": "Vi",
         "nomchamplower": "vi",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/viktor.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/vi.webp",
         "type": "AD",
         "nomsort1": "Brise-coffre",
         "descsort1": "Inflige 2DAD à un ennemi au tour suivant",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/viktor1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/vi1.webp",
         "nomsort2": "Mise en demeure (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à un ennemi et l'empêche d'attaquer au tour suivant",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/viktor2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/vi2.webp"
     },
     {
         "nomchamp": "Viego",
         "nomchamplower": "viego",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/vladimir.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/viego.webp",
         "type": "AD",
         "nomsort1": "Assujettissement",
         "descsort1": "Gagne la moitié des caractéristiques d'un ennemi éliminé et copie son premier sort pendant trois tours",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/vladimir1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/viego1.webp",
         "nomsort2": "Coeur brisé (Ultime)",
         "descsort2": "Inflige 1DAD + 5 à un ennemi. N'a aucun temps de recharge si votre action précédente était le sort adverse",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/vladimir2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/viego2.webp"
     },
     {
         "nomchamp": "Viktor",
         "nomchamplower": "viktor",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/volibear.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/viktor.webp",
         "type": "AP",
         "nomsort1": "Glorieuse évolution",
         "descsort1": "Utilise une invention. Si un ennemi est mort pendant le combat, les inventions sont évoluées. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/volibear1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/viktor1.webp",
         "nomsort2": "Tempête du chaos (Ultime)",
         "descsort2": "Inverse les Dégâts d'Attaque et la Puissance des ennemis pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/volibear2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/viktor2.webp"
     },
     {
         "nomchamp": "Vladimir",
         "nomchamplower": "vladimir",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/warwick.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/vladimir.webp",
         "type": "AP",
         "nomsort1": "Pacte de sang",
         "descsort1": "Confère +1 Puissance par Point de Vie bonus pendant ce combat",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/warwick1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/vladimir1.webp",
         "nomsort2": "Transfusion",
         "descsort2": "Inflige 1DAP à un ennemi et confère +2 Points de Vie bonus définitivement",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/warwick2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/vladimir2.webp"
     },
     {
         "nomchamp": "Volibear",
         "nomchamplower": "volibear",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/wukong.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/volibear.webp",
         "type": "AP",
         "nomsort1": "Foudroiement",
         "descsort1": "Inflige 1DAP à tous les ennemis et confère 1D4 d'Armure et Résistance Magique",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/wukong1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/volibear1.webp",
         "nomsort2": "Tempête incarnée (Ultime)",
         "descsort2": "Détruit tous les pièges ennemis. Confère 1D6 de Points de Vie et 1D4 de Puissance pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/wukong2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/volibear2.webp"
     },
     {
         "nomchamp": "Warwick",
         "nomchamplower": "warwick",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/xayah.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/warwick.webp",
         "type": "AD",
         "nomsort1": "Dents de la bête",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Si l'ennemi a perdu plus de 50% de ses Points de Vie, double les dégâts. Soigne l'équivalent à Warwick",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/xayah1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/warwick1.webp",
         "nomsort2": "Contrainte infinie (Ultime)",
         "descsort2": "Inflige 1DAD + 3 au premier ennemi attaquant, annule son attaque et l'empêche d'attaquer pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/xayah2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/warwick2.webp"
     },
     {
         "nomchamp": "Wukong",
         "nomchamplower": "wukong",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/xerath.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/wukong.webp",
         "type": "AD",
         "nomsort1": "Guerrier espiègle",
         "descsort1": "Invoque un clone de Wukong pendant trois tours. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/xerath1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/wukong1.webp",
         "nomsort2": "Cyclone (Ultime)",
         "descsort2": "Inflige 1DAD à tous les ennemis. Empêche le premier et le dernier ennemi d'attaquer pendant ce tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/xerath2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/wukong2.webp"
     },
     {
         "nomchamp": "Xayah",
         "nomchamplower": "xayah",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/xin_zhao.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/xayah.webp",
         "type": "AD",
         "nomsort1": "Lien amoureux",
         "descsort1": "Annule la prochaine attaque visant Rakan. Le sort ne coûte aucun Point de Ressource si Rakan l'utilise aussi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/xin_zhao1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/xayah1.webp",
         "nomsort2": "Rafale de plumes (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à tous les ennemis. Xayah ne peut pas être attaqué pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/xin_zhao2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/xayah2.webp"
     },
     {
         "nomchamp": "Xerath",
         "nomchamplower": "xerath",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/yasuo.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/xerath.webp",
         "type": "AP",
         "nomsort1": "Rayon arcanique",
         "descsort1": "Inflige 1DAP + 3 à un ennemi. Peut être relancé sans coût au tour suivant pour toucher un ennemi supplémentaire",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/yasuo1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/xerath1.webp",
         "nomsort2": "Rite arcanique (Ultime)",
         "descsort2": "Inflige 1DAP à un ennemi, cinq fois",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/yasuo2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/xerath2.webp"
     },
     {
         "nomchamp": "Xin Zhao",
         "nomchamplower": "xin_zhao",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/yone.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/xin_zhao.webp",
         "type": "AD",
         "nomsort1": "Frappe des trois serres",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Si l'ennemi n'a pas été attaqué au tour précédent, inflige 1DAD + 3 à la place",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/yone1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/xin_zhao1.webp",
         "nomsort2": "Garde circulaire",
         "descsort2": "Inflige 1DAD à tous les ennemis. Xin Zhao ne peut subir des dégâts venant uniquement d'attaques de base pendant ce tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/yone2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/xin_zhao2.webp"
     },
     {
         "nomchamp": "Yasuo",
         "nomchamplower": "yasuo",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/yorick.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/yasuo.webp",
         "type": "AD",
         "nomsort1": "Tempête d'acier",
         "descsort1": "Gagne un effet \"Tempête\" et inflige 1DAD + 3 à un ennemi. À trois effets \"Tempête\", inflige à tous les ennemis",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/yorick1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/yasuo1.webp",
         "nomsort2": "Mur de vent",
         "descsort2": "Instantané. Annule une attaque ennemie visant Yasuo                         ",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/yorick2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/yasuo2.webp"
     },
     {
         "nomchamp": "Yone",
         "nomchamplower": "yone",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/yuumi.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/yone.webp",
         "type": "AD",
         "nomsort1": "Libération spirituelle",
         "descsort1": "Yone ne peut pas être attaqué pendant un tour. Sa prochaine attaque inflige +2 dégâts supplémentaires",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/yuumi1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/yone1.webp",
         "nomsort2": "Destin scellé (Ultime)",
         "descsort2": "Inflige 1DAD + 3 à tous les ennemis sauf pour le dernier ennemi attaquant qui subit 1DAD + 5 à la place",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/yuumi2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/yone2.webp"
     },
     {
         "nomchamp": "Yorick",
         "nomchamplower": "yorick",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/zac.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/yorick.webp",
         "type": "AD",
         "nomsort1": "Derniers sacrements",
         "descsort1": "Invoque quatre goules de brume. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/zac1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/yorick1.webp",
         "nomsort2": "Élégie des îles (Ultime)",
         "descsort2": "Invoque la Vierge de la brume. Pour plus d'informations, se référer à l'annexe",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/zac2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/yorick2.webp"
     },
     {
         "nomchamp": "Yuumi",
         "nomchamplower": "yuumi",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/zed.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/yuumi.webp",
         "type": "AP",
         "nomsort1": "Félin pour l'autre !",
         "descsort1": "Attache Yuumi à un allié. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/zed1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/yuumi1.webp",
         "nomsort2": "Zouuu !",
         "descsort2": "Soigne 1D6 de Points de Vie à un allié. Si Yuumi est attachée à cet allié, soigne 1D8 de Points de Vie à la place",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/zed2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/yuumi2.webp"
     },
     {
         "nomchamp": "Zac",
         "nomchamplower": "zac",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/zeri.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/zac.webp",
         "type": "AP",
         "nomsort1": "Fronde",
         "descsort1": "Empêche un ennemi d'attaquer pendant un tour",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/zeri1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/zac1.webp",
         "nomsort2": "Boing ! (Ultime)",
         "descsort2": "Inflige 1DAP + 4 à tous les ennemis et les empêche d'attaquer pendant un tour.",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/zeri2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/zac2.webp"
     },
     {
         "nomchamp": "Zed",
         "nomchamplower": "zed",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/ziggs.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/zed.webp",
         "type": "AD",
         "nomsort1": "Ombre vivante",
         "descsort1": "Invoque une ombre de Zed. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/ziggs1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/zed1.webp",
         "nomsort2": "Marque de la mort (Ultime)",
         "descsort2": "Inflige 1DAD + 3 par ombre à un ennemi",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/ziggs2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/zed2.webp"
     },
     {
         "nomchamp": "Zeri",
         "nomchamplower": "zeri",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/zilean.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/zeri.webp",
         "type": "AD",
         "nomsort1": "Rafale",
         "descsort1": "Inflige 1DAD à un ennemi, sept fois",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/zilean1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/zeri1.webp",
         "nomsort2": "Charge ionique",
         "descsort2": "Passe en première position d'intiative et donne +2 dégâts supplémentaires à vos attaques pendant deux tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/zilean2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/zeri2.webp"
     },
     {
         "nomchamp": "Ziggs",
         "nomchamplower": "ziggs",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/zoe.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/ziggs.webp",
         "type": "AP",
         "nomsort1": "Bombe rebondissante",
         "descsort1": "Inflige 1DAP + 3 à un ennemi ou la moitié des dégâts originels à deux ennemis (Arrondis au supérieur)",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/zoe1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/ziggs1.webp",
         "nomsort2": "Charge explosive",
         "descsort2": "Inflige 1DAP à tous les ennemis. Ils sont désarmés pendant un tour",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/zoe2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/ziggs2.webp"
     },
     {
         "nomchamp": "Zilean",
         "nomchamplower": "zilean",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/zyra.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/zilean.webp",
         "type": "AP",
         "nomsort1": "Temps dans une bouteille",
         "descsort1": "Fait monter d'un niveau un autre personnage allié",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/zyra1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/zilean1.webp",
         "nomsort2": "Retour temporel (Ultime)",
         "descsort2": "Un allié ne peut pas mourir pendant trois tours",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/zyra2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/zilean2.webp"
     },
     {
         "nomchamp": "Zoe",
         "nomchamplower": "zoe",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/zoe.webp",
         "type": "AP",
         "nomsort1": "Astro-pong !",
         "descsort1": "Inflige 1DAP + 2 par tour où le sort est relancé à un ennemi",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/zoe1.webp",
         "nomsort2": "Bulle soporifique",
         "descsort2": "Empêche un ennemi d'attaquer pendant un tour. La prochaine attaque qu'il subira infligera des dégâts doublés",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/zoe2.webp"
     },
     {
         "nomchamp": "Zyra",
         "nomchamplower": "zyra",
-        "iconechamp": "https://terrerunique.github.io/files/images/champions/.webp",
+        "iconechamp": "https://terrerunique.github.io/files/images/champions/zyra.webp",
         "type": "AP",
         "nomsort1": "Jardin de ronces",
         "descsort1": "Invoque une graine qui devient une plante au tour suivant. Pour plus d'informations, se référer à l'annexe",
-        "iconesort1": "https://terrerunique.github.io/files/images/champions/1.webp",
+        "iconesort1": "https://terrerunique.github.io/files/images/champions/zyra1.webp",
         "nomsort2": "Ronces étrangleuses (Ultime)",
         "descsort2": "Inflige 1DAP + 3 par plante poussée à tous les ennemis. Consomme les plantes poussées",
-        "iconesort2": "https://terrerunique.github.io/files/images/champions/2.webp"
+        "iconesort2": "https://terrerunique.github.io/files/images/champions/zyra2.webp"
     }
 ]
