@@ -547,7 +547,7 @@
         "nomsort1": "Vent hurlant",
         "descsort1": "Inflige 1DAP à un ennemi et l'empêche d'attaquer pendant un tour",
         "iconesort1": "https://terrerunique.github.io/files/images/champions/janna1.webp",
-        "nomsort2": "Mousson",
+        "nomsort2": "Mousson (Ultime)",
         "descsort2": "Rend tous les Points de Vie de tous les alliés",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/janna2.webp"
     },
@@ -751,7 +751,7 @@
         "nomsort1": "Skaarl, le lézard froussard",
         "descsort1": "Invoque Skaarl. Pour plus d'informations, se référer à l'annexe",
         "iconesort1": "https://terrerunique.github.io/files/images/champions/kled1.webp",
-        "nomsort2": "Chaaaaaaaargez !!!",
+        "nomsort2": "Chaaaaaaaargez !!! (Ultime)",
         "descsort2": "Confère +1 Vitesse d'Attaque pendant deux tours. Si Skaarl est présent, confère +1 Vitesse d'Attaque à tous les alliés",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/kled2.webp"
     },
@@ -1807,7 +1807,7 @@
         "nomsort1": "Frappe des trois serres",
         "descsort1": "Inflige 1DAD + 1 à un ennemi. Si l'ennemi n'a pas été attaqué au tour précédent, inflige 1DAD + 3 à la place",
         "iconesort1": "https://terrerunique.github.io/files/images/champions/xin_zhao1.webp",
-        "nomsort2": "Garde circulaire",
+        "nomsort2": "Garde circulaire (Ultime)",
         "descsort2": "Inflige 1DAD à tous les ennemis. Xin Zhao ne peut subir des dégâts venant uniquement d'attaques de base pendant ce tour",
         "iconesort2": "https://terrerunique.github.io/files/images/champions/xin_zhao2.webp"
     },
